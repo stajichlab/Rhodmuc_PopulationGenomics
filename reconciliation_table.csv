@@ -1,0 +1,320 @@
+strain,n_lanes,species,ploidy,MAT_type,Origin,Environment,full_samples_note,scope
+CCFEE_5036,2,R. mucilaginosa,haploid,A2,,,Too low,INCLUDE
+CHIFNET_12H1194,1,R. mucilaginosa,haploid,A2,China,blood,,INCLUDE
+CHIFNET_14NJ214,1,R. frigidialcoholis,diploid,A2,China,blood,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+DBVPG_10619,2,R. mucilaginosa,haploid,,Italy,plant,,INCLUDE
+DBVPG_10656,2,R. mucilaginosa,haploid,,,,,INCLUDE
+DBVPG_10780,2,R. mucilaginosa,haploid,,Italy,snow_ice,,INCLUDE
+DBVPG_10842,2,R. mucilaginosa,haploid,A2,Italy,snow_ice,,INCLUDE
+DBVPG_10882,2,R. mucilaginosa,haploid,,Italy,rock,,INCLUDE
+DBVPG_10886,2,R. mucilaginosa,haploid,,Italy,rock,,INCLUDE
+DBVPG_10937,2,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_3044,2,R. mucilaginosa,haploid,,Italy,unknown,,INCLUDE
+DBVPG_3045,3,R. mucilaginosa,diploid,2A2,Italy,food,,INCLUDE
+DBVPG_3090,1,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_3235,1,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_3236,3,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_3237,1,R. mucilaginosa,haploid,A2,Italy,food,,INCLUDE
+DBVPG_3238,1,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_3239,2,R. mucilaginosa,too low,,Italy,food,Too low,INCLUDE
+DBVPG_3381,1,R. mucilaginosa,haploid,A2,Italy,plant,,INCLUDE
+DBVPG_3382,1,R. mucilaginosa,haploid,A2,Italy,plant,,INCLUDE
+DBVPG_3383,1,R. mucilaginosa,haploid,A2,Italy,plant,,INCLUDE
+DBVPG_3384,1,R. mucilaginosa,haploid,A2,Italy,plant,,INCLUDE
+DBVPG_3442,1,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_3443,1,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_3444,1,R. mucilaginosa,diploid,2A2,Italy,food,,INCLUDE
+DBVPG_3445,2,R. mucilaginosa,too low,,Italy,food,Too low,INCLUDE
+DBVPG_3446,2,R. mucilaginosa,too low,,Italy,food,Too low,INCLUDE
+DBVPG_3538,2,R. mucilaginosa,too low,,Italy,soil,Too low,INCLUDE
+DBVPG_3774,1,R. mucilaginosa,haploid,A2,Italy,food,,INCLUDE
+DBVPG_3775,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_3776,1,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_3777,1,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_3778,1,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_3780,3,R. mucilaginosa,haploid,A2,Italy,soil,,INCLUDE
+DBVPG_3854,1,R. mucilaginosa,diploid,A1/A2,Italy,plant,,INCLUDE
+DBVPG_3855,1,R. mucilaginosa,diploid,A1/A2,Italy,plant,,INCLUDE
+DBVPG_3856,1,R. mucilaginosa,diploid,A1/A2,Italy,plant,,INCLUDE
+DBVPG_3857,1,R. mucilaginosa,diploid,A1/A2,Italy,plant,,INCLUDE
+DBVPG_3858,1,R. mucilaginosa,haploid,,Italy,insect,,INCLUDE
+DBVPG_3983,1,R. mucilaginosa,haploid,A2,Italy,cave,,INCLUDE
+DBVPG_3984,1,R. mucilaginosa,haploid,,Italy,cave,,INCLUDE
+DBVPG_4201,1,R. mucilaginosa,haploid,,Italy,plant,,INCLUDE
+DBVPG_4202,1,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_4203,1,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_4304,2,R. mucilaginosa,haploid,,Italy,unknown,,INCLUDE
+DBVPG_4376,1,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_4377,1,R. mucilaginosa,haploid,A2,Italy,marine,,INCLUDE
+DBVPG_4378,1,R. mucilaginosa,haploid,A2,Italy,food,,INCLUDE
+DBVPG_4379,2,R. mucilaginosa,too low,,Italy,food,Too low,INCLUDE
+DBVPG_4380,1,R. aff. mucilaginosa,diploid,A1/A2,Italy,sand,Rhodotorula aff mucilaginosa,BORDERLINE_AFF
+DBVPG_4408,1,R. mucilaginosa,haploid,,Italy,marine,,INCLUDE
+DBVPG_4466,1,R. mucilaginosa,haploid,,Italy,plant,,INCLUDE
+DBVPG_4534,3,R. aff. mucilaginosa,haploid,A1,Italy,sand,Rhodotorula aff mucilaginosa,BORDERLINE_AFF
+DBVPG_4618,3,R. mucilaginosa,haploid,A2,Italy,soil,,INCLUDE
+DBVPG_4669,3,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_4920,1,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_4945,1,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_4946,1,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_4947,1,R. mucilaginosa,haploid,,Italy,food,,INCLUDE
+DBVPG_4949,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_4950,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_4952,3,R. mucilaginosa,too low,,Italy,soil,Too low,INCLUDE
+DBVPG_4956,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_4957,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_4958,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_4962,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_4963,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_4964,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_5225,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_5226,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_5227,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_5228,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_5229,2,R. mucilaginosa,haploid,A2,Italy,soil,,INCLUDE
+DBVPG_5235,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_5236,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_5757,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_5758,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_5759,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_6091,2,R. mucilaginosa,haploid,,Italy,insect,,INCLUDE
+DBVPG_6092,2,R. mucilaginosa,haploid,,Italy,unknown,,INCLUDE
+DBVPG_6093,2,R. mucilaginosa,haploid,,Italy,unknown,,INCLUDE
+DBVPG_6094,3,R. mucilaginosa,too low,,Italy,unknown,Too low,INCLUDE
+DBVPG_6593,2,R. mucilaginosa,haploid,,Italy,unknown,,INCLUDE
+DBVPG_6649,3,R. mucilaginosa,too low,,Italy,plant,Too low,INCLUDE
+DBVPG_6660,2,R. frigidialcoholis,haploid,A2,Italy,food,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+DBVPG_6741,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_6742,2,R. mucilaginosa,haploid,,Italy,unknown,,INCLUDE
+DBVPG_6743,2,R. mucilaginosa,haploid,,Italy,soil,,INCLUDE
+DBVPG_6803,2,R. mucilaginosa,haploid,A2,Italy,soil,,INCLUDE
+DBVPG_7019,2,R. mucilaginosa,haploid,,Italy,unknown,,INCLUDE
+DBVPG_8043,2,R. aff. mucilaginosa,haploid,A1,Italy,water,Rhodotorula aff mucilaginosa,BORDERLINE_AFF
+EXF_10533,2,,,,,,Too low,NO_METADATA
+EXF_10630,1,,,,,,,NO_METADATA
+EXF_10854,1,,,,,,,NO_METADATA
+EXF_12265,1,,,,,,,NO_METADATA
+EXF_12281,2,R. mucilaginosa,haploid,A2,Sweden,Refrigerator,,INCLUDE
+EXF_12768,2,R. mucilaginosa,haploid,,UK,Washing_machine,,INCLUDE
+EXF_13250,2,R. frigidialcoholis,haploid,A2,Mexico,volcano,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+EXF_13255,2,R. frigidialcoholis,haploid,A2,Mexico,volcano,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+EXF_13260,2,R. mucilaginosa,haploid,,Mexico,volcano,,INCLUDE
+EXF_13261,2,R. mucilaginosa,haploid,,Mexico,volcano,,INCLUDE
+EXF_13500,1,,,,,,,NO_METADATA
+EXF_13599,2,R. mucilaginosa,haploid,,Norway,snow,,INCLUDE
+EXF_13600,2,R. mucilaginosa,haploid,,Greenland,air,,INCLUDE
+EXF_13601,2,R. frigidialcoholis,haploid,A2,Greenland,air,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+EXF_13602,2,R. mucilaginosa,haploid,,Greenland,air,,INCLUDE
+EXF_13604,2,R. mucilaginosa,haploid,,Austria,air,,INCLUDE
+EXF_14606,1,,,,,,,NO_METADATA
+EXF_1510,2,R. mucilaginosa,haploid,,Arctic,glacier_ice,,INCLUDE
+EXF_1565,2,R. mucilaginosa,haploid,A2,Arctic,Sea_ice,,INCLUDE
+EXF_1585,2,R. mucilaginosa,haploid,,Arctic,Seawater,,INCLUDE
+EXF_1676,2,R. mucilaginosa,haploid,,Arctic,glacier_ice,,INCLUDE
+EXF_1686,2,R. mucilaginosa,haploid,,Arctic,Glacial_leaching,,INCLUDE
+EXF_1695,2,R. mucilaginosa,haploid,,Arctic,glacier_ice,,INCLUDE
+EXF_1704,2,R. mucilaginosa,haploid,A2,Arctic,glacier_ice,,INCLUDE
+EXF_17335,1,,,,,,,NO_METADATA
+EXF_2251,2,R. mucilaginosa,haploid,,,,,INCLUDE
+EXF_3417,2,R. mucilaginosa,haploid,,Arctic,glacier_ice,,INCLUDE
+EXF_3530,2,R. mucilaginosa,haploid,,Arctic,glacier_ice,,INCLUDE
+EXF_3538,2,R. mucilaginosa,haploid,/,Arctic,glacier_ice,,INCLUDE
+EXF_3540,2,R. mucilaginosa,haploid,,Arctic,glacier_ice,,INCLUDE
+EXF_3544,2,R. mucilaginosa,haploid,,Arctic,glacier_ice,,INCLUDE
+EXF_3569,2,R. mucilaginosa,haploid,,Arctic,Glacial_water_with_sediment,,INCLUDE
+EXF_3592,2,R. mucilaginosa,haploid,,Arctic,glacier_ice,,INCLUDE
+EXF_3595,2,R. mucilaginosa,haploid,,Puerto Rico,microbial_mat,,INCLUDE
+EXF_3604,2,R. mucilaginosa,haploid,A2,Arctic,Glacial_water,,INCLUDE
+EXF_3609,2,R. mucilaginosa,haploid,,Arctic,glacier_ice,,INCLUDE
+EXF_3612,2,R. mucilaginosa,haploid,,Arctic,Glacial_water,,INCLUDE
+EXF_3622,2,R. mucilaginosa,haploid,,Arctic,glacier_ice,,INCLUDE
+EXF_3626,2,R. mucilaginosa,haploid,A2,Arctic,glacier_ice,,INCLUDE
+EXF_3629,2,R. frigidialcoholis,haploid,A2,Arctic,Glacier_ice_with_little_sediment,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+EXF_3633,2,R. frigidialcoholis,haploid,A2,Arctic,Glacier_ice,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+EXF_3790,2,R. mucilaginosa,haploid,,Puerto Rico,microbial_mat_salterns,,INCLUDE
+EXF_3860,2,R. mucilaginosa,haploid,,Puerto Rico,microbial_mat_salterns,,INCLUDE
+EXF_3861,2,R. mucilaginosa,haploid,,Puerto Rico,microbial_mat_salterns,,INCLUDE
+EXF_3862,2,R. mucilaginosa,haploid,,Puerto Rico,microbial_mat_salterns,,INCLUDE
+EXF_4885,2,R. mucilaginosa,haploid,,Slovenia,Mengore_cave,,INCLUDE
+EXF_5546,2,R. mucilaginosa,haploid,,Slovenia,Dishwasher_rubber,,INCLUDE
+EXF_5666,2,R. aff. mucilaginosa,haploid,A1,Slovenia,rubber_in_washing_machine,Rhodotorula aff mucilaginosa,BORDERLINE_AFF
+EXF_5668,2,,,,,,Too low,NO_METADATA
+EXF_5775,2,R. mucilaginosa,haploid,,Slovenia,water_from_car_wash,,INCLUDE
+EXF_5938,2,R. mucilaginosa,haploid,,Argentina,watterfall,,INCLUDE
+EXF_5939,2,R. mucilaginosa,haploid,,Argentina,Glacial_water,,INCLUDE
+EXF_5940,2,R. mucilaginosa,haploid,,Argentina,Glacial_water,,INCLUDE
+EXF_5941,2,R. mucilaginosa,haploid,,Argentina,Glacial_water,,INCLUDE
+EXF_6243,2,R. mucilaginosa,haploid,,Slovenia,sewages_of_car_wash,,INCLUDE
+EXF_6252,2,R. mucilaginosa,haploid,,Slovenia,sewages_of_car_wash,,INCLUDE
+EXF_6325,2,R. mucilaginosa,haploid,,Slovenia,washing_machine_rubber,,INCLUDE
+EXF_6360,2,R. mucilaginosa,haploid,A2,Slovenia,funnel_in_kitchen,,INCLUDE
+EXF_6370,2,R. mucilaginosa,haploid,,Slovenia,sink_in_bathroom,,INCLUDE
+EXF_6373,2,R. mucilaginosa,haploid,,Slovenia,sink_in_kitchen,,INCLUDE
+EXF_7386,2,R. frigidialcoholis,haploid,A2,Slovenia,Refrigerator,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+EXF_7920,2,R. mucilaginosa,haploid,,Sweden,metal_drainage_in_sink_Bathroom,,INCLUDE
+EXF_7931,2,R. mucilaginosa,haploid,,Sweden,Metal_drain_of_the_kitchen_sink,,INCLUDE
+EXF_7934,2,R. mucilaginosa,haploid,,Sweden,Kitchen_sink_surface,,INCLUDE
+EXF_7944,2,R. mucilaginosa,haploid,,Sweden,metal_holder_for_washed_dishes,,INCLUDE
+EXF_7949,2,R. mucilaginosa,haploid,,Sweden,Metal_drain_of_the_kitchen_sink,,INCLUDE
+EXF_8006,2,R. mucilaginosa,haploid,,Sweden,metal_drainage_in_sink_Bathroom,,INCLUDE
+EXF_8014,2,R. mucilaginosa,haploid,,Sweden,contact_surface_between_faucet_and_sink_bathroom,,INCLUDE
+EXF_8109,2,R. mucilaginosa,haploid,A2,Slovenia,Metal_drain_of_the_kitchen_sink,,INCLUDE
+EXF_8151,2,R. mucilaginosa,haploid,,Denmark,shower_bathroom,,INCLUDE
+EXF_8155,2,R. mucilaginosa,haploid,,Denmark,sink_in_kitchen,,INCLUDE
+EXF_8254,2,R. mucilaginosa,haploid,,Slovenia,tap_water,,INCLUDE
+EXF_8395,2,R. mucilaginosa,haploid,A2,Slovenia,Box_of_detergent,,INCLUDE
+EXF_8400,2,R. mucilaginosa,haploid,,Slovenia,metal_drain_basin_in_bathroom,,INCLUDE
+EXF_8463,2,R. mucilaginosa,haploid,,Slovenia,tap_water,,INCLUDE
+EXF_8464,2,R. mucilaginosa,haploid,,Slovenia,water_from_well,,INCLUDE
+EXF_8465,2,R. mucilaginosa,haploid,,Slovenia,tap_water,,INCLUDE
+EXF_8891,2,R. mucilaginosa,haploid,,Slovenia,Kitchen_counter_above_dishwasher,,INCLUDE
+EXF_8898,2,R. mucilaginosa,haploid,,Slovenia,Fugue_at_shower_bathroom,,INCLUDE
+EXF_8921,2,R. mucilaginosa,haploid,,Slovenia,Hot_steam_after_end_of_dishwashing_cycle,,INCLUDE
+EXF_8942,2,R. mucilaginosa,haploid,,Slovenia,Strainer_basket,,INCLUDE
+EXF_8984,2,R. mucilaginosa,haploid,,Slovenia,water_from_cloth,,INCLUDE
+EXF_9051,2,R. mucilaginosa,haploid,,Slovenia,Rubber_of_dishwasher_after_washing_cycle,,INCLUDE
+EXF_9595,2,R. mucilaginosa,haploid,,Italy,Kitchen_moist_panel_inside_fridge,,INCLUDE
+EXF_9756,2,R. mucilaginosa,haploid,,Slovenia,rubber_seal_dishwasher,,INCLUDE
+EXF_9762,2,R. mucilaginosa,haploid,,Slovenia,rubber_seal_dishwasher,,INCLUDE
+EXF_9926,2,R. mucilaginosa,haploid,A2,Slovenia,Ceramic_platter,,INCLUDE
+EXF_9950,2,R. mucilaginosa,haploid,,Slovenia,Strainer_basket,,INCLUDE
+IIF8SW-B2,1,R. mucilaginosa,haploid,,America,ISS_waste_hygeine compt,,INCLUDE
+NRRL_Y-2510,1,,,,,,,NO_METADATA
+TFCN_100D-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_102C-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_102C-2,2,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_102D-1,2,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_102D-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_105A-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_106A-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_107A-6,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_107C-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_110C-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_118C-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_122C-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_130D-4,1,R. mucilaginosa,haploid,A2,China,marsh_tidalflat,,INCLUDE
+TFCN_134A-3,1,R. frigidialcoholis,haploid,A2,China,marsh_tidalflat,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+TFCN_137C-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_137D-4,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_138A-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_140A-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_141C-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_152A-1,1,R. mucilaginosa,diploid,2A2,China,marsh_tidalflat,,INCLUDE
+TFCN_152A-12,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_152A-2,1,R. mucilaginosa,haploid,A2,China,marsh_tidalflat,,INCLUDE
+TFCN_152A-3,1,,,,,,,NO_METADATA
+TFCN_152A-5,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_152C-5,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-0-2E334-10,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-0-2E334-4,1,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17-0-2E337-3,3,R. mucilaginosa,diploid,A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17-0-2E390-1,1,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17-0-2E390-2,1,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17-267M-1,1,R. mucilaginosa,diploid,2A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17-291Y-1,1,R. mucilaginosa,diploid,2A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17-325D-2,3,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-325D-4,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-325P-1,3,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-329Y-4,1,R. mucilaginosa,haploid,A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17-332C-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-332C-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-332D-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-332M-1,1,R. frigidialcoholis,haploid,A2,China,marsh_tidalflat,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+TFCN_17-332M-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-332P-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-332P-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-333D-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-333M-1,1,,,,,,,NO_METADATA
+TFCN_17-333P-6,3,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17-334C-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-334D-6,3,R. mucilaginosa,diploid,2A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17-334P-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-334Y-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-334Y-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-334Y-5,1,R. mucilaginosa,diploid,2A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17-337P-5,1,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17-338D-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_17-390M-1,1,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_172A-1,1,R. mucilaginosa,haploid,A2,China,marsh_tidalflat,,INCLUDE
+TFCN_17Y-278-1,1,R. mucilaginosa,diploid,2A2,China,marsh_tidalflat,,INCLUDE
+TFCN_181A-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_186CL-2,1,,,,,,,NO_METADATA
+TFCN_1A-1-5,1,,,,,,,NO_METADATA
+TFCN_1A-14,1,R. frigidialcoholis,haploid,A2,China,marsh_tidalflat,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+TFCN_209-6-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_209-6-11,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_209-6-12,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_209-6-14,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_209-6-17,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_209-6-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_209-6-4,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_209-6-5,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_211A-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_211C-2,1,,,,,,,NO_METADATA
+TFCN_212C-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_213-6-2,1,R. mucilaginosa,haploid,A2,China,marsh_tidalflat,,INCLUDE
+TFCN_213-6-4,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_223A-8,2,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_22C-4,1,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_25-0-2E332-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-0-2E333-1,1,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_25-0-2E333-5,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-0-2E333-7,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-0-2E333-9,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-0-2E334-1,2,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_25-0-2E390-1,1,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_25-325Y-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-327D-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-331D-1,1,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_25-332C-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-332D-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-332D-2,2,R. mucilaginosa,too low,,China,marsh_tidalflat,Too low,INCLUDE
+TFCN_25-332M-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-332M-2,1,,,,,,Too low,NO_METADATA
+TFCN_25-332P-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-332Y-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-333C-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-333P-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-333Y-10,1,R. aff. mucilaginosa,haploid,A1,China,marsh_tidalflat,Rhodotorula aff mucilaginosa,BORDERLINE_AFF
+TFCN_25-333Y-9,1,R. mucilaginosa,haploid,A2,China,marsh_tidalflat,,INCLUDE
+TFCN_25-334D-3,1,R. mucilaginosa,haploid,A2,China,marsh_tidalflat,,INCLUDE
+TFCN_25-334Y-6,1,R. aff. mucilaginosa,haploid,A1,China,marsh_tidalflat,Rhodotorula aff mucilaginosa,BORDERLINE_AFF
+TFCN_25-335Y-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-337M-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-337Y-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_25-395P-1,1,R. aff. mucilaginosa,haploid,A1,China,marsh_tidalflat,Rhodotorula aff mucilaginosa,BORDERLINE_AFF
+TFCN_270H-1,2,R. mucilaginosa,too low,,China,marsh_tidalflat,Too low,INCLUDE
+TFCN_270H-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_273H-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_2M-1-3,1,,,,,,,NO_METADATA
+TFCN_2M-1-4,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_33A-4,1,R. aff. mucilaginosa,haploid,A1,China,marsh_tidalflat,Rhodotorula aff mucilaginosa,BORDERLINE_AFF
+TFCN_340-1,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_340-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_342-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_363-1-2,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_3M-1-1,1,R. frigidialcoholis,aneuploid,A2,China,marsh_tidalflat,Rhodotorula frigidialcoholis,EXCLUDE_OTHER_SPECIES
+TFCN_404D-1,1,R. mucilaginosa,diploid,A1/A2,China,marsh_tidalflat,,INCLUDE
+TFCN_4M-1-2,3,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_4M-1-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_4M-1-4,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_4M-1-5,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_54D-1,1,R. mucilaginosa,diploid,2A2,China,marsh_tidalflat,,INCLUDE
+TFCN_54D-2,3,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_7-6-3,1,,,,,,,NO_METADATA
+TFCN_86A-12,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_86A-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_86A-5,1,,,,,,,NO_METADATA
+TFCN_86C-3,1,,,,,,,NO_METADATA
+TFCN_89D-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_98A-10,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_98A-5,2,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_98C-3,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_98C-5,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_98C-7,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_98C-8,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_98D-11,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_98D-7,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_98D-9,1,R. mucilaginosa,haploid,,China,marsh_tidalflat,,INCLUDE
+TFCN_BY120-C1,1,,,,,,,NO_METADATA
+TFCN_BY120-C7,1,,,,,,,NO_METADATA

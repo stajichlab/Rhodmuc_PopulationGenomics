@@ -1,0 +1,98 @@
+Reconciliation report: samplesheet.csv (319 strains) vs metadata.txt (592 strains)
+
+Scope counts among sequenced (samplesheet.csv) strains:
+  INCLUDE (species == 'R. mucilaginosa')        : 278
+  BORDERLINE_AFF (species == 'R. aff. mucilaginosa') : 8
+  EXCLUDE_OTHER_SPECIES                            : 12
+  NO_SPECIES_CALL (metadata row exists, blank species): 0
+  NO_METADATA (no metadata.txt row at all)         : 21
+
+Strains in samplesheet.csv with NO metadata.txt row (21):
+  - EXF_10533
+  - EXF_10630
+  - EXF_10854
+  - EXF_12265
+  - EXF_13500
+  - EXF_14606
+  - EXF_17335
+  - EXF_5668
+  - NRRL_Y-2510
+  - TFCN_152A-3
+  - TFCN_17-333M-1
+  - TFCN_186CL-2
+  - TFCN_1A-1-5
+  - TFCN_211C-2
+  - TFCN_25-332M-2
+  - TFCN_2M-1-3
+  - TFCN_7-6-3
+  - TFCN_86A-5
+  - TFCN_86C-3
+  - TFCN_BY120-C1
+  - TFCN_BY120-C7
+
+Strains where metadata 'sample' name says mucilaginosa but 'species' field disagrees (1):
+  - CHIFNET_14NJ214: sample='Rhodotorula_mucilaginosa_CHIFNET_14NJ214' species='R. frigidialcoholis'
+
+Exact duplicate metadata.txt rows (6):
+  - Rhodotorula_mucilaginosa_DBVPG_3775
+  - Rhodotorula_mucilaginosa_TFCN_17-332D-1
+  - Rhodotorula_mucilaginosa_TFCN_25-332D-1
+  - Rhodotorula_mucilaginosa_TFCN_25-332M-1
+  - Rhodotorula_mucilaginosa_TFCN_270H-2
+  - Rhodotorula_mucilaginosa_TFCN_25-332D-2
+
+Strains in metadata.txt with no sequence data in samplesheet.csv (294):
+  - A3-PDA3-4
+  - A6-RM5-2
+  - ATCC_10657
+  - ATCC_10788
+  - ATCC_204091
+  - B2-PDA0-2
+  - B4-RDBC5-2
+  - BOT-A2
+  - BS15
+  - BUB8
+  - C2-MEA2-4
+  - CB6-10_1
+  - CBS14
+  - CBS7436
+  - CBS_20
+  - CBS_7808
+  - CC01
+  - CCT_0783
+  - CECT1137
+  - CGMCC_2.1609
+  - CHIFNET_10NJ071
+  - CHIFNET_12H1239
+  - CHIFNET_12TZ210
+  - CHIFNET_12TZ220
+  - CHIFNET_12TZ307
+  - CHIFNET_12TZ349
+  - CHIFNET_13H1268
+  - CHIFNET_13TZ419
+  - CHIFNET_14HX707
+  - CHIFNET_14NJ227
+  - CHIFNET_14NJ231
+  - CHIFNET_15TZ568
+  - CHIFNET_16H1488
+  - CHIFNET_16TZ588
+  - CHIFNET_16TZ598
+  - CHIFNET_17TZ638
+  - CHIFNET_17TZ653
+  - CHIFNET_17TZ658
+  - CHIFNET_18HX1218
+  - CHIFNET_18HX1225
+  - CHIFNET_18NJ590
+  - CHIFNET_18TZ699
+  - CHIFNET_19HX1293
+  - CHIFNET_A343
+  - CHIFNET_CBS316
+  - CHIFNET_CGMCC_2.2506
+  - CHIFNET_CGMCC_2.5541
+  - CHIFNET_CGMCC_2.5690
+  - CM33
+  - CP72-2
+  ... and 244 more
+
+Strains flagged in missing_strains.tsv that ALSO have sequence data in samplesheet.csv (should be reviewed - stale entry?) (1):
+  - TFCN_25-332M-2
