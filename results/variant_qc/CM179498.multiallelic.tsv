@@ -1,0 +1,21 @@
+# all=259878 pass=238218 masked=0 multiallelic=78769
+any_diploid_het_without_ref	False	58132
+any_haploid_carries_allele>=2	True	51001
+any_haploid_carries_allele>=2	False	27768
+any_diploid_het_without_ref	True	20637
+True	snp	star	minor_alt_AC>2	unmasked	14449
+True	snp	star	minor_alt_AC<=2	unmasked	12395
+True	snp	nostar	minor_alt_AC<=2	unmasked	10762
+True	snp	nostar	minor_alt_AC>2	unmasked	9986
+True	indel/mixed	star	minor_alt_AC<=2	unmasked	6460
+True	indel/mixed	star	minor_alt_AC>2	unmasked	5748
+True	indel/mixed	nostar	minor_alt_AC<=2	unmasked	4904
+False	snp	star	minor_alt_AC<=2	unmasked	3969
+True	indel/mixed	nostar	minor_alt_AC>2	unmasked	3005
+False	indel/mixed	star	minor_alt_AC<=2	unmasked	2703
+False	snp	star	minor_alt_AC>2	unmasked	2597
+False	indel/mixed	star	minor_alt_AC>2	unmasked	1378
+False	snp	nostar	minor_alt_AC<=2	unmasked	241
+False	snp	nostar	minor_alt_AC>2	unmasked	145
+False	indel/mixed	nostar	minor_alt_AC<=2	unmasked	17
+False	indel/mixed	nostar	minor_alt_AC>2	unmasked	10
