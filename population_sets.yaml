@@ -6,8 +6,11 @@
 # Ploidy comes from ploidy_overrides.csv, not from this file. 2026-10-03:
 # DBVPG_3239, DBVPG_6094 and TFCN_25-332D-2 changed diploid -> haploid
 # (docs/ploidy_assessment_2026-10-03.md). They stay in rmuc_core.
+# NRRL_Y-2510 has no metadata.txt row but was added after review.
+# rmuc_pheno exclusions: results/variant_qc/rmuc_pheno_exclusions.tsv.
+# Clonal lineages: results/variant_qc/divergence/clone_groups_1e-3.tsv.
 Populations:
-  # 235 strains
+  # 236 strains
   rmuc_core:
     - CCFEE_5036
     - CHIFNET_12H1194
@@ -153,6 +156,7 @@ Populations:
     - EXF_9926
     - EXF_9950
     - IIF8SW-B2
+    - NRRL_Y-2510
     - TFCN_100D-1
     - TFCN_102C-1
     - TFCN_102C-2
@@ -244,7 +248,7 @@ Populations:
     - TFCN_98D-11
     - TFCN_98D-7
     - TFCN_98D-9
-  # 252 strains
+  # 253 strains
   rmuc_core_outgroup:
     - CCFEE_5036
     - CHIFNET_12H1194
@@ -400,6 +404,7 @@ Populations:
     - EXF_9926
     - EXF_9950
     - IIF8SW-B2
+    - NRRL_Y-2510
     - TFCN_100D-1
     - TFCN_102C-1
     - TFCN_102C-2
@@ -498,7 +503,7 @@ Populations:
     - TFCN_98D-11
     - TFCN_98D-7
     - TFCN_98D-9
-  # 267 strains
+  # 268 strains
   rmuc_with_hybrids:
     - CCFEE_5036
     - CHIFNET_12H1194
@@ -655,6 +660,7 @@ Populations:
     - EXF_9926
     - EXF_9950
     - IIF8SW-B2
+    - NRRL_Y-2510
     - TFCN_100D-1
     - TFCN_102C-1
     - TFCN_102C-2
@@ -801,3 +807,146 @@ Populations:
     - TFCN_270H-1
     - TFCN_404D-1
     - TFCN_54D-1
+  # 141 strains
+  rmuc_pheno:
+    - DBVPG_10619
+    - DBVPG_10780
+    - DBVPG_10842
+    - DBVPG_10882
+    - DBVPG_10886
+    - DBVPG_10937
+    - DBVPG_3044
+    - DBVPG_3090
+    - DBVPG_3235
+    - DBVPG_3236
+    - DBVPG_3237
+    - DBVPG_3238
+    - DBVPG_3239
+    - DBVPG_3381
+    - DBVPG_3382
+    - DBVPG_3383
+    - DBVPG_3384
+    - DBVPG_3442
+    - DBVPG_3443
+    - DBVPG_3774
+    - DBVPG_3775
+    - DBVPG_3776
+    - DBVPG_3777
+    - DBVPG_3778
+    - DBVPG_3780
+    - DBVPG_3858
+    - DBVPG_3983
+    - DBVPG_3984
+    - DBVPG_4201
+    - DBVPG_4202
+    - DBVPG_4203
+    - DBVPG_4304
+    - DBVPG_4376
+    - DBVPG_4377
+    - DBVPG_4378
+    - DBVPG_4408
+    - DBVPG_4466
+    - DBVPG_4618
+    - DBVPG_4669
+    - DBVPG_4920
+    - DBVPG_4945
+    - DBVPG_4946
+    - DBVPG_4947
+    - DBVPG_4949
+    - DBVPG_4950
+    - DBVPG_4956
+    - DBVPG_4957
+    - DBVPG_4958
+    - DBVPG_4962
+    - DBVPG_4963
+    - DBVPG_4964
+    - DBVPG_5225
+    - DBVPG_5226
+    - DBVPG_5227
+    - DBVPG_5228
+    - DBVPG_5229
+    - DBVPG_5235
+    - DBVPG_5236
+    - DBVPG_5757
+    - DBVPG_5758
+    - DBVPG_5759
+    - DBVPG_6091
+    - DBVPG_6092
+    - DBVPG_6093
+    - DBVPG_6094
+    - DBVPG_6593
+    - DBVPG_6741
+    - DBVPG_6742
+    - DBVPG_6743
+    - DBVPG_6803
+    - DBVPG_7019
+    - NRRL_Y-2510
+    - TFCN_100D-1
+    - TFCN_102C-1
+    - TFCN_102C-2
+    - TFCN_102D-1
+    - TFCN_102D-2
+    - TFCN_105A-2
+    - TFCN_106A-1
+    - TFCN_107A-6
+    - TFCN_107C-3
+    - TFCN_110C-1
+    - TFCN_118C-2
+    - TFCN_122C-2
+    - TFCN_130D-4
+    - TFCN_137C-3
+    - TFCN_138A-1
+    - TFCN_140A-3
+    - TFCN_141C-2
+    - TFCN_17-0-2E334-10
+    - TFCN_17-325D-2
+    - TFCN_17-325D-4
+    - TFCN_17-325P-1
+    - TFCN_17-329Y-4
+    - TFCN_17-332C-1
+    - TFCN_17-332C-2
+    - TFCN_17-332D-1
+    - TFCN_17-332M-2
+    - TFCN_17-332P-1
+    - TFCN_17-332P-2
+    - TFCN_17-334C-1
+    - TFCN_17-334P-3
+    - TFCN_17-334Y-2
+    - TFCN_17-334Y-3
+    - TFCN_172A-1
+    - TFCN_181A-1
+    - TFCN_209-6-1
+    - TFCN_209-6-11
+    - TFCN_209-6-17
+    - TFCN_209-6-5
+    - TFCN_223A-8
+    - TFCN_25-0-2E333-5
+    - TFCN_25-0-2E333-9
+    - TFCN_25-325Y-1
+    - TFCN_25-327D-1
+    - TFCN_25-332C-1
+    - TFCN_25-332D-1
+    - TFCN_25-332D-2
+    - TFCN_25-332M-1
+    - TFCN_25-332P-2
+    - TFCN_25-332Y-1
+    - TFCN_25-333C-2
+    - TFCN_25-333P-2
+    - TFCN_25-333Y-9
+    - TFCN_25-334D-3
+    - TFCN_25-337Y-1
+    - TFCN_270H-2
+    - TFCN_273H-1
+    - TFCN_2M-1-4
+    - TFCN_340-1
+    - TFCN_340-3
+    - TFCN_4M-1-2
+    - TFCN_4M-1-3
+    - TFCN_4M-1-4
+    - TFCN_4M-1-5
+    - TFCN_98A-10
+    - TFCN_98A-5
+    - TFCN_98C-3
+    - TFCN_98C-5
+    - TFCN_98C-7
+    - TFCN_98C-8
