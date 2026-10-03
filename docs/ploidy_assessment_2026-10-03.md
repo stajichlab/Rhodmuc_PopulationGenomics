@@ -145,8 +145,43 @@ Proposed fix:
 - Add mpileup `-q 20 -Q 20`, a QUAL ≥ 30 and DP ≥ 10 site filter, and the repeat mask.
 - On CM179498.1, AB-passing hets per Mb after filters are: diploid DBVPG_3857 about 31,000; divergent haploid CCFEE_5036 about 10; near-reference haploids 0. The genome-wide threshold must still be set from all strains.
 
+## Method 1 fix (v2) and rerun on all strains
+
+The fix is in nf_genotype_population, branch `fix/het-ploidy-per-mb` (commits bb9113f and daae7fe; it builds on `feature/strain-tree`).
+
+New metric in `bin/custom_het_ploidy.py`:
+1. **Variant calls:** `bcftools mpileup -a FORMAT/AD,FORMAT/DP -q 20 -Q 20 | bcftools call -mv --ploidy 2`. Sites are kept at QUAL ≥ 30 and DP ≥ 10, outside `--mask_bed`.
+2. **Numerator:** biallelic SNPs called het with allele balance 0.35–0.65.
+3. **Denominator:** callable bases from `samtools depth -q 20 -Q 20`, depth ≥ 10, outside the mask.
+4. **Call:**
+   - diploid if het_per_mb > `ploidy_het_per_mb_threshold` (1000)
+   - `unknown` if callable bases are below `ploidy_min_callable_fraction` (0.25) of the reference length (5.09 Mb here)
+5. **Old ratio:** still reported as `het_fraction`, for comparison only.
+
+Run: `run_ploidy_v2.sh` (job 29372334, `-entry PLOIDY_ONLY`, 319 strains, 0 failures, 1 h 04 min). Outputs:
+- `results/ploidy_v2/ploidy/ploidy_inference_all.csv`: het_per_mb, n_het, n_snp_sites, callable_bp
+- `results/ploidy_v2/ploidy_review.csv`: crosscheck against metadata (5 Mb floor not applied)
+- `results/ploidy_v2/ploidy_calls_compared.tsv`: final calls (1000/Mb, 25% floor) next to ploidy_overrides.csv, nQuire, the old ratio, metadata and QC decision
+
+Calibration (strains with ≥ 10 Mb callable):
+- Haploids: at most 453 hets/Mb. The highest are the other-species haploids (278–453) and EXF_1695 (304, the highest kept R. mucilaginosa).
+- Diploids: at least 1,785 (DBVPG_3445).
+- One exception: EXF_12768 (haploid override, mixed reads, dropped) scored 2,295.
+- Strains with 0.9–2.8 Mb callable gave 655–10,336 hets/Mb whatever their ploidy, hence the floor.
+
+Agreement:
+- With `ploidy_overrides.csv`: 304 of 319 (old ratio: 169 of 319).
+- With nQuire: 304 of the 311 strains with a known call.
+
+The 15 disagreements with `ploidy_overrides.csv`:
+- **8 `unknown`** (low coverage, all without metadata): EXF_10533, EXF_10630, EXF_12265, EXF_14606, TFCN_152A-3, TFCN_211C-2, TFCN_7-6-3, TFCN_86A-5.
+- **6 diploid in the overrides but haploid here** (0.8–33.7 hets/Mb; nQuire non_diploid; GATK het rate ≤ 0.001; all without metadata): TFCN_1A-1-5, TFCN_25-332M-2, TFCN_2M-1-3, TFCN_86C-3, TFCN_BY120-C1, TFCN_BY120-C7. This is the same pattern as the three strains reclassified above.
+- **1 haploid in the overrides but diploid here:** EXF_12768 (mixed reads).
+
+All 15 strains are already dropped (`excluded_strains.tsv`). None is in `population_sets.yaml`, so the current GATK run is not affected. The three reclassified strains score 1.5 (TFCN_25-332D-2), 30.5 (DBVPG_3239) and 35.4 (DBVPG_6094) hets/Mb, which is haploid.
+
 ## Open items
 
-- **custom_het_script:** fix the denominator and add filters (see "Method 1 defect").
+- **Six no-metadata strains:** decide whether to change them to haploid in `ploidy_overrides.csv`. They are dropped now, so this matters only if they get metadata later.
 - **Duplicate metadata:** `metadata.txt` has two rows for TFCN_25-332D-2.
 - **Homozygous diploids:** a fully homozygous diploid cannot be detected from SNP data. Flow cytometry, or a read-depth method with an internal reference, would be needed.

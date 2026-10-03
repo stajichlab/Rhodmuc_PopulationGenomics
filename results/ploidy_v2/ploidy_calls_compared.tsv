@@ -1,0 +1,320 @@
+strain	het_per_mb	callable_bp	call_per_mb	override	nquire	old_ratio_call	old_het_fraction	metadata_ploidy	qc_decision
+CCFEE_5036	26.859	18913266	haploid	haploid	non_diploid	haploid	0.009249	haploid	keep:-
+CHIFNET_12H1194	68.364	17406871	haploid	haploid	non_diploid	diploid	0.012554	haploid	keep:-
+CHIFNET_14NJ214	33901.524	17580124	diploid	diploid	diploid	diploid	0.623674	diploid	drop:other_species
+DBVPG_10619	20.163	19045232	haploid	haploid	non_diploid	haploid	0.008023	haploid	keep:-
+DBVPG_10656	29.457	18773351	haploid	haploid	non_diploid	haploid	0.009349	haploid	keep:-
+DBVPG_10780	19.637	19045349	haploid	haploid	non_diploid	haploid	0.008387	haploid	keep:-
+DBVPG_10842	16.592	18925239	haploid	haploid	non_diploid	haploid	0.007205	haploid	keep:-
+DBVPG_10882	22.122	18850392	haploid	haploid	non_diploid	haploid	0.007813	haploid	keep:-
+DBVPG_10886	0.313	19160928	haploid	haploid	non_diploid	diploid	0.156371	haploid	keep:-
+DBVPG_10937	29.655	18850232	haploid	haploid	non_diploid	haploid	0.005711	haploid	keep:-
+DBVPG_3044	44.895	18665850	haploid	haploid	non_diploid	haploid	0.008029	haploid	keep:-
+DBVPG_3045	33045.384	18751666	diploid	diploid	diploid	diploid	0.666603	haploid_from_hybrid	keep:-
+DBVPG_3090	59.604	18639772	haploid	haploid	non_diploid	haploid	0.009761	haploid	keep:-
+DBVPG_3235	54.304	18617259	haploid	haploid	non_diploid	haploid	0.009332	haploid	keep:-
+DBVPG_3236	44.164	18635085	haploid	haploid	non_diploid	haploid	0.008097	haploid	keep:-
+DBVPG_3237	30.022	18786497	haploid	haploid	non_diploid	haploid	0.008484	haploid	keep:-
+DBVPG_3238	24.342	19020355	haploid	haploid	non_diploid	haploid	0.009375	haploid	keep:-
+DBVPG_3239	30.528	19031841	haploid	haploid	non_diploid	diploid	0.013246	too low	keep:no_het_diploid
+DBVPG_3381	28.461	18833075	haploid	haploid	non_diploid	haploid	0.008790	haploid	keep:-
+DBVPG_3382	32.195	18823015	haploid	haploid	non_diploid	haploid	0.009038	haploid	keep:-
+DBVPG_3383	30.323	18797648	haploid	haploid	non_diploid	haploid	0.008630	haploid	keep:-
+DBVPG_3384	31.222	18800700	haploid	haploid	non_diploid	haploid	0.008722	haploid	keep:-
+DBVPG_3442	32.592	18747079	haploid	haploid	non_diploid	haploid	0.009496	haploid	keep:-
+DBVPG_3443	30.072	18755066	haploid	haploid	non_diploid	haploid	0.009601	haploid	keep:-
+DBVPG_3444	34566.818	18717575	diploid	diploid	diploid	diploid	0.671305	diploid	keep:-
+DBVPG_3445	1784.868	19063591	diploid	diploid	non_diploid	diploid	0.049520	too low	drop:ploidy_skewed
+DBVPG_3446	33064.679	18212970	diploid	diploid	diploid	diploid	0.618221	too low	keep:-
+DBVPG_3538	35639.303	18744727	diploid	diploid	diploid	diploid	0.679425	too low	keep:-
+DBVPG_3774	29.334	18817577	haploid	haploid	non_diploid	haploid	0.008658	haploid	keep:-
+DBVPG_3775	27.572	18823154	haploid	haploid	non_diploid	haploid	0.008204	haploid	keep:-
+DBVPG_3776	35.764	18761970	haploid	haploid	non_diploid	diploid	0.010468	haploid	keep:-
+DBVPG_3777	32.070	18771422	haploid	haploid	non_diploid	haploid	0.009740	haploid	keep:-
+DBVPG_3778	38.406	18668926	haploid	haploid	non_diploid	diploid	0.010691	haploid	keep:-
+DBVPG_3780	31.672	18786528	haploid	haploid	non_diploid	haploid	0.009016	haploid	keep:-
+DBVPG_3854	34775.931	18657818	diploid	diploid	diploid	diploid	0.683533	diploid	keep:-
+DBVPG_3855	24116.491	18959475	diploid	diploid	diploid	diploid	0.553308	haploid_from_hybrid	keep:-
+DBVPG_3856	34631.456	18878646	diploid	diploid	diploid	diploid	0.696080	diploid	keep:-
+DBVPG_3857	34992.112	18884542	diploid	diploid	diploid	diploid	0.700764	diploid	keep:-
+DBVPG_3858	27.528	18817109	haploid	haploid	non_diploid	haploid	0.008199	haploid	keep:-
+DBVPG_3983	61.899	18643423	haploid	haploid	non_diploid	diploid	0.010529	haploid	keep:-
+DBVPG_3984	65.958	18633148	haploid	haploid	non_diploid	diploid	0.010657	haploid	keep:-
+DBVPG_4201	1.714	19248541	haploid	haploid	non_diploid	diploid	0.209854	haploid	keep:-
+DBVPG_4202	1.358	19145827	haploid	haploid	non_diploid	diploid	0.258002	haploid	keep:-
+DBVPG_4203	0.574	19162676	haploid	haploid	non_diploid	diploid	0.231695	haploid	keep:-
+DBVPG_4304	0.261	19167905	haploid	haploid	non_diploid	diploid	0.172061	haploid	keep:-
+DBVPG_4376	67.044	18629630	haploid	haploid	non_diploid	haploid	0.009710	haploid	keep:-
+DBVPG_4377	61.903	18738961	haploid	haploid	non_diploid	diploid	0.014546	haploid	keep:-
+DBVPG_4378	24.465	18924726	haploid	haploid	non_diploid	haploid	0.007343	haploid	keep:-
+DBVPG_4379	13067.096	19000625	diploid	diploid	non_diploid	diploid	0.256719	too low	keep:-
+DBVPG_4380	20492.075	12238390	diploid	diploid	diploid	diploid	0.224958	diploid	drop:other_species
+DBVPG_4408	55.082	18572317	haploid	haploid	non_diploid	haploid	0.008073	haploid	keep:-
+DBVPG_4466	0.522	19141633	haploid	haploid	non_diploid	diploid	0.216438	haploid	keep:-
+DBVPG_4534	281.860	12910679	haploid	haploid	non_diploid	haploid	0.005502	haploid	drop:other_species
+DBVPG_4618	41.978	18867112	haploid	haploid	non_diploid	haploid	0.008962	haploid	keep:-
+DBVPG_4669	18.519	19061493	haploid	haploid	non_diploid	haploid	0.007950	haploid	keep:-
+DBVPG_4920	32.243	18546462	haploid	haploid	non_diploid	haploid	0.009234	haploid	keep:-
+DBVPG_4945	21.416	17416933	haploid	haploid	non_diploid	haploid	0.007781	haploid	keep:-
+DBVPG_4946	28.272	18711364	haploid	haploid	non_diploid	haploid	0.009191	haploid	keep:-
+DBVPG_4947	24.111	18705222	haploid	haploid	non_diploid	haploid	0.008630	haploid	keep:-
+DBVPG_4949	20.096	19058761	haploid	haploid	non_diploid	haploid	0.008478	haploid	keep:-
+DBVPG_4950	20.366	19051824	haploid	haploid	non_diploid	haploid	0.009150	haploid	keep:-
+DBVPG_4952	27796.710	18773265	diploid	diploid	non_diploid	diploid	0.405953	too low	keep:-
+DBVPG_4956	18.547	19032508	haploid	haploid	non_diploid	haploid	0.007211	haploid	keep:-
+DBVPG_4957	20.374	19044323	haploid	haploid	non_diploid	haploid	0.008301	haploid	keep:-
+DBVPG_4958	30.788	18870852	haploid	haploid	non_diploid	haploid	0.005641	haploid	keep:-
+DBVPG_4962	25.955	18762934	haploid	haploid	non_diploid	haploid	0.007681	haploid	keep:-
+DBVPG_4963	25.404	18776926	haploid	haploid	non_diploid	haploid	0.008327	haploid	keep:-
+DBVPG_4964	19.115	19042618	haploid	haploid	non_diploid	haploid	0.008072	haploid	keep:-
+DBVPG_5225	20.579	18854552	haploid	haploid	non_diploid	haploid	0.006953	haploid	keep:-
+DBVPG_5226	23.102	18873090	haploid	haploid	non_diploid	haploid	0.008000	haploid	keep:-
+DBVPG_5227	22.257	18870158	haploid	haploid	non_diploid	haploid	0.007709	haploid	keep:-
+DBVPG_5228	20.248	18865905	haploid	haploid	non_diploid	haploid	0.006920	haploid	keep:-
+DBVPG_5229	24.884	18887370	haploid	haploid	non_diploid	haploid	0.007781	haploid	keep:-
+DBVPG_5235	23.784	18878039	haploid	haploid	non_diploid	haploid	0.007904	haploid	keep:-
+DBVPG_5236	1.091	19249066	haploid	haploid	non_diploid	diploid	0.169460	haploid	keep:-
+DBVPG_5757	45.273	18664444	haploid	haploid	non_diploid	haploid	0.007002	haploid	keep:-
+DBVPG_5758	46.780	18662010	haploid	haploid	non_diploid	haploid	0.006879	haploid	keep:-
+DBVPG_5759	44.377	18658318	haploid	haploid	non_diploid	haploid	0.006626	haploid	keep:-
+DBVPG_6091	25.372	18760641	haploid	haploid	non_diploid	haploid	0.008034	haploid	keep:-
+DBVPG_6092	23.825	18761888	haploid	haploid	non_diploid	haploid	0.007135	haploid	keep:-
+DBVPG_6093	22.711	19021384	haploid	haploid	non_diploid	haploid	0.009588	haploid	keep:-
+DBVPG_6094	35.355	19006967	haploid	haploid	non_diploid	diploid	0.015504	too low	keep:no_het_diploid
+DBVPG_6593	32.325	18778125	haploid	haploid	non_diploid	diploid	0.010024	haploid	keep:-
+DBVPG_6649	26579.718	19239632	diploid	diploid	non_diploid	diploid	0.394398	too low	keep:-
+DBVPG_6660	357.456	14144381	haploid	haploid	non_diploid	haploid	0.007457	haploid	drop:other_species
+DBVPG_6741	0.418	19153929	haploid	haploid	non_diploid	diploid	0.171806	haploid	keep:-
+DBVPG_6742	0.313	19155823	haploid	haploid	non_diploid	diploid	0.162892	haploid	keep:-
+DBVPG_6743	29.617	18773251	haploid	haploid	non_diploid	haploid	0.009203	haploid	keep:-
+DBVPG_6803	0.261	19162471	haploid	haploid	non_diploid	diploid	0.178744	haploid	keep:-
+DBVPG_7019	0.157	19163350	haploid	haploid	non_diploid	diploid	0.159628	haploid	keep:-
+DBVPG_8043	278.246	12866333	haploid	haploid	non_diploid	haploid	0.005118	haploid	drop:other_species
+EXF_10533	663.173	1268145	unknown	haploid	non_diploid	haploid	0.006504		drop:no_metadata,low_coverage
+EXF_10630	1277.638	1626439	unknown	diploid	non_diploid	diploid	0.018529		drop:no_metadata,low_coverage
+EXF_10854	228.904	13516592	haploid	haploid	non_diploid	haploid	0.006188		drop:no_metadata
+EXF_12265	929.543	1549148	unknown	diploid	non_diploid	diploid	0.015695		drop:no_metadata,low_coverage
+EXF_12281	45.787	18673484	haploid	haploid	non_diploid	haploid	0.006781	haploid	keep:-
+EXF_12768	2295.262	19170357	diploid	haploid	non_diploid	diploid	0.255379	haploid	drop:ploidy_mixed
+EXF_13250	334.125	13991754	haploid	haploid	non_diploid	haploid	0.007064	haploid	drop:other_species
+EXF_13255	356.834	14073784	haploid	haploid	non_diploid	haploid	0.007444	haploid	drop:other_species
+EXF_13260	0.313	19165689	haploid	haploid	non_diploid	diploid	0.180542	haploid	keep:-
+EXF_13261	0.417	19176572	haploid	haploid	non_diploid	diploid	0.172655	haploid	keep:-
+EXF_13500	423.552	5227219	haploid	haploid	non_diploid	haploid	0.007289		drop:no_metadata,low_coverage
+EXF_13599	52.276	18670253	haploid	haploid	non_diploid	haploid	0.007524	haploid	keep:-
+EXF_13600	0.313	19162678	haploid	haploid	non_diploid	diploid	0.230519	haploid	keep:-
+EXF_13601	352.877	14101242	haploid	haploid	non_diploid	haploid	0.007471	haploid	drop:other_species
+EXF_13602	0.365	19169502	haploid	haploid	non_diploid	diploid	0.105119	haploid	keep:-
+EXF_13604	21.722	18875141	haploid	haploid	non_diploid	haploid	0.007748	haploid	keep:-
+EXF_14606	10335.788	1502643	unknown	diploid	diploid	diploid	0.097450		drop:no_metadata,low_coverage
+EXF_1510	22.097	18870983	haploid	haploid	non_diploid	haploid	0.008077	haploid	keep:-
+EXF_1565	0.470	19163517	haploid	haploid	non_diploid	diploid	0.154174	haploid	keep:-
+EXF_1585	0.365	19169556	haploid	haploid	non_diploid	diploid	0.236559	haploid	keep:-
+EXF_1676	0.522	19172780	haploid	haploid	non_diploid	diploid	0.136406	haploid	keep:-
+EXF_1686	0.675	19260794	haploid	haploid	non_diploid	diploid	0.189753	haploid	keep:-
+EXF_1695	304.023	18774874	haploid	haploid	non_diploid	diploid	0.040097	haploid	keep:-
+EXF_1704	35.330	18794179	haploid	haploid	non_diploid	haploid	0.007616	haploid	keep:-
+EXF_17335	417.873	13870246	haploid	haploid	non_diploid	haploid	0.009365		drop:no_metadata
+EXF_2251	0.779	19260386	haploid	haploid	non_diploid	diploid	0.172414	haploid	keep:-
+EXF_3417	0.727	19264886	haploid	haploid	non_diploid	diploid	0.159633	haploid	keep:-
+EXF_3530	0.522	19159642	haploid	haploid	non_diploid	diploid	0.153776	haploid	keep:-
+EXF_3538	38.149	18742333	haploid	haploid	non_diploid	haploid	0.007580	haploid	keep:-
+EXF_3540	0.313	19171893	haploid	haploid	non_diploid	diploid	0.154052	haploid	keep:-
+EXF_3544	0.727	19263491	haploid	haploid	non_diploid	diploid	0.173749	haploid	keep:-
+EXF_3569	0.675	19259002	haploid	haploid	non_diploid	diploid	0.187621	haploid	keep:-
+EXF_3592	0.313	19162214	haploid	haploid	non_diploid	diploid	0.156489	haploid	keep:-
+EXF_3595	27.712	18800396	haploid	haploid	non_diploid	haploid	0.008579	haploid	keep:-
+EXF_3604	40.285	18741356	haploid	haploid	non_diploid	haploid	0.007914	haploid	keep:-
+EXF_3609	0.417	19170828	haploid	haploid	non_diploid	diploid	0.167308	haploid	keep:-
+EXF_3612	1.193	19271422	haploid	haploid	non_diploid	diploid	0.196343	haploid	keep:-
+EXF_3622	0.365	19168401	haploid	haploid	non_diploid	diploid	0.133654	haploid	keep:-
+EXF_3626	44.390	18765439	haploid	haploid	non_diploid	haploid	0.008411	haploid	keep:-
+EXF_3629	364.124	14162740	haploid	haploid	non_diploid	haploid	0.007953	haploid	drop:other_species
+EXF_3633	363.296	14139976	haploid	haploid	non_diploid	haploid	0.007620	haploid	drop:other_species
+EXF_3790	27.928	18798188	haploid	haploid	non_diploid	haploid	0.007917	haploid	keep:-
+EXF_3860	26.900	18773473	haploid	haploid	non_diploid	haploid	0.007930	haploid	keep:-
+EXF_3861	26.673	18783210	haploid	haploid	non_diploid	haploid	0.007969	haploid	keep:-
+EXF_3862	27.433	18772923	haploid	haploid	non_diploid	haploid	0.007805	haploid	keep:-
+EXF_4885	24.810	18863150	haploid	haploid	non_diploid	haploid	0.007976	haploid	keep:-
+EXF_5546	0.522	19165970	haploid	haploid	non_diploid	diploid	0.176125	haploid	keep:-
+EXF_5666	413.383	12910531	haploid	haploid	non_diploid	haploid	0.006990	haploid	drop:other_species
+EXF_5668	3973.560	14157079	diploid	diploid	non_diploid	diploid	0.047769		drop:no_metadata,ploidy_skewed
+EXF_5775	47.200	18665100	haploid	haploid	non_diploid	haploid	0.007236	haploid	keep:-
+EXF_5938	0.209	19162266	haploid	haploid	non_diploid	diploid	0.153264	haploid	keep:-
+EXF_5939	1.039	19252026	haploid	haploid	non_diploid	diploid	0.168549	haploid	keep:-
+EXF_5940	44.279	18654244	haploid	haploid	non_diploid	haploid	0.006545	haploid	keep:-
+EXF_5941	0.470	19160006	haploid	haploid	non_diploid	diploid	0.119866	haploid	keep:-
+EXF_6243	47.883	18649743	haploid	haploid	non_diploid	haploid	0.007281	haploid	keep:-
+EXF_6252	44.212	18659883	haploid	haploid	non_diploid	haploid	0.006808	haploid	keep:-
+EXF_6325	0.470	19166422	haploid	haploid	non_diploid	diploid	0.192744	haploid	keep:-
+EXF_6360	39.020	18836654	haploid	haploid	non_diploid	haploid	0.008811	haploid	keep:-
+EXF_6370	46.345	18664378	haploid	haploid	non_diploid	haploid	0.007015	haploid	keep:-
+EXF_6373	46.917	18649782	haploid	haploid	non_diploid	haploid	0.007133	haploid	keep:-
+EXF_7386	374.379	14092658	haploid	haploid	non_diploid	haploid	0.007862	haploid	drop:other_species
+EXF_7920	2.388	19263089	haploid	haploid	non_diploid	diploid	0.227357	haploid	keep:-
+EXF_7931	0.522	19166632	haploid	haploid	non_diploid	diploid	0.166069	haploid	keep:-
+EXF_7934	9.294	19259183	haploid	haploid	non_diploid	diploid	0.270465	haploid	drop:ploidy_mixed
+EXF_7944	1.557	19261970	haploid	haploid	non_diploid	diploid	0.239193	haploid	keep:-
+EXF_7949	42.846	18671418	haploid	haploid	non_diploid	haploid	0.006617	haploid	keep:-
+EXF_8006	1.091	19250446	haploid	haploid	non_diploid	diploid	0.185577	haploid	keep:-
+EXF_8014	0.417	19171829	haploid	haploid	non_diploid	diploid	0.200651	haploid	keep:-
+EXF_8109	37.399	18797436	haploid	haploid	non_diploid	haploid	0.008134	haploid	keep:-
+EXF_8151	1.505	19267043	haploid	haploid	non_diploid	diploid	0.216061	haploid	keep:-
+EXF_8155	1.198	19193792	haploid	haploid	non_diploid	diploid	0.213442	haploid	keep:-
+EXF_8254	0.313	19167021	haploid	haploid	non_diploid	diploid	0.170443	haploid	keep:-
+EXF_8395	38.085	18799902	haploid	haploid	non_diploid	haploid	0.008690	haploid	keep:-
+EXF_8400	7.967	18952547	haploid	haploid	non_diploid	haploid	0.006014	haploid	keep:-
+EXF_8463	6.543	18951418	haploid	haploid	non_diploid	haploid	0.003117	haploid	keep:-
+EXF_8464	0.469	19171744	haploid	haploid	non_diploid	diploid	0.168756	haploid	keep:-
+EXF_8465	0.365	19161237	haploid	haploid	non_diploid	diploid	0.138249	haploid	keep:-
+EXF_8891	1.095	19175729	haploid	haploid	non_diploid	diploid	0.119501	haploid	drop:ploidy_mixed
+EXF_8898	0.365	19171124	haploid	haploid	non_diploid	diploid	0.137830	haploid	keep:-
+EXF_8921	0.313	19177151	haploid	haploid	non_diploid	diploid	0.212408	haploid	keep:-
+EXF_8942	0.834	19183392	haploid	haploid	non_diploid	diploid	0.157214	haploid	keep:-
+EXF_8984	0.831	19259774	haploid	haploid	non_diploid	diploid	0.160898	haploid	keep:-
+EXF_9051	1.930	19169647	haploid	haploid	non_diploid	haploid	0.005995	haploid	drop:ploidy_mixed
+EXF_9595	31.126	18762174	haploid	haploid	non_diploid	haploid	0.008394	haploid	keep:-
+EXF_9756	0.417	19164702	haploid	haploid	non_diploid	diploid	0.169507	haploid	keep:-
+EXF_9762	0.417	19170830	haploid	haploid	non_diploid	diploid	0.176636	haploid	keep:-
+EXF_9926	28.265	18821534	haploid	haploid	non_diploid	haploid	0.006659	haploid	keep:-
+EXF_9950	49.978	18668390	haploid	haploid	non_diploid	haploid	0.007386	haploid	keep:-
+IIF8SW-B2	24.685	18837295	haploid	haploid	non_diploid	diploid	0.010225	haploid	keep:-
+NRRL_Y-2510	55.987	18629169	haploid	haploid	non_diploid	haploid	0.008263		drop:no_metadata
+TFCN_100D-1	21.439	18984173	haploid	haploid	non_diploid	haploid	0.008782	haploid	keep:-
+TFCN_102C-1	0.470	19130166	haploid	haploid	non_diploid	diploid	0.204104	haploid	keep:-
+TFCN_102C-2	0.522	19164606	haploid	haploid	non_diploid	diploid	0.109446	haploid	keep:-
+TFCN_102D-1	29.770	19046155	haploid	haploid	non_diploid	diploid	0.012497	haploid	keep:-
+TFCN_102D-2	0.262	19092956	haploid	haploid	non_diploid	diploid	0.204767	haploid	keep:-
+TFCN_105A-2	0.365	19161582	haploid	haploid	non_diploid	diploid	0.206177	haploid	keep:-
+TFCN_106A-1	0.732	19123721	haploid	haploid	non_diploid	diploid	0.165145	haploid	keep:-
+TFCN_107A-6	22.603	18935405	haploid	haploid	non_diploid	haploid	0.009667	haploid	keep:-
+TFCN_107C-3	26.945	19039101	haploid	haploid	non_diploid	diploid	0.010714	haploid	keep:-
+TFCN_110C-1	0.470	19160359	haploid	haploid	non_diploid	diploid	0.083176	haploid	keep:-
+TFCN_118C-2	30.811	19051631	haploid	haploid	non_diploid	diploid	0.012630	haploid	keep:-
+TFCN_122C-2	0.522	19152995	haploid	haploid	non_diploid	diploid	0.186174	haploid	keep:-
+TFCN_130D-4	0.574	19159071	haploid	haploid	non_diploid	diploid	0.216239	haploid	keep:-
+TFCN_134A-3	395.361	14095988	haploid	haploid	non_diploid	haploid	0.008406	haploid	drop:other_species
+TFCN_137C-3	0.802	18708276	haploid	haploid	non_diploid	diploid	0.185154	haploid	keep:-
+TFCN_137D-4	1.067	16869253	haploid	haploid	non_diploid	diploid	0.244989	haploid	drop:low_coverage
+TFCN_138A-1	0.627	19132568	haploid	haploid	non_diploid	diploid	0.199354	haploid	keep:-
+TFCN_140A-3	25.273	18992528	haploid	haploid	non_diploid	diploid	0.010026	haploid	keep:-
+TFCN_141C-2	0.105	19079170	haploid	haploid	non_diploid	diploid	0.161037	haploid	keep:-
+TFCN_152A-1	37002.276	18697174	diploid	diploid	diploid	diploid	0.678955	diploid	keep:-
+TFCN_152A-12	0.626	19157154	haploid	haploid	non_diploid	diploid	0.164435	haploid	keep:-
+TFCN_152A-2	30.491	19054985	haploid	haploid	non_diploid	diploid	0.016353	haploid	keep:-
+TFCN_152A-3	655.042	885439	unknown	diploid	non_diploid	diploid	0.010332		drop:no_metadata,low_coverage
+TFCN_152A-5	0.262	19095040	haploid	haploid	non_diploid	diploid	0.202190	haploid	keep:-
+TFCN_152C-5	27.213	18593995	haploid	haploid	non_diploid	diploid	0.011024	haploid	keep:-
+TFCN_17-0-2E334-10	32.312	19033336	haploid	haploid	non_diploid	diploid	0.014404	haploid	keep:-
+TFCN_17-0-2E334-4	34682.909	18953831	diploid	diploid	diploid	diploid	0.731771	haploid_from_hybrid	keep:-
+TFCN_17-0-2E337-3	36528.812	18697186	diploid	diploid	diploid	diploid	0.669872	diploid	keep:-
+TFCN_17-0-2E390-1	24098.794	18874513	diploid	diploid	diploid	diploid	0.531232	diploid	keep:-
+TFCN_17-0-2E390-2	36625.876	18836437	diploid	diploid	diploid	diploid	0.714628	diploid	keep:-
+TFCN_17-267M-1	22955.980	19002282	diploid	diploid	diploid	diploid	0.539148	diploid	keep:-
+TFCN_17-291Y-1	37118.273	18729724	diploid	diploid	diploid	diploid	0.685353	diploid	keep:-
+TFCN_17-325D-2	1.662	19257078	haploid	haploid	non_diploid	diploid	0.221684	haploid	keep:-
+TFCN_17-325D-4	1.412	19117814	haploid	haploid	non_diploid	diploid	0.234767	haploid	keep:-
+TFCN_17-325P-1	1.090	19270984	haploid	haploid	non_diploid	diploid	0.198077	haploid	keep:-
+TFCN_17-329Y-4	63.090	18608286	haploid	haploid	non_diploid	haploid	0.008440	haploid	keep:-
+TFCN_17-332C-1	0.575	19145113	haploid	haploid	non_diploid	diploid	0.187124	haploid	keep:-
+TFCN_17-332C-2	0.261	19159541	haploid	haploid	non_diploid	diploid	0.200174	haploid	keep:-
+TFCN_17-332D-1	0.626	19161266	haploid	haploid	non_diploid	diploid	0.143961	haploid	keep:-
+TFCN_17-332M-1	452.707	13865479	haploid	haploid	non_diploid	haploid	0.009731	haploid	drop:other_species
+TFCN_17-332M-2	2.042	19098515	haploid	haploid	non_diploid	diploid	0.171119	haploid	keep:-
+TFCN_17-332P-1	0.939	19164523	haploid	haploid	non_diploid	diploid	0.125874	haploid	keep:-
+TFCN_17-332P-2	0.313	19149969	haploid	haploid	non_diploid	diploid	0.167102	haploid	keep:-
+TFCN_17-333D-2	0.760	18417294	haploid	haploid	non_diploid	diploid	0.159906	haploid	drop:low_coverage
+TFCN_17-333M-1	34929.869	18714986	diploid	diploid	diploid	diploid	0.674434		drop:no_metadata
+TFCN_17-333P-6	35795.693	19051538	diploid	diploid	diploid	diploid	0.746816	diploid	keep:-
+TFCN_17-334C-1	0.836	19142373	haploid	haploid	non_diploid	diploid	0.217316	haploid	keep:-
+TFCN_17-334D-6	35625.241	18686891	diploid	diploid	diploid	diploid	0.655053	diploid	keep:-
+TFCN_17-334P-3	24.354	19011254	haploid	haploid	non_diploid	diploid	0.010725	haploid	keep:-
+TFCN_17-334Y-2	0.678	19173397	haploid	haploid	non_diploid	diploid	0.115736	haploid	keep:-
+TFCN_17-334Y-3	21.563	19060489	haploid	haploid	non_diploid	haploid	0.009428	haploid	keep:-
+TFCN_17-334Y-5	36877.633	18722243	diploid	diploid	diploid	diploid	0.680701	diploid	keep:-
+TFCN_17-337P-5	35615.135	19025507	diploid	diploid	diploid	diploid	0.745633	diploid	keep:-
+TFCN_17-338D-3	1.454	19256343	haploid	haploid	non_diploid	diploid	0.130484	haploid	keep:-
+TFCN_17-390M-1	37033.300	18821979	diploid	diploid	diploid	diploid	0.716121	diploid	keep:-
+TFCN_172A-1	0.313	19154574	haploid	haploid	non_diploid	diploid	0.182193	haploid	keep:-
+TFCN_17Y-278-1	37344.290	18720158	diploid	diploid	diploid	diploid	0.686953	haploid_from_hybrid	keep:-
+TFCN_181A-1	1.776	19148316	haploid	haploid	non_diploid	diploid	0.171602	haploid	keep:-
+TFCN_186CL-2	35435.494	18555068	diploid	diploid	diploid	diploid	0.651192		drop:no_metadata
+TFCN_1A-1-5	1.830	19128102	haploid	diploid	non_diploid	diploid	0.213046		drop:no_metadata,no_het_diploid
+TFCN_1A-14	410.258	14698070	haploid	haploid	non_diploid	haploid	0.009162	haploid	drop:other_species
+TFCN_209-6-1	0.418	19137484	haploid	haploid	non_diploid	diploid	0.143933	haploid	keep:-
+TFCN_209-6-11	0.789	19001426	haploid	haploid	non_diploid	diploid	0.188511	haploid	keep:-
+TFCN_209-6-12	0.784	19133291	haploid	haploid	non_diploid	diploid	0.203336	haploid	keep:-
+TFCN_209-6-14	1.096	19156759	haploid	haploid	non_diploid	diploid	0.196994	haploid	keep:-
+TFCN_209-6-17	0.679	19141915	haploid	haploid	non_diploid	diploid	0.156198	haploid	keep:-
+TFCN_209-6-2	0.470	19162569	haploid	haploid	non_diploid	diploid	0.100586	haploid	keep:-
+TFCN_209-6-4	0.365	19164223	haploid	haploid	non_diploid	diploid	0.086999	haploid	keep:-
+TFCN_209-6-5	1.201	19145989	haploid	haploid	non_diploid	diploid	0.177433	haploid	keep:-
+TFCN_211A-3	23.239	19062776	haploid	haploid	non_diploid	haploid	0.009882	haploid	keep:-
+TFCN_211C-2	977.094	1541305	unknown	diploid	non_diploid	diploid	0.015499		drop:no_metadata,low_coverage
+TFCN_212C-2	0.574	19166986	haploid	haploid	non_diploid	diploid	0.105465	haploid	keep:-
+TFCN_213-6-2	0.580	18980053	haploid	haploid	non_diploid	diploid	0.225564	haploid	keep:-
+TFCN_213-6-4	0.627	19153611	haploid	haploid	non_diploid	diploid	0.138019	haploid	keep:-
+TFCN_223A-8	0.418	19158602	haploid	haploid	non_diploid	diploid	0.148177	haploid	keep:-
+TFCN_22C-4	37243.912	18834971	diploid	diploid	diploid	diploid	0.724327	diploid	keep:-
+TFCN_25-0-2E332-1	1.326	18856740	haploid	haploid	non_diploid	diploid	0.120150	haploid	drop:low_coverage
+TFCN_25-0-2E333-1	35922.006	19044510	diploid	diploid	diploid	diploid	0.761445	diploid	keep:-
+TFCN_25-0-2E333-5	25.665	19013852	haploid	haploid	non_diploid	diploid	0.010592	haploid	keep:-
+TFCN_25-0-2E333-7	1.767	19237258	haploid	haploid	non_diploid	diploid	0.204444	haploid	keep:-
+TFCN_25-0-2E333-9	23.581	17938083	haploid	haploid	non_diploid	diploid	0.010208	haploid	keep:-
+TFCN_25-0-2E334-1	35402.071	18600550	diploid	diploid	diploid	diploid	0.646131	diploid	keep:-
+TFCN_25-0-2E390-1	34117.862	18842007	diploid	diploid	diploid	diploid	0.673515	diploid	keep:-
+TFCN_25-325Y-1	1.298	19257971	haploid	haploid	non_diploid	diploid	0.113716	haploid	keep:-
+TFCN_25-327D-1	22.922	19064664	haploid	haploid	non_diploid	haploid	0.009838	haploid	keep:-
+TFCN_25-331D-1	27580.560	18844976	diploid	diploid	diploid	diploid	0.573532	diploid	keep:-
+TFCN_25-332C-1	0.626	19160382	haploid	haploid	non_diploid	diploid	0.094416	haploid	keep:-
+TFCN_25-332D-1	0.835	19171039	haploid	haploid	non_diploid	diploid	0.106911	haploid	keep:-
+TFCN_25-332D-2	1.463	19140259	haploid	haploid	non_diploid	diploid	0.200331	too low	keep:no_het_diploid
+TFCN_25-332M-1	0.835	19166864	haploid	haploid	non_diploid	diploid	0.111452	haploid	keep:-
+TFCN_25-332M-2	2.038	19134540	haploid	diploid	non_diploid	diploid	0.202005		drop:no_metadata,no_het_diploid
+TFCN_25-332P-2	0.314	19130983	haploid	haploid	non_diploid	diploid	0.213787	haploid	keep:-
+TFCN_25-332Y-1	0.418	19131814	haploid	haploid	non_diploid	diploid	0.233419	haploid	keep:-
+TFCN_25-333C-2	19.508	19068908	haploid	haploid	non_diploid	diploid	0.012148	haploid	keep:-
+TFCN_25-333P-2	25.903	19032229	haploid	haploid	non_diploid	diploid	0.010120	haploid	keep:-
+TFCN_25-333Y-10	348.560	12557382	haploid	haploid	non_diploid	haploid	0.006313	haploid	drop:other_species
+TFCN_25-333Y-9	22.389	19071554	haploid	haploid	non_diploid	haploid	0.009815	haploid	keep:-
+TFCN_25-334D-3	45.660	18703559	haploid	haploid	non_diploid	haploid	0.009182	haploid	keep:-
+TFCN_25-334Y-6	363.658	13537458	haploid	haploid	non_diploid	haploid	0.007636	haploid	drop:other_species
+TFCN_25-335Y-1	2.144	19127500	haploid	haploid	non_diploid	diploid	0.229452	haploid	keep:-
+TFCN_25-337M-3	1.161	17230718	haploid	haploid	non_diploid	diploid	0.214229	haploid	drop:low_coverage
+TFCN_25-337Y-1	0.417	19168205	haploid	haploid	non_diploid	diploid	0.092794	haploid	keep:-
+TFCN_25-395P-1	358.272	13372517	haploid	haploid	non_diploid	haploid	0.007180	haploid	drop:other_species
+TFCN_270H-1	36615.485	18614884	diploid	diploid	diploid	diploid	0.664045	too low	keep:-
+TFCN_270H-2	25.103	18921922	haploid	haploid	non_diploid	diploid	0.010043	haploid	keep:-
+TFCN_273H-1	36.773	19035625	haploid	haploid	non_diploid	diploid	0.015641	haploid	keep:-
+TFCN_2M-1-3	30.048	19002956	haploid	diploid	non_diploid	diploid	0.013233		drop:no_metadata,no_het_diploid
+TFCN_2M-1-4	26.708	19020179	haploid	haploid	non_diploid	diploid	0.011852	haploid	keep:-
+TFCN_33A-4	404.638	13384796	haploid	haploid	non_diploid	diploid	0.011106	haploid	drop:other_species
+TFCN_340-1	21.299	19061542	haploid	haploid	non_diploid	haploid	0.009721	haploid	keep:-
+TFCN_340-3	23.149	19050760	haploid	haploid	non_diploid	haploid	0.009616	haploid	keep:-
+TFCN_342-3	0.261	19140391	haploid	haploid	non_diploid	diploid	0.197368	haploid	keep:-
+TFCN_363-1-2	26.373	17328298	haploid	haploid	non_diploid	diploid	0.011222	haploid	drop:low_coverage
+TFCN_3M-1-1	4153.949	17135500	diploid	diploid	non_diploid	diploid	0.076845	aneuploid	drop:other_species,ploidy_skewed
+TFCN_404D-1	33523.576	18429836	diploid	diploid	diploid	diploid	0.651134	diploid	keep:-
+TFCN_4M-1-2	22.830	19053786	haploid	haploid	non_diploid	haploid	0.009710	haploid	keep:-
+TFCN_4M-1-3	1.409	19156376	haploid	haploid	non_diploid	diploid	0.148681	haploid	keep:-
+TFCN_4M-1-4	0.366	19123978	haploid	haploid	non_diploid	diploid	0.180676	haploid	keep:-
+TFCN_4M-1-5	0.678	19163201	haploid	haploid	non_diploid	diploid	0.113106	haploid	keep:-
+TFCN_54D-1	37206.988	18724789	diploid	diploid	diploid	diploid	0.686702	diploid	keep:-
+TFCN_54D-2	0.417	19168018	haploid	haploid	non_diploid	diploid	0.115987	haploid	keep:-
+TFCN_7-6-3	1683.415	1461315	unknown	diploid	diploid	diploid	0.020646		drop:no_metadata,low_coverage
+TFCN_86A-12	0.535	18706668	haploid	haploid	non_diploid	diploid	0.235741	haploid	keep:-
+TFCN_86A-3	1.830	19127628	haploid	haploid	non_diploid	diploid	0.173680	haploid	keep:-
+TFCN_86A-5	890.436	2764937	unknown	haploid	non_diploid	haploid	0.009762		drop:no_metadata,low_coverage
+TFCN_86C-3	0.784	19125067	haploid	diploid	non_diploid	diploid	0.174096		drop:no_metadata,no_het_diploid
+TFCN_89D-3	24.029	17228911	haploid	haploid	non_diploid	diploid	0.010215	haploid	drop:low_coverage
+TFCN_98A-10	24.292	19060022	haploid	haploid	non_diploid	diploid	0.010217	haploid	keep:-
+TFCN_98A-5	0.261	19158769	haploid	haploid	non_diploid	diploid	0.142857	haploid	keep:-
+TFCN_98C-3	0.261	19127866	haploid	haploid	non_diploid	diploid	0.147943	haploid	keep:-
+TFCN_98C-5	0.470	19152378	haploid	haploid	non_diploid	diploid	0.091324	haploid	keep:-
+TFCN_98C-7	21.402	19016801	haploid	haploid	non_diploid	haploid	0.009822	haploid	keep:-
+TFCN_98C-8	1.044	19157274	haploid	haploid	non_diploid	diploid	0.127042	haploid	keep:-
+TFCN_98D-11	0.523	19110712	haploid	haploid	non_diploid	diploid	0.190583	haploid	keep:-
+TFCN_98D-7	0.731	19153973	haploid	haploid	non_diploid	diploid	0.116850	haploid	keep:-
+TFCN_98D-9	0.628	19121481	haploid	haploid	non_diploid	diploid	0.178686	haploid	keep:-
+TFCN_BY120-C1	32.578	19000474	haploid	diploid	non_diploid	diploid	0.014695		drop:no_metadata,no_het_diploid
+TFCN_BY120-C7	33.661	18983642	haploid	diploid	non_diploid	diploid	0.014263		drop:no_metadata,no_het_diploid
