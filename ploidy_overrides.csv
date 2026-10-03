@@ -3,7 +3,7 @@ TFCN_25-337Y-1,haploid
 DBVPG_3777,haploid
 TFCN_404D-1,diploid
 EXF_10630,diploid
-TFCN_1A-1-5,diploid
+TFCN_1A-1-5,haploid
 TFCN_86A-3,haploid
 DBVPG_5229,haploid
 EXF_1676,haploid
@@ -93,7 +93,7 @@ TFCN_137D-4,haploid
 DBVPG_6741,haploid
 DBVPG_3984,haploid
 TFCN_17-332C-1,haploid
-TFCN_25-332M-2,diploid
+TFCN_25-332M-2,haploid
 TFCN_2M-1-4,haploid
 TFCN_211C-2,diploid
 EXF_10533,haploid
@@ -187,7 +187,7 @@ TFCN_17-329Y-4,haploid
 DBVPG_4203,haploid
 TFCN_209-6-17,haploid
 TFCN_89D-3,haploid
-TFCN_BY120-C7,diploid
+TFCN_BY120-C7,haploid
 DBVPG_10656,haploid
 TFCN_209-6-14,haploid
 TFCN_106A-1,haploid
@@ -230,7 +230,7 @@ CHIFNET_14NJ214,diploid
 DBVPG_3856,diploid
 EXF_6325,haploid
 EXF_6370,haploid
-TFCN_2M-1-3,diploid
+TFCN_2M-1-3,haploid
 EXF_3629,haploid
 DBVPG_10886,haploid
 EXF_3626,haploid
@@ -248,7 +248,7 @@ DBVPG_4534,haploid
 EXF_13601,haploid
 TFCN_209-6-11,haploid
 TFCN_7-6-3,diploid
-TFCN_86C-3,diploid
+TFCN_86C-3,haploid
 DBVPG_4964,haploid
 DBVPG_10780,haploid
 TFCN_98A-10,haploid
@@ -294,7 +294,7 @@ TFCN_102C-1,haploid
 TFCN_273H-1,haploid
 DBVPG_3858,haploid
 EXF_8942,haploid
-TFCN_BY120-C1,diploid
+TFCN_BY120-C1,haploid
 DBVPG_5759,haploid
 TFCN_209-6-1,haploid
 EXF_8463,haploid

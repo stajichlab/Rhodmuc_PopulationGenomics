@@ -87,7 +87,7 @@ Balanced sites per 1000 covered sites (method 4):
 
 ## Changes made
 
-1. **`ploidy_overrides.csv`:** DBVPG_3239, DBVPG_6094 and TFCN_25-332D-2 changed from diploid to haploid. The counts are now 51 diploid and 268 haploid. The file before the change is `ploidy_overrides.before_2026-10-03.csv`. The file uses CRLF line endings, and those were kept.
+1. **`ploidy_overrides.csv`:** DBVPG_3239, DBVPG_6094 and TFCN_25-332D-2 changed from diploid to haploid. The counts were then 51 diploid and 268 haploid. Six more strains changed later; see "Second reclassification". The file before the change is `ploidy_overrides.before_2026-10-03.csv`. The file uses CRLF line endings, and those were kept.
 2. **`population_sets.yaml`:** regenerated with `scripts/variant_qc/make_population_sets.py`, with a header note about this change. Group membership did not change: rmuc_core has 235 strains, rmuc_core_outgroup 252, rmuc_with_hybrids 267 and hybrid_diploids 32. The three strains are still in rmuc_core.
 3. **GATK population run:** started again with `sbatch -t 3-00:00:00 run_genotype_full.sh -resume` (job 29359109). Pipeline: nf_genotype_population, branch `feature/strain-tree` (PR #4).
    - HaplotypeCaller runs again only for the three strains. The GVCFs of the other 316 strains come from cache.
@@ -180,8 +180,30 @@ The 15 disagreements with `ploidy_overrides.csv`:
 
 All 15 strains are already dropped (`excluded_strains.tsv`). None is in `population_sets.yaml`, so the current GATK run is not affected. The three reclassified strains score 1.5 (TFCN_25-332D-2), 30.5 (DBVPG_3239) and 35.4 (DBVPG_6094) hets/Mb, which is haploid.
 
-## Open items
+## Second reclassification: six no-metadata strains
 
-- **Six no-metadata strains:** decide whether to change them to haploid in `ploidy_overrides.csv`. They are dropped now, so this matters only if they get metadata later.
+On 2026-10-03, after review, TFCN_1A-1-5, TFCN_25-332M-2, TFCN_2M-1-3, TFCN_86C-3, TFCN_BY120-C1 and TFCN_BY120-C7 were changed from diploid to haploid in `ploidy_overrides.csv`. The counts are now 45 diploid and 274 haploid.
+
+| Strain | GATK het rate | Balanced / 1000 | Hets/Mb (v2) | nQuire | Old ratio |
+|---|---|---|---|---|---|
+| TFCN_1A-1-5 | 0.000 | 0.02 | 1.8 | non_diploid | diploid (0.213) |
+| TFCN_25-332M-2 | 0.000 | 0.03 | 2.0 | non_diploid | diploid (0.202) |
+| TFCN_86C-3 | 0.000 | 0.02 | 0.8 | non_diploid | diploid (0.174) |
+| TFCN_2M-1-3 | 0.001 | 0.15 | 30.0 | non_diploid | diploid (0.0132) |
+| TFCN_BY120-C1 | 0.001 | 0.13 | 32.6 | non_diploid | diploid (0.0147) |
+| TFCN_BY120-C7 | 0.000 | 0.15 | 33.7 | non_diploid | diploid (0.0143) |
+
+Facts about these strains:
+- None of them has a row in `metadata.txt`.
+- `ploidy_overrides_DRAFT.csv` and `ploidy_overrides_NEEDS_REVIEW.csv` already listed all six as haploid. The files do not record why the final overrides had them as diploid.
+- Only the defective old ratio called them diploid.
+- They are excluded from every population group (`no_metadata`), so `population_sets.yaml` does not change.
+
+Effect on the GATK run:
+- Job 29359109 started before this change and still calls these six strains as diploid.
+- The six strains are in the `all` callset only. The group outputs are cut from that callset, so they include no genotypes from these strains.
+- The next `-resume` will rerun HaplotypeCaller for the six strains and joint genotyping for all strains.
+
+## Open items
 - **Duplicate metadata:** `metadata.txt` has two rows for TFCN_25-332D-2.
 - **Homozygous diploids:** a fully homozygous diploid cannot be detected from SNP data. Flow cytometry, or a read-depth method with an internal reference, would be needed.
