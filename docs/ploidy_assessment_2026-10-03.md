@@ -19,7 +19,7 @@
 - **Het fraction:** heterozygous biallelic SNPs / all biallelic SNPs. A het is meant to count only if its allele balance is from 0.35 to 0.65.
 - **Call:** diploid if the het fraction is above 0.01 (`--threshold`).
 - **Output:** `results/ploidy_inference_all.csv` (strain, inferred_ploidy, het_fraction).
-- **Open issue (not verified):** the mpileup command has no `-a FORMAT/AD`. When AD is absent, the script trusts the GT call. So the allele-balance check is probably not applied in production runs. This can inflate het fractions.
+- **Defect (tested; see "Method 1 defect" below):** the denominator counts only variant sites (het + hom-alt). In a strain close to the reference this count is very small, so a few noise hets in repeats give a large fraction. An earlier version of this report said the allele-balance check was skipped because AD was missing. That was wrong: bcftools 1.24 mpileup writes FORMAT/AD by default, and the check does apply.
 - **Agreement:** this method agreed with the metadata for only 136 of 319 strains (`results/ploidy_review.csv`).
 
 ### 2. nQuire (pipeline module NQUIRE)
@@ -115,8 +115,38 @@ New outputs will be:
 
 `<pop>` is one of: all, rmuc_core, rmuc_core_outgroup, rmuc_with_hybrids, hybrid_diploids.
 
+## Method 1 defect
+
+Test: `scripts/variant_qc/het_script_test.sh` (SLURM job 29359874, log `logs/het_script_test.29359874.log`). It runs the production command on contig CM179498.1 (1,038,828 bp), then reruns with mapping and base quality ≥ 20, QUAL ≥ 30, DP ≥ 10, and the repeat mask.
+
+The script computes: het_fraction = hets with allele balance 0.35–0.65 / all biallelic variant sites (het + hom-alt). It calls diploid if het_fraction > 0.01.
+
+| Strain | Production call (genome) | AB-passing hets | het + hom-alt | Value on CM179498.1 | Hets after filters + mask |
+|---|---|---|---|---|---|
+| TFCN_25-332D-2 | diploid (0.200) | 3 | 126 | 0.024 | 0 |
+| EXF_8984 | diploid (0.161) | 0 | 57 | 0.000 | 1 (outside AB window) |
+| CCFEE_5036 | haploid (0.009) | 39 | 7,722 | 0.005 | 10 AB-passing of 6,698 sites |
+| DBVPG_3857 (diploid) | diploid (0.701) | 34,407 | 47,112 | 0.730 | 32,625 AB-passing of 43,977 sites |
+
+Cause:
+- `bcftools call -v` writes only variant sites. So the denominator is mostly the number of hom-alt sites, which measures distance from the reference, not genome size.
+- A strain close to the reference has very few hom-alt sites: 37 for TFCN_25-332D-2 and 24 for EXF_8984 on this 1 Mb contig.
+- A handful of balanced noise hets then pass the 0.01 threshold.
+- Without the mask and quality filters, those noise hets come mostly from repeats. On this contig, the mask removes all 82 filtered hets in TFCN_25-332D-2 and 15 of 16 in EXF_8984.
+
+Population-wide effect (`results/variant_qc/ploidy_evidence.tsv` and `strain_qc.tsv`, called haploids without a low-coverage drop, n = 256):
+- 115 called haploids differ from the reference at fewer than 0.05% of variant sites. Their median het_fraction is 0.172, and method 1 calls 114 of them diploid.
+- For divergence from 0.5% to 5%, the median is 0.008 to 0.010.
+- The Spearman correlation between divergence and het_fraction is −0.684.
+- This explains most of the 162 DISAGREE rows in `results/ploidy_review.csv`.
+
+Proposed fix:
+- Count heterozygous sites per covered kb, not per variant site. This needs a denominator of callable bases (for example `samtools depth` or `mosdepth` at DP ≥ 10).
+- Add mpileup `-q 20 -Q 20`, a QUAL ≥ 30 and DP ≥ 10 site filter, and the repeat mask.
+- On CM179498.1, AB-passing hets per Mb after filters are: diploid DBVPG_3857 about 31,000; divergent haploid CCFEE_5036 about 10; near-reference haploids 0. The genome-wide threshold must still be set from all strains.
+
 ## Open items
 
-- **custom_het_script:** add `-a FORMAT/AD` to the mpileup call, then confirm that the allele-balance check applies.
+- **custom_het_script:** fix the denominator and add filters (see "Method 1 defect").
 - **Duplicate metadata:** `metadata.txt` has two rows for TFCN_25-332D-2.
 - **Homozygous diploids:** a fully homozygous diploid cannot be detected from SNP data. Flow cytometry, or a read-depth method with an internal reference, would be needed.
