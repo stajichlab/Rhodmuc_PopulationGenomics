@@ -1,0 +1,601 @@
+sample	hashtag	species	strain	ploidy	MAT_type	Origin	Environment
+Cystobasidium_sp._DBVPG_10075	12bef44f	Cystobasidium sp.	DBVPG_10075			Italy	soil
+Pseudomicrostroma_phylloplanum_DBVPG_6740	1075fb07	Pseudomicrostroma phylloplanum	DBVPG_6740			Italy	plant
+Pseudomicrostroma_phylloplanum_EXF_4148	39adc606	Pseudomicrostroma phylloplanum	EXF_4148			Slovenia	Beehive
+Rhodotorula_aff_babjevae_DBVPG_4629	bf624949	R. aff. babjevae	DBVPG_4629	haploid	A2		
+Rhodotorula_aff_babjevae_DBVPG_8058	8aa310d9	R. aff. babjevae	DBVPG_8058	haploid	A1	Italy	food
+Rhodotorula_aff_babjevae_EXF_14539	dbee10fb	R. aff. babjevae	EXF_14539	haploid	A2	Slovenia	seawater
+Rhodotorula_aff_babjevae_EXF_6481	15c4d46a	R. aff. babjevae	EXF_6481	haploid	A1	Slovenia	Mofette
+Rhodotorula_aff_babjevae_EXF_7045	dc8cbd50	R. aff. babjevae	EXF_7045	haploid	A2	Slovenia	wall_surface
+Rhodotorula_graminis_JJ10.1	22dd5415	R. aff. babjevae	JJ10.1	haploid	A2	China	plant
+Rhodotorula_aff_babjevae_TFCN_17-328C-3	3ff329e0	R. aff. babjevae	TFCN_17-328C-3	haploid	A1	China	marsh_tidalflat
+Rhodotorula_aff_babjevae_TFCN_17-328P-3	6b34d17d	R. aff. babjevae	TFCN_17-328P-3	haploid	A1	China	marsh_tidalflat
+Rhodotorula_aff_babjevae_TFCN_17-331Y-3	ce524341	R. aff. babjevae	TFCN_17-331Y-3	haploid	A2	China	marsh_tidalflat
+Rhodotorula_aff_babjevae_TFCN_222A-2	cd20d03a	R. aff. babjevae	TFCN_222A-2	haploid	A1	China	marsh_tidalflat
+Rhodotorula_aff_babjevae_TFCN_25-333D-1	cc201454	R. aff. babjevae	TFCN_25-333D-1	haploid	A2	China	marsh_tidalflat
+Rhodotorula_aff_babjevae_TFCN_25-333D-5	84b0be2b	R. aff. babjevae	TFCN_25-333D-5	haploid	A2	China	marsh_tidalflat
+Rhodotorula_aff_babjevae_TFCN_25-333Y-2	7b8cf90b	R. aff. babjevae	TFCN_25-333Y-2	haploid	A2	China	marsh_tidalflat
+Rhodotorula_aff_babjevae_TFCN_86C-7	ab0d9da2	R. aff. babjevae	TFCN_86C-7	haploid	A1	China	marsh_tidalflat
+Rhodotorula_sp._CC01	da56e38c	R. aff. mucilaginosa	CC01	haploid	A2	China	landfill_leachate
+Rhodotorula_mucilaginosa_DBVPG_3045_hap2	a0b21b64	R. aff. mucilaginosa	DBVPG_3045	haploid_from_hybrid	A2	Italy	food
+Rhodotorula_mucilaginosa_DBVPG_4380	5c5b4f76	R. aff. mucilaginosa	DBVPG_4380	diploid	A1/A2	Italy	sand
+Rhodotorula_mucilaginosa_DBVPG_4534	a9a04f24	R. aff. mucilaginosa	DBVPG_4534	haploid	A1	Italy	sand
+Rhodotorula_mucilaginosa_DBVPG_8043	e6de833d	R. aff. mucilaginosa	DBVPG_8043	haploid	A1	Italy	water
+Rhodotorula_mucilaginosa_EXF_5666	929ed2d5	R. aff. mucilaginosa	EXF_5666	haploid	A1	Slovenia	rubber_in_washing_machine
+Rhodotorula_mucilaginosa_F6_8S_P_5A	02796177	R. aff. mucilaginosa	F6_8S_P_5A	haploid	A1	America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_8S_P_5B	b82f15c6	R. aff. mucilaginosa	F6_8S_P_5B	haploid	A1	America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_JY1105	1b4d6f39	R. aff. mucilaginosa	JY1105	haploid	A1	China	unknown
+Rhodotorula_mucilaginosa_TFCN_17-0-2E334-4_hap2	4f507f4a	R. aff. mucilaginosa	TFCN_17-0-2E334-4	haploid_from_hybrid	A1	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17Y-278-1_hap2	50c56793	R. aff. mucilaginosa	TFCN_17Y-278-1	haploid_from_hybrid	A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-333Y-10	2f64f681	R. aff. mucilaginosa	TFCN_25-333Y-10	haploid	A1	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-334Y-6	bf52faae	R. aff. mucilaginosa	TFCN_25-334Y-6	haploid	A1	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-395P-1	f0ad56d6	R. aff. mucilaginosa	TFCN_25-395P-1	haploid	A1	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_33A-4	3f9bc785	R. aff. mucilaginosa	TFCN_33A-4	haploid	A1	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_VS_AB_II_KN_2	acac540e	R. aff. mucilaginosa	VS_AB_II_KN_2	haploid	A2	America	ISS_Vacuum_filter_from_cleanroom
+Rhodotorula_araucariae_Y17376	684b3183	R. araucariae	Y17376	haploid	A2	America	plant
+Rhodotorula_babjevae_CBS_7808	d78d13f6	R. babjevae	CBS_7808	haploid	A1	Russia	plant
+Rhodotorula_dairenensis_DBVPG_3768	eeaa348b	R. dairenensis	DBVPG_3768	haploid	A2	Italy	soil
+Rhodotorula_dairenensis_DBVPG_3769	2771b5e7	R. dairenensis	DBVPG_3769	haploid	A2	Italy	soil
+Rhodotorula_dairenensis_DBVPG_3770	4f2ec199	R. dairenensis	DBVPG_3770	haploid	A2	Italy	soil
+Rhodotorula_dairenensis_DBVPG_3771	d79c7ae6	R. dairenensis	DBVPG_3771	haploid	A2	Italy	soil
+Rhodotorula_dairenensis_DBVPG_3772	d830b0c4	R. dairenensis	DBVPG_3772	haploid	A2	Italy	soil
+Rhodotorula_dairenensis_DBVPG_3773	8088c4ff	R. dairenensis	DBVPG_3773	haploid	A2	Italy	soil
+Rhodotorula_dairenensis_DBVPG_3853	96f55247	R. dairenensis	DBVPG_3853	haploid	A2	Italy	plant
+Rhodotorula_dairenensis_TFCN_7W-292-3	fe4484f3	R. dairenensis	TFCN_7W-292-3	haploid	A2	China	marsh_tidalflat
+Rhodotorula_dairenensis_Y2504	cdc6a58d	R. dairenensis	Y2504	haploid	A2	America	soil
+Rhodotorula_diobovata_DBVPG_6195	97aa1894	R. diobovata	DBVPG_6195	haploid	A2	Italy	marine
+Rhodotorula_diobovata_DBVPG_6202	85e0c69b	R. diobovata	DBVPG_6202	haploid	A1	Italy	marine
+Rhodotorula_diobovata_EXF_13298	60c4c6d1	R. diobovata	EXF_13298	haploid	A1	Slovenia	mixture_of_water_and_oil
+Rhodotorula_diobovata_EXF_3438	100506cf	R. diobovata	EXF_3438	haploid	A1	Arctic	glacier_ice
+Rhodotorula_diobovata_EXF_3546	ccc17f5b	R. diobovata	EXF_3546	haploid	A1	Arctic	glacier_ice
+Rhodotorula_diobovata_EXF_4029	40edecfb	R. diobovata	EXF_4029	haploid	A1	Arctic	glacier_ice
+Rhodotorula_diobovata_EXF_4236	eb5cf72a	R. diobovata	EXF_4236	haploid	A1	Arctic	glacier_ice
+Rhodotorula_diobovata_EXF_4884	890f84f6	R. diobovata	EXF_4884	haploid	A1	Croatia	red_coral_from_Adriatic_sea
+Rhodotorula_diobovata_EXF_9284	db6d7191	R. diobovata	EXF_9284	haploid	A2	Slovenia	Rubber_of_dishwasher
+Rhodotorula_diobovata_TFCN_17-334Y-6	e9ca6a3a	R. diobovata	TFCN_17-334Y-6	haploid	A2	China	marsh_tidalflat
+Rhodotorula_diobovata_TFCN_25-335C-1	9b23e0be	R. diobovata	TFCN_25-335C-1	haploid	A2	China	marsh_tidalflat
+Rhodotorula_diobovata_TFCN_25-335P-1	5a5afceb	R. diobovata	TFCN_25-335P-1	haploid	A2	China	marsh_tidalflat
+Rhodotorula_diobovata_TFCN_7-9-2	f90e0640	R. diobovata	TFCN_7-9-2	haploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_diobovata_TFCN_7-9-3	99ee3c7d	R. diobovata	TFCN_7-9-3	haploid		China	marsh_tidalflat
+Rhodotorula_diobovata_UCD-FST_08-225	6f9cb8d0	R. diobovata	UCD-FST_08-225	haploid	A1	America	sea_water
+Rhodotorula_diobovata_Y7196	117e0ad2	R. diobovata	Y7196	haploid	A1	America	sea_water
+Rhodotorula_evergladensis_DBVPG7922	8ef4ee14	R. evergladensis	DBVPG7922	haploid	A2	Mexico	desert_soil
+Rhodotorula_evergladensis_DBVPG_7922	bde01b4f	R. evergladensis	DBVPG_7922	haploid	Repeat	Mexico	desert_soil
+Rhodotorula_mucilaginosa_CHIFNET_14NJ214	e81b3795	R. frigidialcoholis	CHIFNET_14NJ214	diploid	A2	China	blood
+Rhodotorula_mucilaginosa_DBVPG_3855_hap2	657c316e	R. frigidialcoholis	DBVPG_3855	haploid_from_hybrid	A1	Italy	plant
+Rhodotorula_frigidialcoholis_DBVPG_6660	3f5e76e8	R. frigidialcoholis	DBVPG_6660	haploid	A2	Italy	food
+Rhodotorula_frigidialcoholis_EXF_13250	38ea0d49	R. frigidialcoholis	EXF_13250	haploid	A2	Mexico	volcano
+Rhodotorula_frigidialcoholis_EXF_13255	ee4a6791	R. frigidialcoholis	EXF_13255	haploid	A2	Mexico	volcano
+Rhodotorula_frigidialcoholis_EXF_13601	e02c9f3c	R. frigidialcoholis	EXF_13601	haploid	A2	Greenland	air
+Rhodotorula_frigidialcoholis_EXF_3629	043defee	R. frigidialcoholis	EXF_3629	haploid	A2	Arctic	Glacier_ice_with_little_sediment
+Rhodotorula_frigidialcoholis_EXF_3633	1eed1a8c	R. frigidialcoholis	EXF_3633	haploid	A2	Arctic	Glacier_ice
+Rhodotorula_frigidialcoholis_EXF_7386	e401546f	R. frigidialcoholis	EXF_7386	haploid	A2	Slovenia	Refrigerator
+Rhodotorula_mucilaginosa_F6_4S_B_2B	615e5d12	R. frigidialcoholis	F6_4S_B_2B	haploid	A2	America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_8S_B_1B	2a930846	R. frigidialcoholis	F6_8S_B_1B	haploid	A2	America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_8S_P_6A	46e2f8cd	R. frigidialcoholis	F6_8S_P_6A	haploid	A2	America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_8S_P_6B	ee397331	R. frigidialcoholis	F6_8S_P_6B	haploid	A2	America	ISS_environmental_surface
+Rhodotorula_frigidialcoholis_JG-1b	47aba4e7	R. frigidialcoholis	JG-1b	haploid	A2	Antarctica	permafrost_soils
+Rhodotorula_frigidialcoholis_TFCN_134A-3	735255f6	R. frigidialcoholis	TFCN_134A-3	haploid	A2	China	marsh_tidalflat
+Rhodotorula_frigidialcoholis_TFCN_17-332M-1	ae6110dc	R. frigidialcoholis	TFCN_17-332M-1	haploid	A2	China	marsh_tidalflat
+Rhodotorula_frigidialcoholis_TFCN_1A-14	99b0e35f	R. frigidialcoholis	TFCN_1A-14	haploid	A2	China	marsh_tidalflat
+Rhodotorula_frigidialcoholis_TFCN_3M-1-1	9c680644	R. frigidialcoholis	TFCN_3M-1-1	aneuploid	A2	China	marsh_tidalflat
+Rhodotorula_sp._VS67	a42f2859	R. frigidialcoholis	VS67	haploid	A2	Belgium	plant
+Rhodotorula_glutinis_CBS_20	8fb0e81b	R. glutinis	CBS_20	haploid	A1	Unknown	atmosphere
+Rhodotorula_glutinis_DBVPG_6081	ec73ce53	R. glutinis	DBVPG_6081	haploid	A1	Italy	air_cloud
+Rhodotorula_glutinis_ZHK	9de3888f	R. glutinis	ZHK	haploid	A1	China	Pearl_River
+Rhodotorula_graminis_DBVPG_6083	b5bad49a	R. graminis	DBVPG_6083	haploid	A2	Italy	plant
+Rhodotorula_graminis_DBVPG_7021	2aede8a6	R. graminis	DBVPG_7021	haploid	A2	Italy	plant
+Rhodotorula_graminis_EXF_13753	df99e407	R. graminis	EXF_13753	haploid	A1	Slovenia	Brine
+Rhodotorula_graminis_NCYC_502	a8fcea63	R. graminis	NCYC_502	haploid	A2	UK	unknown
+Rhodotorula_graminis_WP1	b3d1de47	R. graminis	WP1	haploid	A2	America	plant
+Rhodotorula_graminis_Y2474	36a39818	R. graminis	Y2474	haploid	A2	America	plant
+Rhodotorula_kratochvilovae_CBS7436	f9adc095	R. kratochvilovae	CBS7436	haploid	A2	Unknown	unknown
+Rhodotorula_kratochvilovae_DBVPG_10383	f0b00bdb	R. kratochvilovae	DBVPG_10383	haploid	A2	Italy	soil
+Rhodotorula_kratochvilovae_DBVPG_10753	d171522d	R. kratochvilovae	DBVPG_10753	haploid	A1	Italy	built env
+Rhodotorula_kratochvilovae_DBVPG_7539	38b3ac78	R. kratochvilovae	DBVPG_7539	haploid	A2	Italy	unknown
+Rhodotorula_kratochvilovae_EXF_11626	ab09dc26	R. kratochvilovae	EXF_11626	haploid	A2	Slovenia	wasp_nest
+Rhodotorula_kratochvilovae_EXF_3697	a128317c	R. kratochvilovae	EXF_3697	haploid	A2	Arctic	glacier_ice
+Rhodotorula_kratochvilovae_EXF_7516	123871d8	R. kratochvilovae	EXF_7516	haploid	A2	Unknown	air
+Rhodotorula_kratochvilovae_LS11	91618dc3	R. kratochvilovae	LS11	haploid	A2	Italy	olive_fruits
+Rhodotorula_kratochvilovae_VS_III_C_KN_1	492850af	R. kratochvilovae	VS_III_C_KN_1	haploid	A2	America	ISS_Vacuum filter from cleanroom
+Rhodotorula_kratochvilovae_VS_II_B_KN_4	cd2aaa50	R. kratochvilovae	VS_II_B_KN_4	haploid	A2	America	ISS_Vacuum filter from cleanroom
+Rhodotorula_kratochvilovae_VS_II_C_KN_5	3948c55b	R. kratochvilovae	VS_II_C_KN_5	haploid	A2	America	ISS_Vacuum filter from cleanroom
+Rhodotorula_kratochvilovae_VS_II_D_KN_4	3aa2740d	R. kratochvilovae	VS_II_D_KN_4	haploid	A2	America	ISS_Vacuum filter from cleanroom
+Rhodotorula_kratochvilovae_Y14	d13bc105	R. kratochvilovae	Y14	haploid	A2	Germany	plant
+Rhodotorula_kratochvilovae_YM25235	b4e90a66	R. kratochvilovae	YM25235	haploid	A2	China	lake
+Rhodotorula_mucilaginosa_CCFEE_5036	47c4ecb6	R. mucilaginosa	CCFEE_5036	haploid	A2		
+Rhodotorula_mucilaginosa_CHIFNET_10NJ071	8162716f	R. mucilaginosa	CHIFNET_10NJ071	diploid	A1/A2	China	blood
+Rhodotorula_mucilaginosa_CHIFNET_12H1194	6b00ce94	R. mucilaginosa	CHIFNET_12H1194	haploid	A2	China	blood
+Rhodotorula_mucilaginosa_CHIFNET_12H1239	3a994b98	R. mucilaginosa	CHIFNET_12H1239	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_12TZ210	e1565349	R. mucilaginosa	CHIFNET_12TZ210	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_12TZ220	faee69e2	R. mucilaginosa	CHIFNET_12TZ220	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_12TZ307	a2309bb2	R. mucilaginosa	CHIFNET_12TZ307	haploid	A2	China	blood
+Rhodotorula_mucilaginosa_CHIFNET_12TZ349	1b434e9b	R. mucilaginosa	CHIFNET_12TZ349	haploid	A2	China	blood
+Rhodotorula_mucilaginosa_CHIFNET_13H1268	43cf1273	R. mucilaginosa	CHIFNET_13H1268	diploid	A2	China	blood
+Rhodotorula_mucilaginosa_CHIFNET_13TZ419	428dfe77	R. mucilaginosa	CHIFNET_13TZ419	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_14HX707	fd42269e	R. mucilaginosa	CHIFNET_14HX707	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_14NJ227	6560c202	R. mucilaginosa	CHIFNET_14NJ227	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_14NJ231	e6773648	R. mucilaginosa	CHIFNET_14NJ231	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_15TZ568	aa089d1a	R. mucilaginosa	CHIFNET_15TZ568	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_16H1488	202472af	R. mucilaginosa	CHIFNET_16H1488	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_16TZ588	fb64f7e4	R. mucilaginosa	CHIFNET_16TZ588	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_16TZ598	8276e3d9	R. mucilaginosa	CHIFNET_16TZ598	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_17TZ638	3cd815f0	R. mucilaginosa	CHIFNET_17TZ638	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_17TZ653	f75fb8a3	R. mucilaginosa	CHIFNET_17TZ653	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_17TZ658	507d3bc7	R. mucilaginosa	CHIFNET_17TZ658	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_18HX1218	c700a317	R. mucilaginosa	CHIFNET_18HX1218	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_18HX1225	b2fa3915	R. mucilaginosa	CHIFNET_18HX1225	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_18NJ590	aebca9ac	R. mucilaginosa	CHIFNET_18NJ590	diploid	A1/A2	China	blood
+Rhodotorula_mucilaginosa_CHIFNET_18TZ699	4f2f6338	R. mucilaginosa	CHIFNET_18TZ699	haploid	A2	China	blood
+Rhodotorula_mucilaginosa_CHIFNET_19HX1293	e9d2b685	R. mucilaginosa	CHIFNET_19HX1293	haploid		China	blood
+Rhodotorula_mucilaginosa_CHIFNET_A343	94ee1bcd	R. mucilaginosa	CHIFNET_A343	haploid		China	nasal_secretions_from_pet_dog
+Rhodotorula_mucilaginosa_CHIFNET_CBS316	71cde68a	R. mucilaginosa	CHIFNET_CBS316	haploid		Unknown	unknown
+Rhodotorula_mucilaginosa_CHIFNET_CGMCC_2.2506	291a6745	R. mucilaginosa	CHIFNET_CGMCC_2.2506	haploid		China	marine_plant
+Rhodotorula_mucilaginosa_CHIFNET_CGMCC_2.5541	dd0c492e	R. mucilaginosa	CHIFNET_CGMCC_2.5541	haploid		China	environment_leak
+Rhodotorula_mucilaginosa_CHIFNET_CGMCC_2.5690	da0993aa	R. mucilaginosa	CHIFNET_CGMCC_2.5690	haploid	A2	China	sea
+Rhodotorula_mucilaginosa_DBVPG_10619	48f2734f	R. mucilaginosa	DBVPG_10619	haploid		Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_10656	f73fa4c9	R. mucilaginosa	DBVPG_10656	haploid			
+Rhodotorula_mucilaginosa_DBVPG_10780	52012e23	R. mucilaginosa	DBVPG_10780	haploid		Italy	snow_ice
+Rhodotorula_mucilaginosa_DBVPG_10842	33781853	R. mucilaginosa	DBVPG_10842	haploid	A2	Italy	snow_ice
+Rhodotorula_mucilaginosa_DBVPG_10882	aaec3d27	R. mucilaginosa	DBVPG_10882	haploid		Italy	rock
+Rhodotorula_mucilaginosa_DBVPG_10886	f76808c1	R. mucilaginosa	DBVPG_10886	haploid		Italy	rock
+Rhodotorula_mucilaginosa_DBVPG_10937	cacf5b21	R. mucilaginosa	DBVPG_10937	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3044	5ad44b86	R. mucilaginosa	DBVPG_3044	haploid		Italy	unknown
+Rhodotorula_mucilaginosa_DBVPG_3045	6df28621	R. mucilaginosa	DBVPG_3045	diploid	2A2	Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3045_hap1	da7c58ec	R. mucilaginosa	DBVPG_3045	haploid_from_hybrid	A2	Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3090	d543efdf	R. mucilaginosa	DBVPG_3090	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3235	c3f0b837	R. mucilaginosa	DBVPG_3235	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3236	073e0b35	R. mucilaginosa	DBVPG_3236	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3237	37998095	R. mucilaginosa	DBVPG_3237	haploid	A2	Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3238	d25ca737	R. mucilaginosa	DBVPG_3238	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3381	b0b01ae9	R. mucilaginosa	DBVPG_3381	haploid	A2	Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_3382	e8053b8b	R. mucilaginosa	DBVPG_3382	haploid	A2	Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_3383	4cde9727	R. mucilaginosa	DBVPG_3383	haploid	A2	Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_3384	46da69c2	R. mucilaginosa	DBVPG_3384	haploid	A2	Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_3442	00990d4b	R. mucilaginosa	DBVPG_3442	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3443	4f26fb2d	R. mucilaginosa	DBVPG_3443	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3444	6bfc6502	R. mucilaginosa	DBVPG_3444	diploid	2A2	Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3774	bca8d4aa	R. mucilaginosa	DBVPG_3774	haploid	A2	Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3775	ad0442c5	R. mucilaginosa	DBVPG_3775	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_3776	77aacce7	R. mucilaginosa	DBVPG_3776	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_3777	0cf71e77	R. mucilaginosa	DBVPG_3777	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_3778	df34eaaf	R. mucilaginosa	DBVPG_3778	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_3780	6b919fa6	R. mucilaginosa	DBVPG_3780	haploid	A2	Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_3854	1edb5e81	R. mucilaginosa	DBVPG_3854	diploid	A1/A2	Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_3855	50fa1081	R. mucilaginosa	DBVPG_3855	diploid	A1/A2	Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_3855_hap1	11bab36a	R. mucilaginosa	DBVPG_3855	haploid_from_hybrid	A2	Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_3856	eaa9151a	R. mucilaginosa	DBVPG_3856	diploid	A1/A2	Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_3857	26ceaa58	R. mucilaginosa	DBVPG_3857	diploid	A1/A2	Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_3858	6dd56f76	R. mucilaginosa	DBVPG_3858	haploid		Italy	insect
+Rhodotorula_mucilaginosa_DBVPG_3983	96c6bb09	R. mucilaginosa	DBVPG_3983	haploid	A2	Italy	cave
+Rhodotorula_mucilaginosa_DBVPG_3984	66972e67	R. mucilaginosa	DBVPG_3984	haploid		Italy	cave
+Rhodotorula_mucilaginosa_DBVPG_4201	0f4d0ca6	R. mucilaginosa	DBVPG_4201	haploid		Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_4202	aabd9fed	R. mucilaginosa	DBVPG_4202	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_4203	76eea971	R. mucilaginosa	DBVPG_4203	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_4304	0f463ee5	R. mucilaginosa	DBVPG_4304	haploid		Italy	unknown
+Rhodotorula_mucilaginosa_DBVPG_4376	e30aa69c	R. mucilaginosa	DBVPG_4376	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_4377	9f297b34	R. mucilaginosa	DBVPG_4377	haploid	A2	Italy	marine
+Rhodotorula_mucilaginosa_DBVPG_4378	4894b602	R. mucilaginosa	DBVPG_4378	haploid	A2	Italy	food
+Rhodotorula_mucilaginosa_DBVPG_4408	a6226853	R. mucilaginosa	DBVPG_4408	haploid		Italy	marine
+Rhodotorula_mucilaginosa_DBVPG_4466	1ceefc6b	R. mucilaginosa	DBVPG_4466	haploid		Italy	plant
+Rhodotorula_mucilaginosa_DBVPG_4618	a70b1d2f	R. mucilaginosa	DBVPG_4618	haploid	A2	Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_4669	fc77217a	R. mucilaginosa	DBVPG_4669	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_4920	befe5f74	R. mucilaginosa	DBVPG_4920	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_4945	653e10fb	R. mucilaginosa	DBVPG_4945	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_4946	101015e0	R. mucilaginosa	DBVPG_4946	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_4947	d5bb9eac	R. mucilaginosa	DBVPG_4947	haploid		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_4949	f81b8151	R. mucilaginosa	DBVPG_4949	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_4950	48d5b581	R. mucilaginosa	DBVPG_4950	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_4956	b96ce774	R. mucilaginosa	DBVPG_4956	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_4957	750925ca	R. mucilaginosa	DBVPG_4957	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_4958	cd3a7b03	R. mucilaginosa	DBVPG_4958	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_4962	ea454c80	R. mucilaginosa	DBVPG_4962	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_4963	d47726bc	R. mucilaginosa	DBVPG_4963	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_4964	59b3f74f	R. mucilaginosa	DBVPG_4964	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_5225	6fd0ec49	R. mucilaginosa	DBVPG_5225	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_5226	dbfd6589	R. mucilaginosa	DBVPG_5226	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_5227	1419e4a2	R. mucilaginosa	DBVPG_5227	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_5228	844f9c22	R. mucilaginosa	DBVPG_5228	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_5229	e1816fb7	R. mucilaginosa	DBVPG_5229	haploid	A2	Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_5235	0437b347	R. mucilaginosa	DBVPG_5235	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_5236	5397a446	R. mucilaginosa	DBVPG_5236	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_5757	2f2f118d	R. mucilaginosa	DBVPG_5757	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_5758	208f9ac4	R. mucilaginosa	DBVPG_5758	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_5759	1f317e85	R. mucilaginosa	DBVPG_5759	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_6091	b2ef0ed2	R. mucilaginosa	DBVPG_6091	haploid		Italy	insect
+Rhodotorula_mucilaginosa_DBVPG_6092	3c0fcacb	R. mucilaginosa	DBVPG_6092	haploid		Italy	unknown
+Rhodotorula_mucilaginosa_DBVPG_6093	454c568a	R. mucilaginosa	DBVPG_6093	haploid		Italy	unknown
+Rhodotorula_mucilaginosa_DBVPG_6593	0176a1c5	R. mucilaginosa	DBVPG_6593	haploid		Italy	unknown
+Rhodotorula_mucilaginosa_DBVPG_6741	b86673ea	R. mucilaginosa	DBVPG_6741	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_6742	b1593c67	R. mucilaginosa	DBVPG_6742	haploid		Italy	unknown
+Rhodotorula_mucilaginosa_DBVPG_6743	9c7d063b	R. mucilaginosa	DBVPG_6743	haploid		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_6803	c097d519	R. mucilaginosa	DBVPG_6803	haploid	A2	Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_7019	097ceb5d	R. mucilaginosa	DBVPG_7019	haploid		Italy	unknown
+Rhodotorula_mucilaginosa_EXF_12281	6fcf7351	R. mucilaginosa	EXF_12281	haploid	A2	Sweden	Refrigerator
+Rhodotorula_mucilaginosa_EXF_12768	4a7cfea1	R. mucilaginosa	EXF_12768	haploid		UK	Washing_machine
+Rhodotorula_mucilaginosa_EXF_13260	31053be8	R. mucilaginosa	EXF_13260	haploid		Mexico	volcano
+Rhodotorula_mucilaginosa_EXF_13261	beea700d	R. mucilaginosa	EXF_13261	haploid		Mexico	volcano
+Rhodotorula_mucilaginosa_EXF_13599	2bd46d94	R. mucilaginosa	EXF_13599	haploid		Norway	snow
+Rhodotorula_mucilaginosa_EXF_13600	10249949	R. mucilaginosa	EXF_13600	haploid		Greenland	air
+Rhodotorula_mucilaginosa_EXF_13602	e5c4999c	R. mucilaginosa	EXF_13602	haploid		Greenland	air
+Rhodotorula_mucilaginosa_EXF_13604	72d74aea	R. mucilaginosa	EXF_13604	haploid		Austria	air
+Rhodotorula_mucilaginosa_EXF_1510	9d2d0e52	R. mucilaginosa	EXF_1510	haploid		Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_1565	be797f2c	R. mucilaginosa	EXF_1565	haploid	A2	Arctic	Sea_ice
+Rhodotorula_mucilaginosa_EXF_1585	670b48dd	R. mucilaginosa	EXF_1585	haploid		Arctic	Seawater
+Rhodotorula_mucilaginosa_EXF_1676	745600bf	R. mucilaginosa	EXF_1676	haploid		Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_1686	0fcaf164	R. mucilaginosa	EXF_1686	haploid		Arctic	Glacial_leaching
+Rhodotorula_mucilaginosa_EXF_1695	26a06f81	R. mucilaginosa	EXF_1695	haploid		Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_1704	c9e3b326	R. mucilaginosa	EXF_1704	haploid	A2	Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_2251	f86d7074	R. mucilaginosa	EXF_2251	haploid			
+Rhodotorula_mucilaginosa_EXF_3417	1e71acb7	R. mucilaginosa	EXF_3417	haploid		Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_3530	07c20ed8	R. mucilaginosa	EXF_3530	haploid		Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_3538	8c19956f	R. mucilaginosa	EXF_3538	haploid	/	Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_3540	5858f1ba	R. mucilaginosa	EXF_3540	haploid		Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_3544	987a3061	R. mucilaginosa	EXF_3544	haploid		Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_3569	884e0aa5	R. mucilaginosa	EXF_3569	haploid		Arctic	Glacial_water_with_sediment
+Rhodotorula_mucilaginosa_EXF_3592	090cf0df	R. mucilaginosa	EXF_3592	haploid		Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_3595	89c844b9	R. mucilaginosa	EXF_3595	haploid		Puerto Rico	microbial_mat
+Rhodotorula_mucilaginosa_EXF_3604	ffae620f	R. mucilaginosa	EXF_3604	haploid	A2	Arctic	Glacial_water
+Rhodotorula_mucilaginosa_EXF_3609	a0e7f96f	R. mucilaginosa	EXF_3609	haploid		Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_3612	c45e216e	R. mucilaginosa	EXF_3612	haploid		Arctic	Glacial_water
+Rhodotorula_mucilaginosa_EXF_3622	b196bd1b	R. mucilaginosa	EXF_3622	haploid		Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_3626	b6926904	R. mucilaginosa	EXF_3626	haploid	A2	Arctic	glacier_ice
+Rhodotorula_mucilaginosa_EXF_3790	024c0ddf	R. mucilaginosa	EXF_3790	haploid		Puerto Rico	microbial_mat_salterns
+Rhodotorula_mucilaginosa_EXF_3860	2eae8d96	R. mucilaginosa	EXF_3860	haploid		Puerto Rico	microbial_mat_salterns
+Rhodotorula_mucilaginosa_EXF_3861	19fa0385	R. mucilaginosa	EXF_3861	haploid		Puerto Rico	microbial_mat_salterns
+Rhodotorula_mucilaginosa_EXF_3862	c545b584	R. mucilaginosa	EXF_3862	haploid		Puerto Rico	microbial_mat_salterns
+Rhodotorula_mucilaginosa_EXF_4885	3fedec00	R. mucilaginosa	EXF_4885	haploid		Slovenia	Mengore_cave
+Rhodotorula_mucilaginosa_EXF_5546	7886e059	R. mucilaginosa	EXF_5546	haploid		Slovenia	Dishwasher_rubber 
+Rhodotorula_mucilaginosa_EXF_5775	2328a567	R. mucilaginosa	EXF_5775	haploid		Slovenia	water_from_car_wash
+Rhodotorula_mucilaginosa_EXF_5938	8e97dfc6	R. mucilaginosa	EXF_5938	haploid		Argentina	watterfall
+Rhodotorula_mucilaginosa_EXF_5939	94767dbf	R. mucilaginosa	EXF_5939	haploid		Argentina	Glacial_water
+Rhodotorula_mucilaginosa_EXF_5940	28149c5e	R. mucilaginosa	EXF_5940	haploid		Argentina	Glacial_water
+Rhodotorula_mucilaginosa_EXF_5941	514fdc10	R. mucilaginosa	EXF_5941	haploid		Argentina	Glacial_water
+Rhodotorula_mucilaginosa_EXF_6243	75dce57c	R. mucilaginosa	EXF_6243	haploid		Slovenia	sewages_of_car_wash
+Rhodotorula_mucilaginosa_EXF_6252	250c2692	R. mucilaginosa	EXF_6252	haploid		Slovenia	sewages_of_car_wash
+Rhodotorula_mucilaginosa_EXF_6325	6b73d816	R. mucilaginosa	EXF_6325	haploid		Slovenia	washing_machine_rubber
+Rhodotorula_mucilaginosa_EXF_6360	4eebf645	R. mucilaginosa	EXF_6360	haploid	A2	Slovenia	funnel_in_kitchen
+Rhodotorula_mucilaginosa_EXF_6370	fc084fcd	R. mucilaginosa	EXF_6370	haploid		Slovenia	sink_in_bathroom
+Rhodotorula_mucilaginosa_EXF_6373	465a892b	R. mucilaginosa	EXF_6373	haploid		Slovenia	sink_in_kitchen
+Rhodotorula_mucilaginosa_EXF_7920	38f3c202	R. mucilaginosa	EXF_7920	haploid		Sweden	metal_drainage_in_sink_Bathroom
+Rhodotorula_mucilaginosa_EXF_7931	a0c37c85	R. mucilaginosa	EXF_7931	haploid		Sweden	Metal_drain_of_the_kitchen_sink
+Rhodotorula_mucilaginosa_EXF_7934	3dd9c6dc	R. mucilaginosa	EXF_7934	haploid		Sweden	Kitchen_sink_surface 
+Rhodotorula_mucilaginosa_EXF_7944	8f13c071	R. mucilaginosa	EXF_7944	haploid		Sweden	metal_holder_for_washed_dishes
+Rhodotorula_mucilaginosa_EXF_7949	11a59232	R. mucilaginosa	EXF_7949	haploid		Sweden	Metal_drain_of_the_kitchen_sink 
+Rhodotorula_mucilaginosa_EXF_8006	b3bf2a0f	R. mucilaginosa	EXF_8006	haploid		Sweden	metal_drainage_in_sink_Bathroom
+Rhodotorula_mucilaginosa_EXF_8014	0733b462	R. mucilaginosa	EXF_8014	haploid		Sweden	contact_surface_between_faucet_and_sink_bathroom
+Rhodotorula_mucilaginosa_EXF_8109	3dae4c07	R. mucilaginosa	EXF_8109	haploid	A2	Slovenia	Metal_drain_of_the_kitchen_sink
+Rhodotorula_mucilaginosa_EXF_8151	e9e83f7c	R. mucilaginosa	EXF_8151	haploid		Denmark	shower_bathroom
+Rhodotorula_mucilaginosa_EXF_8155	e45592e9	R. mucilaginosa	EXF_8155	haploid		Denmark	sink_in_kitchen
+Rhodotorula_mucilaginosa_EXF_8254	9099832d	R. mucilaginosa	EXF_8254	haploid		Slovenia	tap_water
+Rhodotorula_mucilaginosa_EXF_8395	be21f776	R. mucilaginosa	EXF_8395	haploid	A2	Slovenia	Box_of_detergent
+Rhodotorula_mucilaginosa_EXF_8400	246d7674	R. mucilaginosa	EXF_8400	haploid		Slovenia	metal_drain_basin_in_bathroom
+Rhodotorula_mucilaginosa_EXF_8463	2da2941e	R. mucilaginosa	EXF_8463	haploid		Slovenia	tap_water
+Rhodotorula_mucilaginosa_EXF_8464	b0b4437f	R. mucilaginosa	EXF_8464	haploid		Slovenia	water_from_well 
+Rhodotorula_mucilaginosa_EXF_8465	f6a5c765	R. mucilaginosa	EXF_8465	haploid		Slovenia	tap_water
+Rhodotorula_mucilaginosa_EXF_8891	c72f3eaf	R. mucilaginosa	EXF_8891	haploid		Slovenia	Kitchen_counter_above_dishwasher
+Rhodotorula_mucilaginosa_EXF_8898	8af115fc	R. mucilaginosa	EXF_8898	haploid		Slovenia	Fugue_at_shower_bathroom
+Rhodotorula_mucilaginosa_EXF_8921	889e5753	R. mucilaginosa	EXF_8921	haploid		Slovenia	Hot_steam_after_end_of_dishwashing_cycle
+Rhodotorula_mucilaginosa_EXF_8942	5ae5dfd5	R. mucilaginosa	EXF_8942	haploid		Slovenia	Strainer_basket
+Rhodotorula_mucilaginosa_EXF_8984	c3f046c4	R. mucilaginosa	EXF_8984	haploid		Slovenia	water_from_cloth
+Rhodotorula_mucilaginosa_EXF_9051	643f0d6b	R. mucilaginosa	EXF_9051	haploid		Slovenia	Rubber_of_dishwasher_after_washing_cycle
+Rhodotorula_mucilaginosa_EXF_9595	ff7122f3	R. mucilaginosa	EXF_9595	haploid		Italy	Kitchen_moist_panel_inside_fridge
+Rhodotorula_mucilaginosa_EXF_9756	89fa7660	R. mucilaginosa	EXF_9756	haploid		Slovenia	rubber_seal_dishwasher
+Rhodotorula_mucilaginosa_EXF_9762	9cdd0c85	R. mucilaginosa	EXF_9762	haploid		Slovenia	rubber_seal_dishwasher
+Rhodotorula_mucilaginosa_EXF_9926	179c463c	R. mucilaginosa	EXF_9926	haploid	A2	Slovenia	Ceramic_platter
+Rhodotorula_mucilaginosa_EXF_9950	20cc3163	R. mucilaginosa	EXF_9950	haploid		Slovenia	Strainer_basket
+Rhodotorula_mucilaginosa_F6_1S_P_1A	782fe5f0	R. mucilaginosa	F6_1S_P_1A	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_1S_P_1B	198063ab	R. mucilaginosa	F6_1S_P_1B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_1S_P_1C	a65e16e8	R. mucilaginosa	F6_1S_P_1C	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_4S_B_2A	34f04a34	R. mucilaginosa	F6_4S_B_2A	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_4S_B_2C	85690914	R. mucilaginosa	F6_4S_B_2C	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_4S_P_3B	42562d4d	R. mucilaginosa	F6_4S_P_3B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_4S_P_3C	747d284c	R. mucilaginosa	F6_4S_P_3C	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_4S_P_4A	63283c47	R. mucilaginosa	F6_4S_P_4A	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_4S_P_4B	11c054e8	R. mucilaginosa	F6_4S_P_4B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_4S_P_5A	22b9538b	R. mucilaginosa	F6_4S_P_5A	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_4S_P_5B	c244a001	R. mucilaginosa	F6_4S_P_5B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_6S_B_1A	23e77db1	R. mucilaginosa	F6_6S_B_1A	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_6S_B_1B	a7480358	R. mucilaginosa	F6_6S_B_1B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_6S_B_1C	d2fb9bbc	R. mucilaginosa	F6_6S_B_1C	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_6S_P_1A	7dfd45d2	R. mucilaginosa	F6_6S_P_1A	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_6S_P_1B	f8d900e5	R. mucilaginosa	F6_6S_P_1B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_6S_P_1C	0cde491d	R. mucilaginosa	F6_6S_P_1C	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_6S_P_2A	ce70161f	R. mucilaginosa	F6_6S_P_2A	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_6S_P_2B	6f79ae96	R. mucilaginosa	F6_6S_P_2B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_7S_B_2A	4adc43ca	R. mucilaginosa	F6_7S_B_2A	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_7S_B_2B	4258e12e	R. mucilaginosa	F6_7S_B_2B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_7S_B_2C	c9e7e187	R. mucilaginosa	F6_7S_B_2C	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_7S_P_6B	93d2b456	R. mucilaginosa	F6_7S_P_6B	haploid	A2	America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_7S_P_7A	c56038f5	R. mucilaginosa	F6_7S_P_7A	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_7S_P_7B	c2291593	R. mucilaginosa	F6_7S_P_7B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F6_7S_P_7C	251e329f	R. mucilaginosa	F6_7S_P_7C	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_1S_2B	d68a886c	R. mucilaginosa	F8_1S_2B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_1S_3B	b73474a6	R. mucilaginosa	F8_1S_3B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_3S_1B	af3a1fbc	R. mucilaginosa	F8_3S_1B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_3S_1P	5031a5cc	R. mucilaginosa	F8_3S_1P	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_3S_2B	38f1e0d5	R. mucilaginosa	F8_3S_2B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_3S_2P	55ee6a75	R. mucilaginosa	F8_3S_2P	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_3S_3B	9bba6599	R. mucilaginosa	F8_3S_3B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_3S_3P	0f48e77e	R. mucilaginosa	F8_3S_3P	haploid	A2	America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_4S_1P	f027ebc1	R. mucilaginosa	F8_4S_1P	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_4S_2P	ff25b61f	R. mucilaginosa	F8_4S_2P	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_4S_5B	43cf2ed0	R. mucilaginosa	F8_4S_5B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_5S_2B	ce5c3345	R. mucilaginosa	F8_5S_2B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_5S_3B	990f2289	R. mucilaginosa	F8_5S_3B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_5S_4P	79c39ce3	R. mucilaginosa	F8_5S_4P	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_5S_5P	ac1095ce	R. mucilaginosa	F8_5S_5P	haploid	A2	America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_6S_1B	251f9d30	R. mucilaginosa	F8_6S_1B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_F8_6S_2B	7f9c9e8d	R. mucilaginosa	F8_6S_2B	haploid		America	ISS_environmental_surface
+Rhodotorula_mucilaginosa_IF1SG-B1	b446b2f8	R. mucilaginosa	IF1SG-B1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IF1SW-B1	f576f7bc	R. mucilaginosa	IF1SW-B1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IF1SW-F2	7671aaa5	R. mucilaginosa	IF1SW-F2	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IF2SG-B1	996826ea	R. mucilaginosa	IF2SG-B1	haploid		America	outside_capsule_of_spaceX
+Rhodotorula_mucilaginosa_IF3SG-B1	d5f7c7cc	R. mucilaginosa	IF3SG-B1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IF3SW-F2	1ea79f2d	R. mucilaginosa	IF3SW-F2	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IF4SW-B1	74a8dd80	R. mucilaginosa	IF4SW-B1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IF4SW-B2	e15a3ade	R. mucilaginosa	IF4SW-B2	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IF4SW-F2	1afd9bd4	R. mucilaginosa	IF4SW-F2	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IF5SW-F1	d1b7fe94	R. mucilaginosa	IF5SW-F1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IF6SG-B1	48cfddfe	R. mucilaginosa	IF6SG-B1	haploid		America	outside_capsule_of_spaceX
+Rhodotorula_mucilaginosa_IF6SW-B2	6cd86437	R. mucilaginosa	IF6SW-B2	haploid		America	ISS_PMM_port 1
+Rhodotorula_mucilaginosa_IF6SW-F1	4d2c9e4a	R. mucilaginosa	IF6SW-F1	haploid		America	ISS_PMM_port 1
+Rhodotorula_mucilaginosa_IF7SG-B1	c99336e4	R. mucilaginosa	IF7SG-B1	haploid		America	outside_capsule_of_spaceX
+Rhodotorula_mucilaginosa_IF7SW-B3	6345b3ca	R. mucilaginosa	IF7SW-B3	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IF8SG-B1	2677eb07	R. mucilaginosa	IF8SG-B1	haploid		America	outside_capsule_of_spaceX
+Rhodotorula_mucilaginosa_IF8SW-B2	59c965ab	R. mucilaginosa	IF8SW-B2	haploid		America	Port_crew_quarters
+Rhodotorula_mucilaginosa_IF8SW-P2	c166879f	R. mucilaginosa	IF8SW-P2	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IFCSG-B1	8f806797	R. mucilaginosa	IFCSG-B1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF1SW-F1	15df7753	R. mucilaginosa	IIF1SW-F1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF2SW-F1	4d4588d9	R. mucilaginosa	IIF2SW-F1	haploid	A2	America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF2XSW-B1	79cf5c9c	R. mucilaginosa	IIF2XSW-B1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF2XSW-F1	dbb87339	R. mucilaginosa	IIF2XSW-F1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF4SW-F1	14caddaa	R. mucilaginosa	IIF4SW-F1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF5SW-F2	c13bcad8	R. mucilaginosa	IIF5SW-F2	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF6SW-B1	4fa6e321	R. mucilaginosa	IIF6SW-B1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF6SW-B2	974ab380	R. mucilaginosa	IIF6SW-B2	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF6SW-F1	d522c28d	R. mucilaginosa	IIF6SW-F1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF8SW-B2	9fa8c653	R. mucilaginosa	IIF8SW-B2	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF8SW-B3	319e4006	R. mucilaginosa	IIF8SW-B3	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIF8SW-F1	268899c6	R. mucilaginosa	IIF8SW-F1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_IIFCSW-F1	19407ab7	R. mucilaginosa	IIFCSW-F1	haploid		America	ISS_waste_hygeine compt
+Rhodotorula_mucilaginosa_JGTA-S1	8eb6cb22	R. mucilaginosa	JGTA-S1	haploid	A2	India	wetland
+Rhodotorula_mucilaginosa_RIT389	185b9d8a	R. mucilaginosa	RIT389	diploid	A1/A2	Nigeria	farmer_market
+Rhodotorula_mucilaginosa_SB-353	26616ae6	R. mucilaginosa	SB-353	haploid		Germany	kefir
+Rhodotorula_mucilaginosa_TFCN_100D-1	fdec1f44	R. mucilaginosa	TFCN_100D-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_102C-1	7d99715c	R. mucilaginosa	TFCN_102C-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_102C-2	55fbe17b	R. mucilaginosa	TFCN_102C-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_102D-1	edef25de	R. mucilaginosa	TFCN_102D-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_102D-2	f15b10d8	R. mucilaginosa	TFCN_102D-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_105A-2	c3d22caa	R. mucilaginosa	TFCN_105A-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_106A-1	41184ed2	R. mucilaginosa	TFCN_106A-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_107A-6	39058301	R. mucilaginosa	TFCN_107A-6	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_107C-3	2d98f246	R. mucilaginosa	TFCN_107C-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_110C-1	3ed5ca10	R. mucilaginosa	TFCN_110C-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_118C-2	018ed3c4	R. mucilaginosa	TFCN_118C-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_122C-2	81af73a7	R. mucilaginosa	TFCN_122C-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_130D-4	e2a2bad7	R. mucilaginosa	TFCN_130D-4	haploid	A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_137C-3	b8fe37e8	R. mucilaginosa	TFCN_137C-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_137D-4	35ef0e40	R. mucilaginosa	TFCN_137D-4	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_138A-1	1300c68f	R. mucilaginosa	TFCN_138A-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_140A-3	e72c1a5f	R. mucilaginosa	TFCN_140A-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_141C-2	2f1ea199	R. mucilaginosa	TFCN_141C-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_152A-1	87bdd7b4	R. mucilaginosa	TFCN_152A-1	diploid	2A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_152A-12	b29a8a9f	R. mucilaginosa	TFCN_152A-12	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_152A-2	f0c2e59e	R. mucilaginosa	TFCN_152A-2	haploid	A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_152A-5	736e5abf	R. mucilaginosa	TFCN_152A-5	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_152C-5	7363a63f	R. mucilaginosa	TFCN_152C-5	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-0-2E334-10	382f9c59	R. mucilaginosa	TFCN_17-0-2E334-10	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-0-2E334-4	1021945b	R. mucilaginosa	TFCN_17-0-2E334-4	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-0-2E334-4_hap1	a0f92624	R. mucilaginosa	TFCN_17-0-2E334-4	haploid_from_hybrid	A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-0-2E337-3	32fa4976	R. mucilaginosa	TFCN_17-0-2E337-3	diploid	A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-0-2E390-1	1ad695e8	R. mucilaginosa	TFCN_17-0-2E390-1	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-0-2E390-2	ff772b8c	R. mucilaginosa	TFCN_17-0-2E390-2	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-267M-1	78691e4f	R. mucilaginosa	TFCN_17-267M-1	diploid	2A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-291Y-1	480ddcd1	R. mucilaginosa	TFCN_17-291Y-1	diploid	2A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-325D-2	6b141fe1	R. mucilaginosa	TFCN_17-325D-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-325D-4	96c11716	R. mucilaginosa	TFCN_17-325D-4	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-325P-1	a8fabc8e	R. mucilaginosa	TFCN_17-325P-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-329Y-4	9dafb252	R. mucilaginosa	TFCN_17-329Y-4	haploid	A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-332C-1	d58074fa	R. mucilaginosa	TFCN_17-332C-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-332C-2	8086b6aa	R. mucilaginosa	TFCN_17-332C-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-332D-1	3c8e16fb	R. mucilaginosa	TFCN_17-332D-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-332M-2	8599734e	R. mucilaginosa	TFCN_17-332M-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-332P-1	6056790f	R. mucilaginosa	TFCN_17-332P-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-332P-2	9bfc1466	R. mucilaginosa	TFCN_17-332P-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-333D-2	60083f12	R. mucilaginosa	TFCN_17-333D-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-333P-6	95caa826	R. mucilaginosa	TFCN_17-333P-6	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-334C-1	814c3d3a	R. mucilaginosa	TFCN_17-334C-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-334D-6	f7687be0	R. mucilaginosa	TFCN_17-334D-6	diploid	2A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-334P-3	4b81154b	R. mucilaginosa	TFCN_17-334P-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-334Y-2	b5b03d30	R. mucilaginosa	TFCN_17-334Y-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-334Y-3	b3588f59	R. mucilaginosa	TFCN_17-334Y-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-334Y-5	86c8a941	R. mucilaginosa	TFCN_17-334Y-5	diploid	2A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-337P-5	9d53e60f	R. mucilaginosa	TFCN_17-337P-5	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-338D-3	cf01545a	R. mucilaginosa	TFCN_17-338D-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17-390M-1	435ab809	R. mucilaginosa	TFCN_17-390M-1	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_172A-1	f1500bad	R. mucilaginosa	TFCN_172A-1	haploid	A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17Y-278-1	3aa8a4f6	R. mucilaginosa	TFCN_17Y-278-1	diploid	2A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_17Y-278-1_hap1	ee0dde66	R. mucilaginosa	TFCN_17Y-278-1	haploid_from_hybrid	A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_181A-1	29d6c45a	R. mucilaginosa	TFCN_181A-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_209-6-1	c5209b70	R. mucilaginosa	TFCN_209-6-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_209-6-11	d88dd157	R. mucilaginosa	TFCN_209-6-11	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_209-6-12	d90052e5	R. mucilaginosa	TFCN_209-6-12	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_209-6-14	04fb7a08	R. mucilaginosa	TFCN_209-6-14	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_209-6-17	6f3296bc	R. mucilaginosa	TFCN_209-6-17	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_209-6-2	052986c9	R. mucilaginosa	TFCN_209-6-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_209-6-4	08e62a2e	R. mucilaginosa	TFCN_209-6-4	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_209-6-5	48035fa1	R. mucilaginosa	TFCN_209-6-5	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_211A-3	cfce65ca	R. mucilaginosa	TFCN_211A-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_212C-2	53b7672c	R. mucilaginosa	TFCN_212C-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_213-6-2	aa8554dd	R. mucilaginosa	TFCN_213-6-2	haploid	A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_213-6-4	8d27638a	R. mucilaginosa	TFCN_213-6-4	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_223A-8	25b2da6d	R. mucilaginosa	TFCN_223A-8	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_22C-4	ab32c82f	R. mucilaginosa	TFCN_22C-4	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-0-2E332-1	8c8c5d2a	R. mucilaginosa	TFCN_25-0-2E332-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-0-2E333-1	e92c3d4a	R. mucilaginosa	TFCN_25-0-2E333-1	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-0-2E333-5	08273941	R. mucilaginosa	TFCN_25-0-2E333-5	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-0-2E333-7	c50cf12a	R. mucilaginosa	TFCN_25-0-2E333-7	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-0-2E333-9	237c3f3e	R. mucilaginosa	TFCN_25-0-2E333-9	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-0-2E334-1	5cb8f5da	R. mucilaginosa	TFCN_25-0-2E334-1	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-0-2E390-1	c07f33d0	R. mucilaginosa	TFCN_25-0-2E390-1	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-325Y-1	de16b788	R. mucilaginosa	TFCN_25-325Y-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-327D-1	dc15eac8	R. mucilaginosa	TFCN_25-327D-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-331D-1	427d8e67	R. mucilaginosa	TFCN_25-331D-1	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-332C-1	c28c481f	R. mucilaginosa	TFCN_25-332C-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-332D-1	a51b97f2	R. mucilaginosa	TFCN_25-332D-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-332M-1	8baa3a1f	R. mucilaginosa	TFCN_25-332M-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-332P-2	085ad8a5	R. mucilaginosa	TFCN_25-332P-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-332Y-1	0ff11cd7	R. mucilaginosa	TFCN_25-332Y-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-333C-2	38e509ac	R. mucilaginosa	TFCN_25-333C-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-333P-2	6abdd09f	R. mucilaginosa	TFCN_25-333P-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-333Y-9	408c71de	R. mucilaginosa	TFCN_25-333Y-9	haploid	A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-334D-3	bb33c21f	R. mucilaginosa	TFCN_25-334D-3	haploid	A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-335Y-1	0518c7c8	R. mucilaginosa	TFCN_25-335Y-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-337M-3	339f16dc	R. mucilaginosa	TFCN_25-337M-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_25-337Y-1	fd143794	R. mucilaginosa	TFCN_25-337Y-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_270H-2	f33feae9	R. mucilaginosa	TFCN_270H-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_273H-1	93914889	R. mucilaginosa	TFCN_273H-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_2M-1-4	91ec4443	R. mucilaginosa	TFCN_2M-1-4	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_340-1	1ec51db6	R. mucilaginosa	TFCN_340-1	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_340-3	4b58802f	R. mucilaginosa	TFCN_340-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_342-3	2fe5fa80	R. mucilaginosa	TFCN_342-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_363-1-2	788a3607	R. mucilaginosa	TFCN_363-1-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_404D-1	5927b970	R. mucilaginosa	TFCN_404D-1	diploid	A1/A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_4M-1-2	c4a10546	R. mucilaginosa	TFCN_4M-1-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_4M-1-3	74cb16df	R. mucilaginosa	TFCN_4M-1-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_4M-1-4	e3a2e624	R. mucilaginosa	TFCN_4M-1-4	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_4M-1-5	456a0479	R. mucilaginosa	TFCN_4M-1-5	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_54D-1	da208064	R. mucilaginosa	TFCN_54D-1	diploid	2A2	China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_54D-2	69f64664	R. mucilaginosa	TFCN_54D-2	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_86A-12	91df1e9b	R. mucilaginosa	TFCN_86A-12	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_86A-3	88cd249e	R. mucilaginosa	TFCN_86A-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_89D-3	4d567bc5	R. mucilaginosa	TFCN_89D-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_98A-10	e649d5b4	R. mucilaginosa	TFCN_98A-10	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_98A-5	ed20a50a	R. mucilaginosa	TFCN_98A-5	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_98C-3	85e30e39	R. mucilaginosa	TFCN_98C-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_98C-5	902b4724	R. mucilaginosa	TFCN_98C-5	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_98C-7	0af8c9e1	R. mucilaginosa	TFCN_98C-7	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_98C-8	c7b10d64	R. mucilaginosa	TFCN_98C-8	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_98D-11	f468420f	R. mucilaginosa	TFCN_98D-11	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_98D-7	5ef89a5e	R. mucilaginosa	TFCN_98D-7	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_98D-9	9cd0bd4b	R. mucilaginosa	TFCN_98D-9	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_Y2510	b8df8393	R. mucilaginosa	Y2510	haploid	A2	America	unknown
+Rhodotorula_mucilaginosa_rhodo3571	8cdea8ab	R. mucilaginosa	rhodo3571	haploid		Qatar	blood
+Rhodotorula_nothofagi_EXF_8528	c48b035a	Curvibasidium nothofagi	EXF_8528	haploid		Slovenia	Bark_of_Fagus_sylvatica
+Rhodotorula_pacifica_EXF_12333	238ec6a9	R. pacifica	EXF_12333	haploid	A2	Slovenia	Refrigerator
+Rhodotorula_mucilaginosa_TFCN_1A-1-3	477a8a50	R. mucilaginosa	TFCN_1A-1-3	haploid		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_1B-1-2	438cd9c1	R. mucilaginosa	TFCN_1B-1-2	haploid		China	marsh_tidalflat
+Rhodotorula_paludigena_BS15	5b4a2712	R. paludigena	BS15	haploid	A2	Japan	soil
+Rhodotorula_sp._BUB8	869a76a5	R. paludigena	BUB8	haploid	/	Philippines	plant
+Rhodotorula_paludigena_CM33	803c6c56	R. paludigena	CM33	haploid	A2	Thailand	plant
+Rhodotorula_paludigena_DBVPG_4610	0867416f	R. paludigena	DBVPG_4610	haploid	A1	Italy	plant
+Rhodotorula_paludigena_DBVPG_7316	b2e83128	R. paludigena	DBVPG_7316	haploid	A1	Italy	marsh_tidalflat
+Rhodotorula_paludigena_DBVPG_7323	7cd8c071	R. paludigena	DBVPG_7323	haploid	A2	Italy	marsh_tidalflat
+Rhodotorula_paludigena_LL69-1	f2caca91	R. paludigena	LL69-1	haploid	A1	Thailand	plant
+Rhodotorula_paludigena_P4R5	962da93a	R. paludigena	P4R5	haploid	A2	China	unknown
+Rhodotorula_paludigena_SP9-15	6bb8eb60	R. paludigena	SP9-15	haploid	A2	Thailand	plant
+Rhodotorula_mucilaginosa_TFCN_1A-1-2	50d57485	R. mucilaginosa	TFCN_1A-1-2	haploid		China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_25-333P-5	471f0fa0	R. paludigena	TFCN_25-333P-5	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_342-2	8bf99549	R. paludigena	TFCN_342-2	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_43A-0-22	5109c659	R. paludigena	TFCN_43A-0-22	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_43A-4	13cc0d8f	R. paludigena	TFCN_43A-4	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_48A-10	34b5a626	R. paludigena	TFCN_48A-10	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_48A-15	39330e1f	R. paludigena	TFCN_48A-15	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_48A-2	646580d0	R. paludigena	TFCN_48A-2	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_48A-3	d855b002	R. paludigena	TFCN_48A-3	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_48C-3	4e562929	R. paludigena	TFCN_48C-3	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_48D-10	a2d72f71	R. paludigena	TFCN_48D-10	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_48D-4	bc502bf2	R. paludigena	TFCN_48D-4	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TFCN_49A-1	276466e0	R. paludigena	TFCN_49A-1	haploid	A2	China	marsh_tidalflat
+Rhodotorula_paludigena_TL35-5	263d2ec8	R. paludigena	TL35-5	haploid	A1	Thailand	plant
+Rhodotorula_paludigena_Y12923	efcb0cda	R. paludigena	Y12923	haploid	A2	America	plant
+Rhodotorula_sp._CP72-2	04abcb8e	R. sampaioana	CP72-2	haploid	A2	Thailand	plant
+Rhodotorula_sp._PL61-2	7f17c74b	R. sampaioana	PL61-2	haploid	A2	Thailand	plant
+Rhodotorula_sp_DBVPG_10348	109d142b	R. sp. 1	DBVPG_10348	haploid	A2	Italy	soil
+Rhodotorula_sp_EXF_14446	8b457cb4	R. sp. 1	EXF_14446	haploid	A2	Slovenia	Sand
+Rhodotorula_sp_EXF_9755	b85469a3	R. sp. 1	EXF_9755	haploid	A2	Slovenia	rubber_seal_dishwasher
+Rhodotorula_sp_TFCN_186DK3-2	a3fa3be3	R. sp. 1	TFCN_186DK3-2	haploid	A2	China	marsh_tidalflat
+Rhodotorula_sp._DBVPG_4530	03c3b2de	R. sp. 2	DBVPG_4530	haploid	A2	Italy	plant
+Rhodotorula_sp._DBVPG_4531	4bf583b9	R. sp. 2	DBVPG_4531	haploid	/	Italy	plant
+Rhodotorula_glutinis_QYH-2023	a9ea697b	R. sp. 2	QYH-2023	haploid	A2	China	soil
+Rhodotorula_sp._TFCN_0520-4-2-1	aec98c1a	R. sp. 2	TFCN_0520-4-2-1	haploid	A2	China	marsh_tidalflat
+Rhodotorula_sp._TFCN_0520-4-2-2	f24de765	R. sp. 2	TFCN_0520-4-2-2	haploid	A2	China	marsh_tidalflat
+Rhodotorula_sp._TFCN_357-1	1955b266	R. sp. 2	TFCN_357-1	haploid	A2	China	marsh_tidalflat
+Rhodotorula_sp._TFCN_S22D-1	3abf0b34	R. sp. 2	TFCN_S22D-1	haploid	A2	China	marsh_tidalflat
+Rhodotorula_sp._DBVPG_7947	e434f594	R. sp. 3	DBVPG_7947	haploid	A2	Italy	soil
+Rhodotorula_sphaerocarpa_ETNP2018	fd496cdc	R. sphaerocarpa	ETNP2018	haploid	A2	America	sea_water
+Rhodotorula_sphaerocarpa_EXF_4886	df05c566	R. sphaerocarpa	EXF_4886	haploid		Slovenia	active saltpans Seea Droga Portoro#
+Rhodotorula_sphaerocarpa_GDMCC_60679	f2f4db01	R. sphaerocarpa	GDMCC_60679	haploid	A2	China	farming_water
+Rhodotorula_sphaerocarpa_TFCN_83C-1	da61e77b	R. sphaerocarpa	TFCN_83C-1	haploid	A2	China	marsh_tidalflat
+Rhodotorula_sphaerocarpa_TFCN_86A-6	757275c6	R. sphaerocarpa	TFCN_86A-6	haploid	A2	China	marsh_tidalflat
+Rhodotorula_sphaerocarpa_TFCN_86A-8	861d239e	R. sphaerocarpa	TFCN_86A-8	haploid	A2	China	marsh_tidalflat
+Rhodotorula_sphaerocarpa_TFCN_86C-10	b88bc1ea	R. sphaerocarpa	TFCN_86C-10	haploid	A2	China	marsh_tidalflat
+Rhodotorula_sphaerocarpa_TFCN_86C-9	8188bc7e	R. sphaerocarpa	TFCN_86C-9	haploid	A2	China	marsh_tidalflat
+Rhodotorula_sphaerocarpa_Y7192	676c1798	R. sphaerocarpa	Y7192	haploid	A2	Antarctica	seawater
+Rhodotorula_taiwanensis_MD1149	5e2028a8	R. taiwanensis	MD1149	haploid	A2	America	acid_mine_drainage_sediment
+Rhodotorula_toruloides_ATCC_10657	ea35bd19	R. toruloides complex	ATCC_10657	haploid	A2	Japan	soil
+Rhodotorula_toruloides_ATCC_10788	c4fe5035	R. toruloides complex	ATCC_10788	haploid	A1	Sweden	Wood_pulp_from_conifer
+Rhodotorula_toruloides_ATCC_204091	cdc4ceb1	R. toruloides complex	ATCC_204091	haploid	A2	India	soil
+Rhodotorula_toruloides_BOT-A2	6b4db5f6	R. toruloides complex	BOT-A2	haploid	A2	Sweden	plant
+Rhodotorula_toruloides_CB6-10_1	1f7a8039	R. toruloides complex	CB6-10_1	haploid	A2	Thailand	plant
+Rhodotorula_toruloides_CBS14	5ac5dfd0	R. toruloides complex	CBS14	haploid	A1	Sweden	Wood_pulp_from_conifer
+Rhodotorula_toruloides_CCT_0783	4583f21a	R. toruloides complex	CCT_0783	diploid	A1/A2	unknown	unknown
+Rhodotorula_toruloides_CECT1137	42052912	R. toruloides complex	CECT1137	haploid	A1	unknown	unknown
+Rhodotorula_toruloides_CGMCC_2.1609	1150bcb1	R. toruloides complex	CGMCC_2.1609	aneuploid	A1	unknown	unknown
+Rhodotorula_toruloides_DBVPG_6121	7eaab40c	R. toruloides complex	DBVPG_6121	haploid	A1	Italy	air_cloud
+Rhodotorula_toruloides_DBVPG_6739	448bf88e	R. toruloides complex	DBVPG_6739	haploid	A2	Italy	soil
+Rhodotorula_toruloides_EXF_13474	4bcf88aa	R. toruloides complex	EXF_13474	haploid	A1	unknown	unknown
+Rhodotorula_toruloides_IFO0559	93d0b4a2	R. toruloides complex	IFO0559	haploid	A1	Sweden	Wood_pulp_from_conifer
+Rhodotorula_toruloides_JCM_10020	31e010ba	R. toruloides complex	JCM_10020	haploid	A1	Sweden	Wood_pulp_from_conifer
+Rhodotorula_toruloides_JCM_10021	14c601eb	R. toruloides complex	JCM_10021	haploid	A2	Japan	soil
+Rhodotorula_toruloides_JCM_10049	f25f8e64	R. toruloides complex	JCM_10049	haploid	A1	Japan	air
+Rhodotorula_toruloides_JCM_24501	6f0de5bf	R. toruloides complex	JCM_24501	haploid	A2	Japan	plant
+Rhodotorula_toruloides_LAB-07	a5505c9b	R. toruloides complex	LAB-07	haploid	A1	Korea	soil
+Rhodotorula_toruloides_MTCC_457	804fc220	R. toruloides complex	MTCC_457	haploid	A1	Sweden	Wood_pulp_from_conifer
+Rhodotorula_toruloides_NBRC10032	dc2d8456	R. toruloides complex	NBRC10032	haploid	A1	unknown	unknown
+Rhodotorula_toruloides_NBRC_0880	8701c6b3	R. toruloides complex	NBRC_0880	haploid	A2	Japan	soil
+Rhodotorula_toruloides_NP11	fec0d981	R. toruloides complex	NP11	haploid	A1	Japan	Conjugated_strain
+Rhodotorula_toruloides_PYCC_5615	cb9f8904	R. toruloides complex	PYCC_5615	haploid	A1/A2	Japan	unknown
+Rhodotorula_sp._S30-09	ef7ebe36	R. toruloides complex	S30-09	haploid	A2	China	hunan_feces
+Rhodotorula_toruloides_TFCN_152A-4	5ba57e09	R. toruloides complex	TFCN_152A-4	haploid	A1	China	marsh_tidalflat
+Rhodotorula_toruloides_TFCN_152A-6	50e536a5	R. toruloides complex	TFCN_152A-6	haploid	A1	China	marsh_tidalflat
+Rhodotorula_toruloides_TFCN_152C-3	aac332e9	R. toruloides complex	TFCN_152C-3	haploid	A1	China	marsh_tidalflat
+Rhodotorula_toruloides_TFCN_152C-6	9a61969c	R. toruloides complex	TFCN_152C-6	haploid		China	marsh_tidalflat
+Rhodotorula_toruloides_TFCN_152D-4	4946f5a7	R. toruloides complex	TFCN_152D-4	haploid	A1	China	marsh_tidalflat
+Rhodotorula_toruloides_TFCN_152D-6	52896da1	R. toruloides complex	TFCN_152D-6	haploid	A1	China	marsh_tidalflat
+Rhodotorula_toruloides_VN1	3a0c55d6	R. toruloides complex	VN1	haploid	A1	VietNam	soil
+Rhodotorula_toruloides_Z1	a2f7c889	R. toruloides complex	Z1	haploid	A1	China	soil
+Rhodotorula_toruloides_Z11	5bdf1fc1	R. toruloides complex	Z11	haploid	A1	China	soil
+Rhodotorula_sp._ZM1	78efe205	R. toruloides complex	ZM1	haploid	A2	China	Acid_mine_drainage
+Rhodotorula_toruloides_delta_dao_1e	30198f43	R. toruloides complex	delta_dao_1e	haploid	A2	China	seawater
+Sporidiobolus_pararoseus_NGR	caf9209e	Sporidiobolus pararoseus	NGR	haploid	/		
+Sporobolomyces_roseus_SR19	9afcec51	Sporobolomyces roseus	SR19	haploid	/		
+Sporobolomyces_roseus_Y8	aa2ab4e1	Sporobolomyces roseus	Y8	haploid	/		
+Sporobolomyces_sp._EXF_10545	8909abf6	Sporobolomyces sp. 1	EXF_10545	too low		France	Cloud water
+Rhodotorula_mucilaginosa_A3-PDA3-4		R. mucilaginosa	A3-PDA3-4	haploid		China	ice
+Rhodotorula_mucilaginosa_A6-RM5-2		R. mucilaginosa	A6-RM5-2	haploid		China	ice
+Rhodotorula_mucilaginosa_B2-PDA0-2		R. mucilaginosa	B2-PDA0-2	haploid		China	ice
+Rhodotorula_mucilaginosa_B4-RDBC5-2		R. mucilaginosa	B4-RDBC5-2	haploid		China	ice
+Rhodotorula_mucilaginosa_C2-MEA2-4		R. mucilaginosa	C2-MEA2-4	haploid		China	permafrost
+Rhodotorula_mucilaginosa_P15-RM0-3		R. mucilaginosa	P15-RM0-3	diploid		China	plant
+Rhodotorula_mucilaginosa_P18-RM0-1		R. mucilaginosa	P18-RM0-1	haploid		China	plant
+Rhodotorula_mucilaginosa_P1-MEA2-1		R. mucilaginosa	P1-MEA2-1	haploid		China	biocrust
+Rhodotorula_mucilaginosa_P1-RM0-1		R. mucilaginosa	P1-RM0-1	haploid		China	biocrust
+Rhodotorula_mucilaginosa_P7-MEA0-1		R. mucilaginosa	P7-MEA0-1	diploid		China	desert_plant
+Rhodotorula_mucilaginosa_P7-MEA0-2		R. mucilaginosa	P7-MEA0-2	diploid		China	desert_plant
+Rhodotorula_mucilaginosa_P8-RM0-2		R. mucilaginosa	P8-RM0-2	diploid		China	plant
+Rhodotorula_mucilaginosa_P9-MEA0-1		R. mucilaginosa	P9-MEA0-1	diploid		China	lichen
+Rhodotorula_mucilaginosa_XJ001PDA1-1		R. mucilaginosa	XJ001PDA1-1	haploid		China	swamp_water
+Rhodotorula_mucilaginosa_XJ058MEA1-4		R. mucilaginosa	XJ058MEA1-4	haploid		China	ice
+Rhodotorula_mucilaginosa_XJ617YPD3-1		R. mucilaginosa	XJ617YPD3-1	haploid		Chine	cattle_feces
+Rhodotorula_mucilaginosa_DBVPG_3239	b8291b81	R. mucilaginosa	DBVPG_3239	too low		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3445	440c1048	R. mucilaginosa	DBVPG_3445	too low		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3446	a1c93e32	R. mucilaginosa	DBVPG_3446	too low		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_3538	f3efe4bf	R. mucilaginosa	DBVPG_3538	too low		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_4379	d299bf32	R. mucilaginosa	DBVPG_4379	too low		Italy	food
+Rhodotorula_mucilaginosa_DBVPG_4952	977aaed6	R. mucilaginosa	DBVPG_4952	too low		Italy	soil
+Rhodotorula_mucilaginosa_DBVPG_6094	e5de1317	R. mucilaginosa	DBVPG_6094	too low		Italy	unknown
+Rhodotorula_mucilaginosa_DBVPG_6649	1b64f6b2	R. mucilaginosa	DBVPG_6649	too low		Italy	plant
+Rhodotorula_mucilaginosa_TFCN_25-332D-2	68e293de	R. mucilaginosa	TFCN_25-332D-2	too low		China	marsh_tidalflat
+Rhodotorula_mucilaginosa_TFCN_270H-1	c5cc1454	R. mucilaginosa	TFCN_270H-1	too low		China	marsh_tidalflat

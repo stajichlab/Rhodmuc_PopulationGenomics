@@ -1,0 +1,81 @@
+strain	collection	clone_group	Origin	Environment	in_zinc_file
+CCFEE_5036	CCFEE	CG005			False
+CHIFNET_12H1194	CHIFNET	CG013	China	blood	False
+EXF_12281	EXF	CG004	Sweden	Refrigerator	False
+EXF_13260	EXF	CG001	Mexico	volcano	False
+EXF_13261	EXF	CG001	Mexico	volcano	False
+EXF_13599	EXF	CG004	Norway	snow	False
+EXF_13600	EXF	CG001	Greenland	air	False
+EXF_13602	EXF	CG001	Greenland	air	False
+EXF_13604	EXF	CG005	Austria	air	False
+EXF_1510	EXF	CG016	Arctic	glacier_ice	False
+EXF_1565	EXF	CG001	Arctic	Sea_ice	False
+EXF_1585	EXF	CG001	Arctic	Seawater	False
+EXF_1676	EXF	CG001	Arctic	glacier_ice	False
+EXF_1686	EXF	CG001	Arctic	Glacial_leaching	False
+EXF_1695	EXF	CG004	Arctic	glacier_ice	False
+EXF_1704	EXF	CG017	Arctic	glacier_ice	False
+EXF_2251	EXF	CG001			False
+EXF_3417	EXF	CG001	Arctic	glacier_ice	False
+EXF_3530	EXF	CG001	Arctic	glacier_ice	False
+EXF_3538	EXF	CG010	Arctic	glacier_ice	False
+EXF_3540	EXF	CG001	Arctic	glacier_ice	False
+EXF_3544	EXF	CG001	Arctic	glacier_ice	False
+EXF_3569	EXF	CG001	Arctic	Glacial_water_with_sediment	False
+EXF_3592	EXF	CG001	Arctic	glacier_ice	False
+EXF_3595	EXF	CG003	Puerto Rico	microbial_mat	False
+EXF_3604	EXF	CG010	Arctic	Glacial_water	False
+EXF_3609	EXF	CG001	Arctic	glacier_ice	False
+EXF_3612	EXF	CG001	Arctic	Glacial_water	False
+EXF_3622	EXF	CG001	Arctic	glacier_ice	False
+EXF_3626	EXF	CG010	Arctic	glacier_ice	False
+EXF_3790	EXF	CG003	Puerto Rico	microbial_mat_salterns	False
+EXF_3860	EXF	CG003	Puerto Rico	microbial_mat_salterns	False
+EXF_3861	EXF	CG003	Puerto Rico	microbial_mat_salterns	False
+EXF_3862	EXF	CG003	Puerto Rico	microbial_mat_salterns	False
+EXF_4885	EXF	CG005	Slovenia	Mengore_cave	False
+EXF_5546	EXF	CG001	Slovenia	Dishwasher_rubber 	False
+EXF_5775	EXF	CG004	Slovenia	water_from_car_wash	False
+EXF_5938	EXF	CG001	Argentina	watterfall	False
+EXF_5939	EXF	CG001	Argentina	Glacial_water	False
+EXF_5940	EXF	CG004	Argentina	Glacial_water	False
+EXF_5941	EXF	CG001	Argentina	Glacial_water	False
+EXF_6243	EXF	CG004	Slovenia	sewages_of_car_wash	False
+EXF_6252	EXF	CG004	Slovenia	sewages_of_car_wash	False
+EXF_6325	EXF	CG001	Slovenia	washing_machine_rubber	False
+EXF_6360	EXF	CG009	Slovenia	funnel_in_kitchen	False
+EXF_6370	EXF	CG004	Slovenia	sink_in_bathroom	False
+EXF_6373	EXF	CG004	Slovenia	sink_in_kitchen	False
+EXF_7920	EXF	CG001	Sweden	metal_drainage_in_sink_Bathroom	False
+EXF_7931	EXF	CG001	Sweden	Metal_drain_of_the_kitchen_sink	False
+EXF_7944	EXF	CG001	Sweden	metal_holder_for_washed_dishes	False
+EXF_7949	EXF	CG004	Sweden	Metal_drain_of_the_kitchen_sink 	False
+EXF_8006	EXF	CG001	Sweden	metal_drainage_in_sink_Bathroom	False
+EXF_8014	EXF	CG001	Sweden	contact_surface_between_faucet_and_sink_bathroom	False
+EXF_8109	EXF	CG018	Slovenia	Metal_drain_of_the_kitchen_sink	False
+EXF_8151	EXF	CG001	Denmark	shower_bathroom	False
+EXF_8155	EXF	CG001	Denmark	sink_in_kitchen	False
+EXF_8254	EXF	CG001	Slovenia	tap_water	False
+EXF_8395	EXF	CG009	Slovenia	Box_of_detergent	False
+EXF_8400	EXF	CG012	Slovenia	metal_drain_basin_in_bathroom	False
+EXF_8463	EXF	CG012	Slovenia	tap_water	False
+EXF_8464	EXF	CG001	Slovenia	water_from_well 	False
+EXF_8465	EXF	CG001	Slovenia	tap_water	False
+EXF_8898	EXF	CG001	Slovenia	Fugue_at_shower_bathroom	False
+EXF_8921	EXF	CG001	Slovenia	Hot_steam_after_end_of_dishwashing_cycle	False
+EXF_8942	EXF	CG001	Slovenia	Strainer_basket	False
+EXF_8984	EXF	CG001	Slovenia	water_from_cloth	False
+EXF_9595	EXF	CG003	Italy	Kitchen_moist_panel_inside_fridge	False
+EXF_9756	EXF	CG001	Slovenia	rubber_seal_dishwasher	False
+EXF_9762	EXF	CG001	Slovenia	rubber_seal_dishwasher	False
+EXF_9926	EXF	CG019	Slovenia	Ceramic_platter	False
+EXF_9950	EXF	CG004	Slovenia	Strainer_basket	False
+IIF8SW-B2	IIF8SW-B2	CG008	America	ISS_waste_hygeine compt	False
+TFCN_209-6-12	TFCN	CG001	China	marsh_tidalflat	True
+TFCN_209-6-14	TFCN	CG001	China	marsh_tidalflat	True
+TFCN_209-6-2	TFCN	CG001	China	marsh_tidalflat	True
+TFCN_209-6-4	TFCN	CG001	China	marsh_tidalflat	False
+TFCN_25-335Y-1	TFCN	CG001	China	marsh_tidalflat	False
+TFCN_98D-11	TFCN	CG001	China	marsh_tidalflat	True
+TFCN_98D-7	TFCN	CG001	China	marsh_tidalflat	False
+TFCN_98D-9	TFCN	CG001	China	marsh_tidalflat	False

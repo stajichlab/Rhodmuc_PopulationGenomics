@@ -12,7 +12,7 @@ module load singularity
 export NXF_SYNTAX_PARSER=v1
 
 PROJ=/bigdata/stajichlab/shared/projects/Rhodotorula/PopGen/Rhodotorula_mucilaginosa_DH4148_ref
-PIPE=${PIPE:-/rhome/jstajich/projects/nf/nf_genotype_population_hetfix}
+PIPE=${PIPE:-/rhome/jstajich/projects/nf/nf_genotype_population}
 OUT=${PROJ}/results/ploidy_v2
 mkdir -p "$OUT" "${PROJ}/logs"
 cd "$OUT"

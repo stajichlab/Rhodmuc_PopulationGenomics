@@ -1,0 +1,320 @@
+strain	db_strain_id	read_files	foreign_files	n_files_used	n_files_in_db	db_species	metadata_species	phenotype_species	genetic_species	genetic_group	db_review_reason	flags
+CCFEE_5036	CCFEE:5036;DBVPG:5227	other_strain	ISQ0033050_S25_R1_001.fastq.gz->CCFEE:5036 SRR5223778->CCFEE:5036	2	0	NA	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		name_ambiguous,reads_belong_to_other_strain
+CHIFNET_12H1194	CHIFNET:12H1194	ok		1	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+CHIFNET_14NJ214	CHIFNET:14NJ214	ok		1	2	R. mucilaginosa	R. frigidialcoholis	NA	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+DBVPG_10619	DBVPG:10619	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_10656	DBVPG:10656	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. nothofagi	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+DBVPG_10780	DBVPG:10780	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_10842	DBVPG:10842	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_10882	DBVPG:10882	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_10886	DBVPG:10886	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_10937	DBVPG:10937	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3044	DBVPG:3044	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3045	DBVPG:3045	ok		3	3	R. mucilaginosa	R. aff. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+DBVPG_3090	DBVPG:3090	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3235	DBVPG:3235	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3236	DBVPG:3236	ok		3	3	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3237	DBVPG:3237	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3238	DBVPG:3238	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3239	DBVPG:3239	not_in_db;ok		2	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		reads_not_in_db
+DBVPG_3381	DBVPG:3381	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3382	DBVPG:3382	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3383	DBVPG:3383	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3384	DBVPG:3384	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3442	DBVPG:3442	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3443	DBVPG:3443	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3444	DBVPG:3444	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+DBVPG_3445	DBVPG:3445	not_in_db;ok		2	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	other dropped	other dropped		reads_not_in_db
+DBVPG_3446	DBVPG:3446	not_in_db;ok		2	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		reads_not_in_db
+DBVPG_3538	DBVPG:3538	not_in_db;ok		2	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		reads_not_in_db
+DBVPG_3774	DBVPG:3774	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3775	DBVPG:3775	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3776	DBVPG:3776	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3777	DBVPG:3777	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3778	DBVPG:3778	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3780	DBVPG:3780	ok		3	3	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3854	DBVPG:3854	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+DBVPG_3855	DBVPG:3855	ok		1	1	R. mucilaginosa	R. frigidialcoholis	R. mucilaginosa	hybrid diploid	hybrid diploid		
+DBVPG_3856	DBVPG:3856	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+DBVPG_3857	DBVPG:3857	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+DBVPG_3858	DBVPG:3858	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3983	DBVPG:3983	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_3984	DBVPG:3984	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4201	DBVPG:4201	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4202	DBVPG:4202	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4203	DBVPG:4203	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4304	DBVPG:4304	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4376	DBVPG:4376	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4377	DBVPG:4377	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4378	DBVPG:4378	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4379	DBVPG:4379	not_in_db;ok		2	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		reads_not_in_db
+DBVPG_4380	DBVPG:4380	ok		1	1	R. mucilaginosa	R. aff. mucilaginosa	R. mucilaginosa	R. aff. mucilaginosa	R. aff. mucilaginosa		db_says_rmuc_but_genotype_other
+DBVPG_4408	DBVPG:4408	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4466	DBVPG:4466	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4534	DBVPG:4534	ok		3	3	R. mucilaginosa	R. aff. mucilaginosa	R. mucilaginosa	R. aff. mucilaginosa	R. aff. mucilaginosa		db_says_rmuc_but_genotype_other
+DBVPG_4618	DBVPG:4618	ok		3	3	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4669	DBVPG:4669	ok		3	3	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4920	DBVPG:4920	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4945	DBVPG:4945	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4946	DBVPG:4946	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4947	DBVPG:4947	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4949	DBVPG:4949	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4950	DBVPG:4950	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4952	DBVPG:4952	not_in_db;ok		3	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		reads_not_in_db
+DBVPG_4956	DBVPG:4956	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4957	DBVPG:4957	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4958	DBVPG:4958	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4962	DBVPG:4962	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4963	DBVPG:4963	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_4964	DBVPG:4964	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_5225	DBVPG:5225	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_5226	DBVPG:5226	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_5227	DBVPG:5227	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_5228	DBVPG:5228	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_5229	DBVPG:5229	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_5235	DBVPG:5235	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_5236	DBVPG:5236	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_5757	DBVPG:5757	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_5758	DBVPG:5758	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_5759	DBVPG:5759	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_6091	DBVPG:6091	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_6092	DBVPG:6092	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_6093	DBVPG:6093	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_6094	DBVPG:6094	not_in_db;ok		3	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		reads_not_in_db
+DBVPG_6593	DBVPG:6593	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_6649	DBVPG:6649	not_in_db;ok		3	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		reads_not_in_db
+DBVPG_6660	DBVPG:6660	ok		2	2	R. mucilaginosa	R. frigidialcoholis	R. mucilaginosa	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+DBVPG_6741	DBVPG:6741	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_6742	DBVPG:6742	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_6743	DBVPG:6743	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_6803	DBVPG:6803	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_7019	DBVPG:7019	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+DBVPG_8043	DBVPG:8043	ok		2	2	R. mucilaginosa	R. aff. mucilaginosa	R. mucilaginosa	R. aff. mucilaginosa	R. aff. mucilaginosa		db_says_rmuc_but_genotype_other
+EXF_10533	EXF:10533	ok		2	2	R. mucilaginosa	NA	NA	other dropped	other dropped		
+EXF_10630	NA	not_in_db		1	0	NA	NA	NA	other dropped	other dropped		name_not_in_db,reads_not_in_db
+EXF_10854	NA	not_in_db		1	0	NA	NA	NA	candidate (no metadata)	candidate (no metadata)		name_not_in_db,reads_not_in_db
+EXF_12265	NA	not_in_db		1	0	NA	NA	NA	other dropped	other dropped		name_not_in_db,reads_not_in_db
+EXF_12281	EXF:12281	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_12768	EXF:12768	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	other dropped	other dropped		
+EXF_13250	EXF:13250	ok		2	2	R. mucilaginosa	R. frigidialcoholis	NA	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+EXF_13255	EXF:13255	ok		2	2	R. mucilaginosa	R. frigidialcoholis	NA	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+EXF_13260	EXF:13260	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_13261	EXF:13261	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_13500	NA	not_in_db		1	0	NA	NA	NA	other dropped	other dropped		name_not_in_db,reads_not_in_db
+EXF_13599	EXF:13599	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_13600	EXF:13600	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_13601	EXF:13601	ok		2	2	R. mucilaginosa	R. frigidialcoholis	NA	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+EXF_13602	EXF:13602	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_13604	EXF:13604	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_14606	NA	not_in_db		1	0	NA	NA	NA	other dropped	other dropped		name_not_in_db,reads_not_in_db
+EXF_1510	EXF:1510	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_1565	EXF:1565	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_1585	EXF:1585	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_1676	EXF:1676	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_1686	EXF:1686	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_1695	EXF:1695	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_1704	EXF:1704	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_17335	NA	not_in_db		1	0	NA	NA	NA	candidate (no metadata)	candidate (no metadata)		name_not_in_db,reads_not_in_db
+EXF_2251	EXF:2251	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3417	EXF:3417	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3530	EXF:3530	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3538	EXF:3538	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3540	EXF:3540	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3544	EXF:3544	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3569	EXF:3569	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3592	EXF:3592	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3595	EXF:3595	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3604	EXF:3604	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3609	EXF:3609	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3612	EXF:3612	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3622	EXF:3622	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3626	EXF:3626	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3629	EXF:3629	ok		2	2	R. mucilaginosa	R. frigidialcoholis	NA	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+EXF_3633	EXF:3633	ok		2	2	R. mucilaginosa	R. frigidialcoholis	NA	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+EXF_3790	EXF:3790	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3860	EXF:3860	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3861	EXF:3861	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_3862	EXF:3862	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_4885	EXF:4885	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_5546	EXF:5546	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_5666	EXF:5666	ok		2	2	R. mucilaginosa	R. aff. mucilaginosa	NA	R. aff. mucilaginosa	R. aff. mucilaginosa		db_says_rmuc_but_genotype_other
+EXF_5668	EXF:5668	ok		2	2	R. mucilaginosa	NA	NA	other dropped	other dropped		
+EXF_5775	EXF:5775	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_5938	EXF:5938	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_5939	EXF:5939	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_5940	EXF:5940	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_5941	EXF:5941	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_6243	EXF:6243	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_6252	EXF:6252	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_6325	EXF:6325	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_6360	EXF:6360	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_6370	EXF:6370	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_6373	EXF:6373	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_7386	EXF:7386	ok		2	2	R. mucilaginosa	R. frigidialcoholis	NA	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+EXF_7920	EXF:7920	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_7931	EXF:7931	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_7934	EXF:7934	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	other dropped	other dropped		
+EXF_7944	EXF:7944	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_7949	EXF:7949	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8006	EXF:8006	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8014	EXF:8014	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8109	EXF:8109	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8151	EXF:8151	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8155	EXF:8155	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8254	EXF:8254	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8395	EXF:8395	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8400	EXF:8400	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8463	EXF:8463	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8464	EXF:8464	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8465	EXF:8465	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8891	EXF:8891	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	other dropped	other dropped		
+EXF_8898	EXF:8898	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8921	EXF:8921	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8942	EXF:8942	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_8984	EXF:8984	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_9051	EXF:9051	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	other dropped	other dropped		
+EXF_9595	EXF:9595	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_9756	EXF:9756	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_9762	EXF:9762	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_9926	EXF:9926	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+EXF_9950	EXF:9950	ok		2	2	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+IIF8SW-B2	JPL:IIF8SW-B2	ok		1	1	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+NRRL_Y-2510	NRRL:Y-2510	ok		1	1	R. mucilaginosa	NA	R. mucilaginosa	R. mucilaginosa	NRRL_Y-2510		
+TFCN_100D-1	TFCN:100D-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_102C-1	TFCN:102C-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_102C-2	TFCN:102C-2	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_102D-1	TFCN:102D-1	not_in_db;ok		2	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		reads_not_in_db
+TFCN_102D-2	TFCN:102D-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_105A-2	TFCN:105A-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_106A-1	TFCN:106A-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_107A-6	TFCN:107A-6	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_107C-3	TFCN:107C-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_110C-1	TFCN:110C-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_118C-2	TFCN:118C-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_122C-2	TFCN:122C-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_130D-4	TFCN:130D-4	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_134A-3	TFCN:134A-3	ok		1	1	R. mucilaginosa	R. frigidialcoholis	R. mucilaginosa	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+TFCN_137C-3	TFCN:137C-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_137D-4	TFCN:137D-4	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	other dropped	other dropped		
+TFCN_138A-1	TFCN:138A-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_140A-3	TFCN:140A-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_141C-2	TFCN:141C-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_152A-1	TFCN:152A-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. toruloides	hybrid diploid	hybrid diploid		
+TFCN_152A-12	TFCN:152A-12	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. sphaerocarpa	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_152A-2	TFCN:152A-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. sphaerocarpa	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_152A-3	NA	not_in_db		1	0	NA	NA	NA	other dropped	other dropped		name_not_in_db,reads_not_in_db
+TFCN_152A-5	TFCN:152A-5	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. toruloides	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_152C-5	TFCN:152C-5	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. toruloides	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_17-0-2E334-10	TFCN:17-0-2E334-10	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-0-2E334-4	TFCN:17-0-2E334-4	ok		1	1	R. mucilaginosa	R. aff. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+TFCN_17-0-2E337-3	TFCN:17-0-2E337-3	ok		3	3	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+TFCN_17-0-2E390-1	TFCN:17-0-2E390-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. alborubescens	hybrid diploid	hybrid diploid		
+TFCN_17-0-2E390-2	TFCN:17-0-2E390-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	NA	hybrid diploid	hybrid diploid		
+TFCN_17-267M-1	TFCN:17-267M-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. alborubescens	hybrid diploid	hybrid diploid		
+TFCN_17-291Y-1	TFCN:17-291Y-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. alborubescens	hybrid diploid	hybrid diploid		
+TFCN_17-325D-2	TFCN:17-325D-2	ok		3	3	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-325D-4	TFCN:17-325D-4	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-325P-1	TFCN:17-325P-1	ok		3	3	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-329Y-4	TFCN:17-329Y-4	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-332C-1	TFCN:17-332C-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-332C-2	TFCN:17-332C-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-332D-1	TFCN:17-332D-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-332M-1	TFCN:17-332M-1	ok		1	1	R. mucilaginosa	R. frigidialcoholis	R. mucilaginosa	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+TFCN_17-332M-2	TFCN:17-332M-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-332P-1	TFCN:17-332P-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-332P-2	TFCN:17-332P-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-333D-2	TFCN:17-333D-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	other dropped	other dropped		
+TFCN_17-333M-1	NA	not_in_db		1	0	NA	NA	NA	candidate (no metadata)	candidate (no metadata)		name_not_in_db,reads_not_in_db
+TFCN_17-333P-6	TFCN:17-333P-6	ok		3	3	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+TFCN_17-334C-1	TFCN:17-334C-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-334D-6	TFCN:17-334D-6	ok		3	3	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+TFCN_17-334P-3	TFCN:17-334P-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-334Y-2	TFCN:17-334Y-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-334Y-3	TFCN:17-334Y-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17-334Y-5	TFCN:17-334Y-5	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+TFCN_17-337P-5	TFCN:17-337P-5	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+TFCN_17-338D-3	TFCN:17-338D-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. glutinis	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_17-390M-1	TFCN:17-390M-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. alborubescens	hybrid diploid	hybrid diploid		
+TFCN_172A-1	TFCN:172A-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_17Y-278-1	TFCN:17Y-278-1	ok		1	1	R. mucilaginosa	R. aff. mucilaginosa	R. alborubescens	hybrid diploid	hybrid diploid		
+TFCN_181A-1	TFCN:181A-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_186CL-2	NA	not_in_db		1	0	NA	NA	NA	candidate (no metadata)	candidate (no metadata)		name_not_in_db,reads_not_in_db
+TFCN_1A-1-5	NA	not_in_db		1	0	NA	NA	NA	R. mucilaginosa	no-metadata haploid (6)		name_not_in_db,reads_not_in_db
+TFCN_1A-14	TFCN:1A-14	ok		1	1	R. mucilaginosa	R. frigidialcoholis	NA	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+TFCN_209-6-1	TFCN:209-6-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_209-6-11	TFCN:209-6-11	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_209-6-12	TFCN:209-6-12	ok		1	1	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+TFCN_209-6-14	TFCN:209-6-14	ok		1	1	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+TFCN_209-6-17	TFCN:209-6-17	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_209-6-2	TFCN:209-6-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+TFCN_209-6-4	TFCN:209-6-4	ok		1	1	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+TFCN_209-6-5	TFCN:209-6-5	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_211A-3	TFCN:211A-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. diobovata	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_211C-2	NA	not_in_db		1	0	NA	NA	NA	other dropped	other dropped		name_not_in_db,reads_not_in_db
+TFCN_212C-2	TFCN:212C-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. diobovata	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_213-6-2	TFCN:213-6-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. sphaerocarpa	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_213-6-4	TFCN:213-6-4	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. sphaerocarpa	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_223A-8	TFCN:223A-8	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_22C-4	TFCN:22C-4	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+TFCN_25-0-2E332-1	TFCN:25-0-2E332-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	other dropped	other dropped		
+TFCN_25-0-2E333-1	TFCN:25-0-2E333-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+TFCN_25-0-2E333-5	TFCN:25-0-2E333-5	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-0-2E333-7	TFCN:25-0-2E333-7	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. graminis	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_25-0-2E333-9	TFCN:25-0-2E333-9	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-0-2E334-1	TFCN:25-0-2E334-1	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+TFCN_25-0-2E390-1	TFCN:25-0-2E390-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. alborubescens	hybrid diploid	hybrid diploid		
+TFCN_25-325Y-1	TFCN:25-325Y-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-327D-1	TFCN:25-327D-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-331D-1	TFCN:25-331D-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+TFCN_25-332C-1	TFCN:25-332C-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-332D-1	TFCN:25-332D-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-332D-2	TFCN:25-332D-2	not_in_db;ok		2	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		reads_not_in_db
+TFCN_25-332M-1	TFCN:25-332M-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-332M-2	TFCN:25-332M-2	not_in_db		1	1	R. mucilaginosa	NA	R. mucilaginosa	R. mucilaginosa	no-metadata haploid (6)		reads_not_in_db
+TFCN_25-332P-2	TFCN:25-332P-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-332Y-1	TFCN:25-332Y-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-333C-2	TFCN:25-333C-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-333P-2	TFCN:25-333P-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-333Y-10	TFCN:25-333Y-10	ok		1	1	R. mucilaginosa	R. aff. mucilaginosa	NA	R. aff. mucilaginosa	R. aff. mucilaginosa		db_says_rmuc_but_genotype_other
+TFCN_25-333Y-9	TFCN:25-333Y-9	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-334D-3	TFCN:25-334D-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-334Y-6	TFCN:25-334Y-6	ok		1	1	R. mucilaginosa	R. aff. mucilaginosa	R. mucilaginosa	R. aff. mucilaginosa	R. aff. mucilaginosa		db_says_rmuc_but_genotype_other
+TFCN_25-335Y-1	TFCN:25-335Y-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+TFCN_25-337M-3	TFCN:25-337M-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	other dropped	other dropped		
+TFCN_25-337Y-1	TFCN:25-337Y-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_25-395P-1	TFCN:25-395P-1	ok		1	1	R. mucilaginosa	R. aff. mucilaginosa	R. alborubescens	R. aff. mucilaginosa	R. aff. mucilaginosa		db_says_rmuc_but_genotype_other
+TFCN_270H-1	TFCN:270H-1	not_in_db;ok		2	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		reads_not_in_db
+TFCN_270H-2	TFCN:270H-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_273H-1	TFCN:273H-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_2M-1-3	NA	not_in_db		1	0	NA	NA	NA	R. mucilaginosa	no-metadata haploid (6)		name_not_in_db,reads_not_in_db
+TFCN_2M-1-4	TFCN:2M-1-4	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_33A-4	TFCN:33A-4	ok		1	1	R. mucilaginosa	R. aff. mucilaginosa	R. mucilaginosa	R. aff. mucilaginosa	R. aff. mucilaginosa		db_says_rmuc_but_genotype_other
+TFCN_340-1	TFCN:340-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_340-3	TFCN:340-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_342-3	TFCN:342-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. paludigena	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_363-1-2	TFCN:363-1-2	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. taiwanensis	other dropped	other dropped		
+TFCN_3M-1-1	TFCN:3M-1-1	ok		1	1	R. mucilaginosa	R. frigidialcoholis	R. mucilaginosa	R. frigidialcoholis	R. frigidialcoholis		db_says_rmuc_but_genotype_other
+TFCN_404D-1	TFCN:404D-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	hybrid diploid	hybrid diploid		
+TFCN_4M-1-2	TFCN:4M-1-2	ok		3	3	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_4M-1-3	TFCN:4M-1-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_4M-1-4	TFCN:4M-1-4	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_4M-1-5	TFCN:4M-1-5	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_54D-1	TFCN:54D-1	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. sphaerocarpa	hybrid diploid	hybrid diploid		
+TFCN_54D-2	TFCN:54D-2	ok		3	3	R. mucilaginosa	R. mucilaginosa	R. sphaerocarpa	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_7-6-3	NA	not_in_db		1	0	NA	NA	NA	other dropped	other dropped		name_not_in_db,reads_not_in_db
+TFCN_86A-12	TFCN:86A-12	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. sphaerocarpa	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_86A-3	TFCN:86A-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. sphaerocarpa	R. mucilaginosa	rmuc_core		phenotype_species_not_rmuc_but_genotype_rmuc
+TFCN_86A-5	NA	not_in_db		1	0	NA	NA	NA	other dropped	other dropped		name_not_in_db,reads_not_in_db
+TFCN_86C-3	NA	not_in_db		1	0	NA	NA	NA	R. mucilaginosa	no-metadata haploid (6)		name_not_in_db,reads_not_in_db
+TFCN_89D-3	TFCN:89D-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	other dropped	other dropped		
+TFCN_98A-10	TFCN:98A-10	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_98A-5	TFCN:98A-5	ok		2	2	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_98C-3	TFCN:98C-3	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_98C-5	TFCN:98C-5	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_98C-7	TFCN:98C-7	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_98C-8	TFCN:98C-8	ok		1	1	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	R. mucilaginosa	rmuc_core		
+TFCN_98D-11	TFCN:98D-11	ok		1	1	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+TFCN_98D-7	TFCN:98D-7	ok		1	1	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+TFCN_98D-9	TFCN:98D-9	ok		1	1	R. mucilaginosa	R. mucilaginosa	NA	R. mucilaginosa	rmuc_core		
+TFCN_BY120-C1	NA	not_in_db		1	0	NA	NA	NA	R. mucilaginosa	no-metadata haploid (6)		name_not_in_db,reads_not_in_db
+TFCN_BY120-C7	NA	not_in_db		1	0	NA	NA	NA	R. mucilaginosa	no-metadata haploid (6)		name_not_in_db,reads_not_in_db

@@ -20,6 +20,15 @@ hc = {r["sample"]: r for r in csv.DictReader(open("results/variant_qc/hybrid_che
 #   NRRL_Y-2510: R. mucilaginosa (phenotype table and its own reference genome
 #   project); haploid by GATK, nQuire and het/Mb (56); 2.4% low-quality GTs.
 INCLUDE_NO_METADATA = {"NRRL_Y-2510"}
+# Libraries sequenced under another name and merged into one strain CRAM
+# (scripts/merge_strain_crams.sh; docs/sample_id_fixes_2026-10-03.md). The old
+# names no longer have a CRAM and must not appear in any group.
+MERGED_INTO = {
+    "TFCN_BY120-C1": "TFCN_25-0-2E333-9",   # 9003_002, plate position BY120-C1
+    "TFCN_BY120-C7": "TFCN_25-0-2E333-9",   # 9003_028, plate position BY120-C7
+    "CCFEE_5036": "DBVPG_5227",             # same isolate, two collection numbers
+}
+qc = [r for r in qc if r["strain"] not in MERGED_INTO]
 for r in qc:
     if r["strain"] in INCLUDE_NO_METADATA:
         assert r["reasons"] == "no_metadata", (r["strain"], r["reasons"])
@@ -66,6 +75,7 @@ with open("population_sets.yaml", "w") as o:
             "# DBVPG_3239, DBVPG_6094 and TFCN_25-332D-2 changed diploid -> haploid\n"
             "# (docs/ploidy_assessment_2026-10-03.md). They stay in rmuc_core.\n"
             "# NRRL_Y-2510 has no metadata.txt row but was added after review.\n"
+            "# Merged strains: TFCN_BY120-C1/C7 -> TFCN_25-0-2E333-9; CCFEE_5036 -> DBVPG_5227.\n"
             "# rmuc_pheno exclusions: results/variant_qc/rmuc_pheno_exclusions.tsv.\n"
             "# Clonal lineages: results/variant_qc/divergence/clone_groups_1e-3.tsv.\n"
             "Populations:\n")

@@ -92,4 +92,8 @@ These notes come from the numbers above. They are advice, not tested results.
    - Use the SnpEff HIGH/MODERATE annotations for gene-level burden tests.
    - Run SNP-based and k-mer/presence-absence tests side by side, because accessory genes are common in yeasts.
 8. **Multiple testing.** Base the threshold on the number of unique genotype patterns, or use permutation, not the raw SNP count. With few lineages, many SNPs share one pattern.
-9. **Power.** 83 strains in the phenotype table are not genotyped here (other species or not sequenced). Sequencing more strains from under-sampled lineages would add more power than more strains from CG001 or CG002.
+9. **Clone groups must be pruned or modelled.** Members of one clone group are near-identical (d < 0.001) and are not independent samples. Before any association test, either keep one representative per clone group or model clone group explicitly (kinship plus clone-group random effect).
+   - **Example, CG005:** DBVPG_5227 (merged with CCFEE_5036, the same isolate), DBVPG_5226, DBVPG_5225, DBVPG_5228, DBVPG_5229, DBVPG_5235, DBVPG_10882, EXF_13604 and EXF_4885.
+   - **Not merged:** DBVPG_5226 and DBVPG_10882 are separate isolates and stay as separate strains here. They are still one clone with DBVPG_5227 for association work.
+   - **Group list:** `results/variant_qc/divergence/clone_groups_1e-3.tsv`. Regenerate it from the new callset.
+10. **Power.** 83 strains in the phenotype table are not genotyped here (other species or not sequenced). Sequencing more strains from under-sampled lineages would add more power than more strains from CG001 or CG002.
