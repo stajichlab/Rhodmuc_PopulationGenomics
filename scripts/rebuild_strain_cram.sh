@@ -29,7 +29,7 @@ $X $SAM bash -c "export PATH=/opt/conda/envs/bcftools_samtools/bin:\$PATH
 $X $GATK gatk --java-options "-Xmx20g" MarkDuplicates -I $W/sub.rh.bam -O $W/md.bam -M $OUT/$S.rebuilt.md_metrics.txt \
     --CLEAR_DT true --TMP_DIR $W --VALIDATION_STRINGENCY SILENT
 $X $SAM bash -c "export PATH=/opt/conda/envs/bcftools_samtools/bin:\$PATH
-  samtools view -@4 -C -T $REF -o $OUT/$S.rebuilt.cram $W/md.bam
+  samtools view -@4 -C --output-fmt-option version=3.0 -T $REF -o $OUT/$S.rebuilt.cram $W/md.bam
   samtools index $OUT/$S.rebuilt.cram
   echo 'read groups:'; samtools view -H $OUT/$S.rebuilt.cram | grep '^@RG' | cut -f1-5
   echo 'records in: '\$(samtools view -c -R $W/rg.txt --reference $REF $IN)'  out: '\$(samtools view -c --reference $REF $OUT/$S.rebuilt.cram)

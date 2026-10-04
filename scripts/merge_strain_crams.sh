@@ -16,7 +16,7 @@ singularity exec -B "$PWD,${SCRATCH:?}" "$IMG" bash -s "$S" "$REF" "$OUT" "$@" <
 set -euo pipefail
 export PATH=/opt/conda/envs/bcftools_samtools/bin:$PATH
 S=$1; REF=$2; OUT=$3; shift 3
-samtools merge --threads 4 --reference $REF -O CRAM -o $SCRATCH/m.cram "$@"
+samtools merge --threads 4 --reference $REF -O CRAM,version=3.0 -o $SCRATCH/m.cram "$@"
 samtools view -H $SCRATCH/m.cram | awk -v sm="SM:${S}_${S}" 'BEGIN{OFS="\t"} /^@RG/{for(i=2;i<=NF;i++) if($i~/^SM:/) $i=sm} {print}' > $SCRATCH/h.sam
 samtools reheader $SCRATCH/h.sam $SCRATCH/m.cram > $OUT/$S.merged.cram
 samtools index $OUT/$S.merged.cram
