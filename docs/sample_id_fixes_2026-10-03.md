@@ -44,3 +44,32 @@ Notes on both merges:
 - **TFCN_17-332D-2, TFCN_223D-8 and TFCN_17-333P-8 (zinc file).** These are different strains from the similar genotyped names (user). They have no genotype data.
 - **Zinc phenotype files.** `Data/Interm/ZnArrayRun/zincmeasurementmeta.csv` holds 2 of the 5 runs: 159 strains, 92 of them in `rmuc_core`. `0.15.1_Analysis/Results/Zinc/` holds all 5 runs: 321 strains, 161 in `rmuc_core`, including TFCN_25-0-2E333-9. Use the 0.15.1 results.
 - **Duplicate metadata rows (fixed).** `metadata.txt` had exact duplicate rows for six strains: TFCN_25-332D-2, DBVPG_3775, TFCN_17-332D-1, TFCN_25-332D-1, TFCN_25-332M-1 and TFCN_270H-2. One copy of each was removed (607 → 601 lines). The backup is `metadata.before_2026-10-03.txt`, and CRLF line endings were kept. Four strains (DBVPG_3045, DBVPG_3855, TFCN_17-0-2E334-4, TFCN_17Y-278-1) keep three rows each: one diploid row plus `_hap1`/`_hap2` haplotype rows. These are intended, and the pipeline excludes `_hap` rows.
+
+## Mismatched 9003 libraries and CRAM rebuilds
+
+The library identity check (`scripts/variant_qc/library_identity.sh`; results in `results/variant_qc/library_identity_2026-10-03.tsv`) genotyped each read group separately on CM179498.1 and compared it with all strains in the joint callset.
+
+**Five strains had a 9003 library from a different organism.** Sarek had merged each one into the strain's original library, because `samplesheet.csv` listed it as an extra lane of the same sample:
+
+| Strain | Original library | 9003 library (excluded) | Ploidy after rebuild |
+|---|---|---|---|
+| DBVPG_3445 | hybrid diploid | 9003_005: pure *R. muc.* haploid ≈ TFCN_98C-7 (China) | diploid (unchanged) |
+| DBVPG_3538 | pure *R. muc.* haploid ≈ DBVPG_3382 clone | 9003_007: *R. aff. mucilaginosa* ≈ TFCN_25-395P-1 (China) | **haploid** (was diploid) |
+| DBVPG_4379 | pure *R. muc.* haploid ≈ DBVPG_10842 | 9003_009: hybrid diploid | **haploid** (was diploid) |
+| DBVPG_4952 | hybrid diploid | 9003_010: pure haploid near *R. frigidialcoholis* | diploid (unchanged) |
+| DBVPG_6649 | hybrid diploid | 9003_012: pure *R. muc.* haploid ≈ TFCN_17-325D-4 (China) | diploid (unchanged) |
+
+What was done:
+- `scripts/rebuild_strain_cram.sh` rebuilt each CRAM from its original read groups and re-marked duplicates. The output is in `results/preprocessing/rebuilt/`.
+- The five 9003 rows moved to `samplesheet_excluded_9003.csv`.
+- On 2026-10-03, DBVPG_3538 and DBVPG_4379 were changed to haploid in `ploidy_overrides.csv`.
+
+**Hybrid status.** Hybrid-like libraries peak at a minor-allele fraction of 0.40–0.50, so they are real diploid hybrids, not mixed cultures.
+- DBVPG_3446 and TFCN_270H-1 are hybrids in two independent libraries.
+- DBVPG_3538 and DBVPG_4379 looked hybrid only because of the merge.
+
+**Consistent merges, kept as they are:** DBVPG_3239, DBVPG_3446, TFCN_102D-1, TFCN_25-332D-2, TFCN_270H-1 and TFCN_25-0-2E333-9.
+
+**DBVPG_6094 is unverified.** Its original libraries gave no usable sites (the database notes say "Too Low"), so its genotype rests on 9003_011 alone.
+
+**Single-library 9003 strains cannot be cross-checked.**
