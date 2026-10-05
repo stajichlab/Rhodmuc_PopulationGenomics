@@ -1,0 +1,18 @@
+# Strains kept despite a strain_qc.tsv drop reason, after review.
+# Read by scripts/variant_qc/make_qc_groups.py and make_population_sets.py.
+# 'drop_reasons' must equal the strain_qc.tsv 'reasons' value exactly, or the scripts stop.
+# Review: docs/strain_qc_2026-10-05.md (points 1-3); docs/ploidy_assessment_2026-10-03.md (NRRL_Y-2510).
+strain	drop_reasons	date	note
+NRRL_Y-2510	no_metadata	2026-10-03	R. mucilaginosa (phenotype table, own reference genome project); haploid by GATK, nQuire, het/Mb 56; 2.4% low-quality GTs
+TFCN_1A-1-5	no_metadata	2026-10-05	9003_017; clean R. mucilaginosa haploid (sourmash 1.000, het 0); metadata row to be added
+TFCN_2M-1-3	no_metadata	2026-10-05	9003_022; clean R. mucilaginosa haploid (sourmash 1.000, het 0); metadata row to be added
+TFCN_86C-3	no_metadata	2026-10-05	9003_027; clean R. mucilaginosa haploid (sourmash 1.000, het 0); metadata row to be added
+TFCN_25-332M-2	no_metadata	2026-10-05	9003_020; clean R. mucilaginosa haploid (sourmash 1.000, het 0); metadata row to be added
+TFCN_17-333M-1	no_metadata	2026-10-05	9003_015; R. mucilaginosa x R. aff. mucilaginosa hybrid diploid (het 0.251; sourmash both parents ~0.998)
+TFCN_186CL-2	no_metadata	2026-10-05	9003_016; R. mucilaginosa x R. aff. mucilaginosa hybrid diploid (het 0.254; sourmash both parents ~0.998)
+TFCN_137D-4	low_coverage	2026-10-05	rescued pending review: hom-ref GT DP comes from gVCF block minimum; mosdepth 18.5x, 99% of genome >=5x, 95.5% mapped
+TFCN_17-333D-2	low_coverage	2026-10-05	rescued pending review: same cause; mosdepth 19.5x, 99% >=5x, 97.5% mapped
+TFCN_25-0-2E332-1	low_coverage	2026-10-05	rescued pending review: same cause; mosdepth 27.7x, 99% >=5x, 98.2% mapped
+TFCN_25-337M-3	low_coverage	2026-10-05	rescued pending review: same cause; mosdepth 16.5x, 99% >=5x, 98.7% mapped
+TFCN_363-1-2	low_coverage	2026-10-05	rescued pending review: same cause; mosdepth 18.5x, 98% >=5x, 96.4% mapped
+TFCN_89D-3	low_coverage	2026-10-05	rescued pending review: same cause; mosdepth 17.1x, 98% >=5x, 96.6% mapped

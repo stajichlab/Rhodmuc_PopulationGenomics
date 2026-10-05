@@ -19,11 +19,10 @@ Usage: make_population_sets.py   (run from the project root)
 import csv
 qc = list(csv.DictReader(open("results/variant_qc/strain_qc.tsv"), delimiter="\t"))
 hc = {r["sample"]: r for r in csv.DictReader(open("results/variant_qc/hybrid_check.CM179498.tsv"), delimiter="\t")}
-# Strains dropped only for missing metadata.txt rows, added back after review
-# (docs/ploidy_assessment_2026-10-03.md):
-#   NRRL_Y-2510: R. mucilaginosa (phenotype table and its own reference genome
-#   project); haploid by GATK, nQuire and het/Mb (56); 2.4% low-quality GTs.
-INCLUDE_NO_METADATA = {"NRRL_Y-2510"}
+# Strains kept despite a QC drop reason, after review (reasons must match exactly).
+REVIEWED_KEEP = "variant_qc_reviewed_keep.tsv"
+reviewed = {r["strain"]: r["drop_reasons"] for r in csv.DictReader(
+    (l for l in open(REVIEWED_KEEP) if not l.startswith("#")), delimiter="\t")}
 # Libraries sequenced under another name and merged into one strain CRAM
 # (scripts/merge_strain_crams.sh; docs/sample_id_fixes_2026-10-03.md). The old
 # names no longer have a CRAM and must not appear in any group.
@@ -34,9 +33,10 @@ MERGED_INTO = {
 }
 qc = [r for r in qc if r["strain"] not in MERGED_INTO]
 for r in qc:
-    if r["strain"] in INCLUDE_NO_METADATA:
-        assert r["reasons"] == "no_metadata", (r["strain"], r["reasons"])
-        r["decision"], r["reasons"] = "keep", "no_metadata_reviewed"
+    if r["strain"] in reviewed:
+        assert r["reasons"] == reviewed[r["strain"]], (r["strain"], r["reasons"], reviewed[r["strain"]])
+        r["decision"], r["reasons"] = "keep", r["reasons"] + "_reviewed"
+assert set(reviewed) <= {r["strain"] for r in qc}, set(reviewed) - {r["strain"] for r in qc}
 kept = [r for r in qc if r["decision"] == "keep"]
 hyb = [r for r in kept if r["called_ploidy"] == "2" and float(r["het_rate"]) >= 0.1]
 hyb_names = {r["strain"] for r in hyb}
@@ -76,7 +76,7 @@ with open("population_sets.yaml", "w") as o:
             "# Ploidy comes from ploidy_overrides.csv, not from this file. 2026-10-03:\n"
             "# DBVPG_3239, DBVPG_6094 and TFCN_25-332D-2 changed diploid -> haploid\n"
             "# (docs/ploidy_assessment_2026-10-03.md). They stay in rmuc_core.\n"
-            "# NRRL_Y-2510 has no metadata.txt row but was added after review.\n"
+            "# Strains kept despite a QC drop reason, after review: variant_qc_reviewed_keep.tsv.\n"
             "# Merged strains: TFCN_BY120-C1/C7 -> TFCN_25-0-2E333-9; CCFEE_5036 -> DBVPG_5227.\n"
             "# Phenotype-link notes (no group): results/variant_qc/rmuc_pheno_exclusions.tsv.\n"
             "# Clonal lineages: results/variant_qc/divergence/clone_groups_1e-3.tsv.\n"

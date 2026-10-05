@@ -4,7 +4,7 @@
 Inputs (run from the project root):
   results/variant_qc/divergence/all_5contigs.dist.tsv.gz   pairwise distances
   results/variant_qc/strain_qc.tsv                         species, QC decision
-  results/ploidy_v2/ploidy/ploidy_inference_all.csv        callable_bp, SNP sites
+  results/ploidy_inference_all.csv        callable_bp, SNP sites
   population_sets.yaml                                     rmuc_core, hybrid_diploids
   ExRhodotorula_Phenotypes/strains.csv                     phenotype-table species
 Outputs:
@@ -32,7 +32,7 @@ with gzip.open(f"{D_DIR}/all_5contigs.dist.tsv.gz", "rt") as fh:
 qc = {r["vcf_sample"]: r for r in csv.DictReader(open("results/variant_qc/strain_qc.tsv"), delimiter="\t")}
 strain = [qc[s]["strain"] for s in samples]
 idx = {s: i for i, s in enumerate(strain)}
-v2 = {r["strain"]: r for r in csv.DictReader(open("results/ploidy_v2/ploidy/ploidy_inference_all.csv"))}
+v2 = {r["strain"]: r for r in csv.DictReader(open("results/ploidy_inference_all.csv"))}
 pops = yaml.safe_load(open("population_sets.yaml"))["Populations"]
 core, hyb = set(pops["rmuc_core"]), set(pops["hybrid_diploids"])
 ph = {r["STRAIN"]: r["ASSIGNEDSPECIES"] for r in

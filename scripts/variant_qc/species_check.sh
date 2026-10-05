@@ -6,10 +6,12 @@ set -euo pipefail
 source /etc/profile.d/modules.sh 2>/dev/null || true
 module load singularity
 IMG=/bigdata/stajichlab/shared/singularity_cache/bcftools_samtools-1.24.sif
-singularity exec -B "$PWD,${SCRATCH:?}" "$IMG" bash -s <<'IN'
+# Inputs (override with env vars): M = curated SNP set of kept strains; ALLVCF = all-strain hard-filtered VCF
+export M=${M:-results/filtered/rmucilaginosa_qc.snps.maf.annotated.vcf.gz}
+export ALLVCF=${ALLVCF:-results/all.annotated.vcf.gz}
+singularity exec -B "$PWD,${SCRATCH:?}" --env M=$M,ALLVCF=$ALLVCF "$IMG" bash -s <<'IN'
 set -euo pipefail
 G=results/variant_qc/groups
-M=results/filtered/rmucilaginosa_qc.snps.maf.annotated.vcf.gz
 echo "snps.maf total: $(bcftools index -n $M)"
 for g in kept_haploid kept_dip_highhet; do
   n=$(bcftools view --threads 8 -S $G/$g.txt -Ou $M | bcftools +fill-tags -Ou -- -t MAF | bcftools view -H -i 'INFO/MAF>=0.05' | wc -l)
@@ -17,7 +19,7 @@ for g in kept_haploid kept_dip_highhet; do
 done
 # hybrid check on contig CM179498 from the unfiltered all-strain VCF
 cat $G/kept_haploid.txt $G/kept_dip_highhet.txt $G/frig_haploid.txt $G/affmuc_haploid.txt > $SCRATCH/s.txt
-bcftools view -r CM179498.1 -f PASS -m2 -M2 -v snps -S $SCRATCH/s.txt -Ou results/all.annotated.vcf.gz \
+bcftools view -r CM179498.1 -f PASS -m2 -M2 -v snps -S $SCRATCH/s.txt -Ou $ALLVCF \
   | bcftools +setGT -Ou -- -t q -n . -i 'FMT/GQ<20 | FMT/DP<5' > $SCRATCH/c.bcf
 echo "CM179498 biallelic PASS SNPs: $(bcftools view -H $SCRATCH/c.bcf | wc -l)"
 ( bcftools query -l $SCRATCH/c.bcf | tr '\n' '\t'; echo; bcftools query -f '[%GT\t]\n' $SCRATCH/c.bcf ) \
