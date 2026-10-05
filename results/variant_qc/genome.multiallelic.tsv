@@ -1,21 +1,37 @@
-# all=5113735 pass=4725468 masked=0 multiallelic=1577879
-any_diploid_het_without_ref	False	1166777
-any_haploid_carries_allele>=2	True	1037595
-any_haploid_carries_allele>=2	False	540284
-any_diploid_het_without_ref	True	411102
-True	snp	star	minor_alt_AC>2	unmasked	290215
-True	snp	star	minor_alt_AC<=2	unmasked	257134
-True	snp	nostar	minor_alt_AC<=2	unmasked	213090
-True	snp	nostar	minor_alt_AC>2	unmasked	195504
-True	indel/mixed	star	minor_alt_AC<=2	unmasked	134649
-True	indel/mixed	star	minor_alt_AC>2	unmasked	115789
-True	indel/mixed	nostar	minor_alt_AC<=2	unmasked	97232
-False	snp	star	minor_alt_AC<=2	unmasked	77836
-True	indel/mixed	nostar	minor_alt_AC>2	unmasked	59298
-False	indel/mixed	star	minor_alt_AC<=2	unmasked	53189
-False	snp	star	minor_alt_AC>2	unmasked	51459
-False	indel/mixed	star	minor_alt_AC>2	unmasked	26041
-False	snp	nostar	minor_alt_AC<=2	unmasked	3747
-False	snp	nostar	minor_alt_AC>2	unmasked	2194
-False	indel/mixed	nostar	minor_alt_AC<=2	unmasked	333
-False	indel/mixed	nostar	minor_alt_AC>2	unmasked	169
+# all=5123873 pass=4747446 masked=168450 multiallelic=1606005
+any_diploid_het_without_ref	False	1135248
+any_haploid_carries_allele>=2	True	1072721
+any_haploid_carries_allele>=2	False	533284
+any_diploid_het_without_ref	True	470757
+True	snp	star	minor_alt_AC>2	unmasked	292813
+True	snp	star	minor_alt_AC<=2	unmasked	249628
+True	snp	nostar	minor_alt_AC<=2	unmasked	203609
+True	snp	nostar	minor_alt_AC>2	unmasked	201071
+True	indel/mixed	star	minor_alt_AC<=2	unmasked	131912
+True	indel/mixed	star	minor_alt_AC>2	unmasked	116337
+True	indel/mixed	nostar	minor_alt_AC<=2	unmasked	89736
+False	snp	star	minor_alt_AC<=2	unmasked	65784
+True	indel/mixed	nostar	minor_alt_AC>2	unmasked	62839
+False	snp	star	minor_alt_AC>2	unmasked	53521
+False	indel/mixed	star	minor_alt_AC<=2	unmasked	46300
+False	indel/mixed	star	minor_alt_AC>2	unmasked	27009
+True	snp	star	minor_alt_AC>2	masked	12734
+True	snp	star	minor_alt_AC<=2	masked	7847
+True	indel/mixed	star	minor_alt_AC>2	masked	6998
+False	snp	star	minor_alt_AC<=2	masked	4912
+True	indel/mixed	star	minor_alt_AC<=2	masked	4789
+True	snp	nostar	minor_alt_AC>2	masked	4657
+True	snp	nostar	minor_alt_AC<=2	masked	3962
+False	snp	star	minor_alt_AC>2	masked	3357
+False	snp	nostar	minor_alt_AC<=2	unmasked	3036
+True	indel/mixed	nostar	minor_alt_AC<=2	masked	2797
+False	indel/mixed	star	minor_alt_AC<=2	masked	2710
+True	indel/mixed	nostar	minor_alt_AC>2	masked	2179
+False	snp	nostar	minor_alt_AC>2	unmasked	2136
+False	indel/mixed	star	minor_alt_AC>2	masked	1836
+False	snp	nostar	minor_alt_AC<=2	masked	594
+False	snp	nostar	minor_alt_AC>2	masked	408
+False	indel/mixed	nostar	minor_alt_AC<=2	unmasked	254
+False	indel/mixed	nostar	minor_alt_AC>2	unmasked	187
+False	indel/mixed	nostar	minor_alt_AC<=2	masked	35
+False	indel/mixed	nostar	minor_alt_AC>2	masked	18

@@ -1,320 +1,317 @@
-strain	sample	species	called_ploidy	decision	reasons	het	covered_sites	balanced_per_kcov	mixed_per_kcov	peak	f45	f30	nquire	meta	custom	custom_het
-CCFEE_5036	CCFEE_5036_CCFEE_5036	R. mucilaginosa	1	keep	-	0.0	1023697	0.04	0.06	0.45	0.263	0.193	non_diploid	haploid	haploid	0.009249
-CHIFNET_12H1194	CHIFNET_12H1194_CHIFNET_12H1194	R. mucilaginosa	1	keep	-	0.0	427708	0.36	0.82	0.10	0.189	0.077	non_diploid	haploid	diploid	0.012554
-CHIFNET_14NJ214	CHIFNET_14NJ214_CHIFNET_14NJ214	R. frigidialcoholis	2	drop	other_species	0.25	1048861	206.52	221.65	0.45	0.301	0.267	diploid	diploid	diploid	0.623674
-DBVPG_10619	DBVPG_10619_DBVPG_10619	R. mucilaginosa	1	keep	-	0.0	1024767	0.04	0.05	0.45	0.449	0.061	non_diploid	haploid	haploid	0.008023
-DBVPG_10656	DBVPG_10656_DBVPG_10656	R. mucilaginosa	1	keep	-	0.0	1047399	0.05	0.06	0.45	0.54	0.048	non_diploid	haploid	haploid	0.009349
-DBVPG_10780	DBVPG_10780_DBVPG_10780	R. mucilaginosa	1	keep	-	0.0	993658	0.03	0.04	0.45	0.318	0.091	non_diploid	haploid	haploid	0.008387
-DBVPG_10842	DBVPG_10842_DBVPG_10842	R. mucilaginosa	1	keep	-	0.0	1023584	0.01	0.02	0.30	0.158	0.421	non_diploid	haploid	haploid	0.007205
-DBVPG_10882	DBVPG_10882_DBVPG_10882	R. mucilaginosa	1	keep	-	0.0	1040153	0.05	0.07	0.45	0.271	0.271	non_diploid	haploid	haploid	0.007813
-DBVPG_10886	DBVPG_10886_DBVPG_10886	R. mucilaginosa	1	keep	-	0.0	856906	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.156371
-DBVPG_10937	DBVPG_10937_DBVPG_10937	R. mucilaginosa	1	keep	-	0.0	1019818	0.07	0.08	0.45	0.416	0.078	non_diploid	haploid	haploid	0.005711
-DBVPG_3044	DBVPG_3044_DBVPG_3044	R. mucilaginosa	1	keep	-	0.0	1063986	0.15	0.17	0.45	0.387	0.199	non_diploid	haploid	haploid	0.008029
-DBVPG_3045	DBVPG_3045_DBVPG_3045	R. mucilaginosa	2	keep	-	0.239	1077335	205.26	221.34	0.45	0.398	0.199	diploid	haploid_from_hybrid	diploid	0.666603
-DBVPG_3090	DBVPG_3090_DBVPG_3090	R. mucilaginosa	1	keep	-	0.0	1066317	0.11	0.14	0.45	0.347	0.167	non_diploid	haploid	haploid	0.009761
-DBVPG_3235	DBVPG_3235_DBVPG_3235	R. mucilaginosa	1	keep	-	0.0	1053783	0.09	0.13	0.45	0.288	0.137	non_diploid	haploid	haploid	0.009332
-DBVPG_3236	DBVPG_3236_DBVPG_3236	R. mucilaginosa	1	keep	-	0.0	1061540	0.13	0.16	0.45	0.383	0.217	non_diploid	haploid	haploid	0.008097
-DBVPG_3237	DBVPG_3237_DBVPG_3237	R. mucilaginosa	1	keep	-	0.0	1030146	0.05	0.07	0.45	0.361	0.111	non_diploid	haploid	haploid	0.008484
-DBVPG_3238	DBVPG_3238_DBVPG_3238	R. mucilaginosa	1	keep	-	0.0	897362	0.04	0.05	0.45	0.408	0.122	non_diploid	haploid	haploid	0.009375
-DBVPG_3239	DBVPG_3239_DBVPG_3239	R. mucilaginosa	2	keep	no_het_diploid	0.001	1080787	0.14	0.2	0.30	0.16	0.315	non_diploid	too low	diploid	0.013246
-DBVPG_3381	DBVPG_3381_DBVPG_3381	R. mucilaginosa	1	keep	-	0.0	1059861	0.03	0.04	0.45	0.217	0.174	non_diploid	haploid	haploid	0.008790
-DBVPG_3382	DBVPG_3382_DBVPG_3382	R. mucilaginosa	1	keep	-	0.0	1058539	0.04	0.05	0.45	0.474	0.14	non_diploid	haploid	haploid	0.009038
-DBVPG_3383	DBVPG_3383_DBVPG_3383	R. mucilaginosa	1	keep	-	0.0	1041242	0.05	0.06	0.45	0.349	0.111	non_diploid	haploid	haploid	0.008630
-DBVPG_3384	DBVPG_3384_DBVPG_3384	R. mucilaginosa	1	keep	-	0.0	1025793	0.04	0.06	0.45	0.362	0.172	non_diploid	haploid	haploid	0.008722
-DBVPG_3442	DBVPG_3442_DBVPG_3442	R. mucilaginosa	1	keep	-	0.0	1051312	0.03	0.05	0.45	0.333	0.118	non_diploid	haploid	haploid	0.009496
-DBVPG_3443	DBVPG_3443_DBVPG_3443	R. mucilaginosa	1	keep	-	0.0	1046618	0.04	0.06	0.45	0.344	0.131	non_diploid	haploid	haploid	0.009601
-DBVPG_3444	DBVPG_3444_DBVPG_3444	R. mucilaginosa	2	keep	-	0.251	1076731	204.04	220.6	0.45	0.352	0.234	diploid	diploid	diploid	0.671305
-DBVPG_3445	DBVPG_3445_DBVPG_3445	R. mucilaginosa	2	drop	ploidy_skewed	0.205	1080934	47.97	174.18	0.10	0.014	0.117	non_diploid	too low	diploid	0.049520
-DBVPG_3446	DBVPG_3446_DBVPG_3446	R. mucilaginosa	2	keep	-	0.231	1055945	170.28	184.95	0.45	0.332	0.252	diploid	too low	diploid	0.618221
-DBVPG_3538	DBVPG_3538_DBVPG_3538	R. mucilaginosa	2	keep	-	0.264	1077392	221.07	234.75	0.40	0.23	0.367	diploid	too low	diploid	0.679425
-DBVPG_3774	DBVPG_3774_DBVPG_3774	R. mucilaginosa	1	keep	-	0.0	1051000	0.05	0.06	0.45	0.484	0.094	non_diploid	haploid	haploid	0.008658
-DBVPG_3775	DBVPG_3775_DBVPG_3775	R. mucilaginosa	1	keep	-	0.0	1066668	0.02	0.03	0.45	0.429	0.114	non_diploid	haploid	haploid	0.008204
-DBVPG_3776	DBVPG_3776_DBVPG_3776	R. mucilaginosa	1	keep	-	0.0	1057140	0.04	0.05	0.45	0.375	0.161	non_diploid	haploid	diploid	0.010468
-DBVPG_3777	DBVPG_3777_DBVPG_3777	R. mucilaginosa	1	keep	-	0.0	1059366	0.05	0.07	0.45	0.449	0.051	non_diploid	haploid	haploid	0.009740
-DBVPG_3778	DBVPG_3778_DBVPG_3778	R. mucilaginosa	1	keep	-	0.0	817396	0.11	0.14	0.45	0.423	0.117	non_diploid	haploid	diploid	0.010691
-DBVPG_3780	DBVPG_3780_DBVPG_3780	R. mucilaginosa	1	keep	-	0.0	1056573	0.05	0.07	0.45	0.406	0.087	non_diploid	haploid	haploid	0.009016
-DBVPG_3854	DBVPG_3854_DBVPG_3854	R. mucilaginosa	2	keep	-	0.236	1079986	197.3	211.85	0.45	0.385	0.216	diploid	diploid	diploid	0.683533
-DBVPG_3855	DBVPG_3855_DBVPG_3855	R. mucilaginosa	2	keep	-	0.231	1080711	171.19	198.58	0.45	0.38	0.224	diploid	haploid_from_hybrid	diploid	0.553308
-DBVPG_3856	DBVPG_3856_DBVPG_3856	R. mucilaginosa	2	keep	-	0.248	1079269	198.1	212.58	0.45	0.354	0.242	diploid	diploid	diploid	0.696080
-DBVPG_3857	DBVPG_3857_DBVPG_3857	R. mucilaginosa	2	keep	-	0.248	1079562	198.35	212.63	0.45	0.366	0.233	diploid	diploid	diploid	0.700764
-DBVPG_3858	DBVPG_3858_DBVPG_3858	R. mucilaginosa	1	keep	-	0.0	1069370	0.03	0.05	0.45	0.4	0.06	non_diploid	haploid	haploid	0.008199
-DBVPG_3983	DBVPG_3983_DBVPG_3983	R. mucilaginosa	1	keep	-	0.0	1064054	0.11	0.14	0.45	0.242	0.203	non_diploid	haploid	diploid	0.010529
-DBVPG_3984	DBVPG_3984_DBVPG_3984	R. mucilaginosa	1	keep	-	0.0	1059484	0.1	0.15	0.45	0.3	0.138	non_diploid	haploid	diploid	0.010657
-DBVPG_4201	DBVPG_4201_DBVPG_4201	R. mucilaginosa	1	keep	-	0.0	580252	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.209854
-DBVPG_4202	DBVPG_4202_DBVPG_4202	R. mucilaginosa	1	keep	-	0.0	623108	0.0	0.0	0.45	1.0	0.0	non_diploid	haploid	diploid	0.258002
-DBVPG_4203	DBVPG_4203_DBVPG_4203	R. mucilaginosa	1	keep	-	0.0	729684	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.231695
-DBVPG_4304	DBVPG_4304_DBVPG_4304	R. mucilaginosa	1	keep	-	0.0	918976	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.172061
-DBVPG_4376	DBVPG_4376_DBVPG_4376	R. mucilaginosa	1	keep	-	0.0	1064845	0.06	0.07	0.45	0.429	0.117	non_diploid	haploid	haploid	0.009710
-DBVPG_4377	DBVPG_4377_DBVPG_4377	R. mucilaginosa	1	keep	-	0.0	911308	0.22	0.25	0.45	0.304	0.243	non_diploid	haploid	diploid	0.014546
-DBVPG_4378	DBVPG_4378_DBVPG_4378	R. mucilaginosa	1	keep	-	0.0	1068864	0.02	0.02	0.45	0.423	0.077	non_diploid	haploid	haploid	0.007343
-DBVPG_4379	DBVPG_4379_DBVPG_4379	R. mucilaginosa	2	keep	-	0.256	1080514	158.23	228.0	0.25	0.067	0.319	non_diploid	too low	diploid	0.256719
-DBVPG_4380	DBVPG_4380_DBVPG_4380	R. aff. mucilaginosa	2	drop	other_species	0.152	926208	117.86	141.07	0.45	0.24	0.259	diploid	diploid	diploid	0.224958
-DBVPG_4408	DBVPG_4408_DBVPG_4408	R. mucilaginosa	1	keep	-	0.0	890316	0.09	0.1	0.45	0.517	0.103	non_diploid	haploid	haploid	0.008073
-DBVPG_4466	DBVPG_4466_DBVPG_4466	R. mucilaginosa	1	keep	-	0.0	597553	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.216438
-DBVPG_4534	DBVPG_4534_DBVPG_4534	R. aff. mucilaginosa	1	drop	other_species	0.0	1006476	0.47	0.65	0.45	0.261	0.203	non_diploid	haploid	haploid	0.005502
-DBVPG_4618	DBVPG_4618_DBVPG_4618	R. mucilaginosa	1	keep	-	0.0	1059607	0.09	0.1	0.45	0.343	0.204	non_diploid	haploid	haploid	0.008962
-DBVPG_4669	DBVPG_4669_DBVPG_4669	R. mucilaginosa	1	keep	-	0.0	1011436	0.02	0.04	0.45	0.417	0.056	non_diploid	haploid	haploid	0.007950
-DBVPG_4920	DBVPG_4920_DBVPG_4920	R. mucilaginosa	1	keep	-	0.0	617072	0.11	0.14	0.40	0.341	0.082	non_diploid	haploid	haploid	0.009234
-DBVPG_4945	DBVPG_4945_DBVPG_4945	R. mucilaginosa	1	keep	-	0.0	233436	0.12	0.14	0.45	0.625	0.0	non_diploid	haploid	haploid	0.007781
-DBVPG_4946	DBVPG_4946_DBVPG_4946	R. mucilaginosa	1	keep	-	0.0	899380	0.04	0.06	0.45	0.462	0.115	non_diploid	haploid	haploid	0.009191
-DBVPG_4947	DBVPG_4947_DBVPG_4947	R. mucilaginosa	1	keep	-	0.0	500223	0.04	0.08	0.45	0.275	0.1	non_diploid	haploid	haploid	0.008630
-DBVPG_4949	DBVPG_4949_DBVPG_4949	R. mucilaginosa	1	keep	-	0.0	1015495	0.04	0.05	0.45	0.519	0.074	non_diploid	haploid	haploid	0.008478
-DBVPG_4950	DBVPG_4950_DBVPG_4950	R. mucilaginosa	1	keep	-	0.0	998815	0.03	0.04	0.45	0.417	0.111	non_diploid	haploid	haploid	0.009150
-DBVPG_4952	DBVPG_4952_DBVPG_4952	R. mucilaginosa	2	keep	-	0.334	1079476	225.75	294.99	0.25	0.122	0.298	non_diploid	too low	diploid	0.405953
-DBVPG_4956	DBVPG_4956_DBVPG_4956	R. mucilaginosa	1	keep	-	0.0	938880	0.05	0.06	0.45	0.418	0.145	non_diploid	haploid	haploid	0.007211
-DBVPG_4957	DBVPG_4957_DBVPG_4957	R. mucilaginosa	1	keep	-	0.0	966679	0.04	0.05	0.45	0.42	0.08	non_diploid	haploid	haploid	0.008301
-DBVPG_4958	DBVPG_4958_DBVPG_4958	R. mucilaginosa	1	keep	-	0.0	1044263	0.04	0.06	0.45	0.483	0.069	non_diploid	haploid	haploid	0.005641
-DBVPG_4962	DBVPG_4962_DBVPG_4962	R. mucilaginosa	1	keep	-	0.0	1054808	0.09	0.1	0.45	0.621	0.107	non_diploid	haploid	haploid	0.007681
-DBVPG_4963	DBVPG_4963_DBVPG_4963	R. mucilaginosa	1	keep	-	0.0	1049004	0.03	0.05	0.45	0.264	0.038	non_diploid	haploid	haploid	0.008327
-DBVPG_4964	DBVPG_4964_DBVPG_4964	R. mucilaginosa	1	keep	-	0.0	976952	0.02	0.03	0.45	0.31	0.103	non_diploid	haploid	haploid	0.008072
-DBVPG_5225	DBVPG_5225_DBVPG_5225	R. mucilaginosa	1	keep	-	0.0	1035537	0.06	0.07	0.45	0.391	0.159	non_diploid	haploid	haploid	0.006953
-DBVPG_5226	DBVPG_5226_DBVPG_5226	R. mucilaginosa	1	keep	-	0.0	1033385	0.07	0.09	0.45	0.413	0.13	non_diploid	haploid	haploid	0.008000
-DBVPG_5227	DBVPG_5227_DBVPG_5227	R. mucilaginosa	1	keep	-	0.0	1036418	0.06	0.07	0.45	0.329	0.211	non_diploid	haploid	haploid	0.007709
-DBVPG_5228	DBVPG_5228_DBVPG_5228	R. mucilaginosa	1	keep	-	0.0	1028757	0.06	0.07	0.45	0.253	0.333	non_diploid	haploid	haploid	0.006920
-DBVPG_5229	DBVPG_5229_DBVPG_5229	R. mucilaginosa	1	keep	-	0.0	1041923	0.06	0.07	0.45	0.296	0.254	non_diploid	haploid	haploid	0.007781
-DBVPG_5235	DBVPG_5235_DBVPG_5235	R. mucilaginosa	1	keep	-	0.0	1032031	0.06	0.07	0.45	0.342	0.164	non_diploid	haploid	haploid	0.007904
-DBVPG_5236	DBVPG_5236_DBVPG_5236	R. mucilaginosa	1	keep	-	0.0	761001	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.169460
-DBVPG_5757	DBVPG_5757_DBVPG_5757	R. mucilaginosa	1	keep	-	0.0	1062670	0.07	0.08	0.45	0.488	0.179	non_diploid	haploid	haploid	0.007002
-DBVPG_5758	DBVPG_5758_DBVPG_5758	R. mucilaginosa	1	keep	-	0.0	1062756	0.08	0.09	0.45	0.698	0.073	non_diploid	haploid	haploid	0.006879
-DBVPG_5759	DBVPG_5759_DBVPG_5759	R. mucilaginosa	1	keep	-	0.0	1060832	0.07	0.08	0.45	0.535	0.105	non_diploid	haploid	haploid	0.006626
-DBVPG_6091	DBVPG_6091_DBVPG_6091	R. mucilaginosa	1	keep	-	0.0	1036666	0.04	0.05	0.45	0.51	0.118	non_diploid	haploid	haploid	0.008034
-DBVPG_6092	DBVPG_6092_DBVPG_6092	R. mucilaginosa	1	keep	-	0.0	1045518	0.06	0.07	0.45	0.397	0.115	non_diploid	haploid	haploid	0.007135
-DBVPG_6093	DBVPG_6093_DBVPG_6093	R. mucilaginosa	1	keep	-	0.0	1001209	0.03	0.04	0.45	0.513	0.026	non_diploid	haploid	haploid	0.009588
-DBVPG_6094	DBVPG_6094_DBVPG_6094	R. mucilaginosa	2	keep	no_het_diploid	0.001	1080315	0.17	0.23	0.45	0.216	0.252	non_diploid	too low	diploid	0.015504
-DBVPG_6593	DBVPG_6593_DBVPG_6593	R. mucilaginosa	1	keep	-	0.0	1051336	0.09	0.1	0.45	0.667	0.029	non_diploid	haploid	diploid	0.010024
-DBVPG_6649	DBVPG_6649_DBVPG_6649	R. mucilaginosa	2	keep	-	0.346	1082041	217.45	302.32	0.25	0.143	0.258	non_diploid	too low	diploid	0.394398
-DBVPG_6660	DBVPG_6660_DBVPG_6660	R. frigidialcoholis	1	drop	other_species	0.0	1029061	0.53	0.76	0.45	0.191	0.227	non_diploid	haploid	haploid	0.007457
-DBVPG_6741	DBVPG_6741_DBVPG_6741	R. mucilaginosa	1	keep	-	0.0	801355	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.171806
-DBVPG_6742	DBVPG_6742_DBVPG_6742	R. mucilaginosa	1	keep	-	0.0	845873	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.162892
-DBVPG_6743	DBVPG_6743_DBVPG_6743	R. mucilaginosa	1	keep	-	0.0	1045406	0.09	0.1	0.45	0.54	0.09	non_diploid	haploid	haploid	0.009203
-DBVPG_6803	DBVPG_6803_DBVPG_6803	R. mucilaginosa	1	keep	-	0.0	874991	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.178744
-DBVPG_7019	DBVPG_7019_DBVPG_7019	R. mucilaginosa	1	keep	-	0.0	846770	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.159628
-DBVPG_8043	DBVPG_8043_DBVPG_8043	R. aff. mucilaginosa	1	drop	other_species	0.0	1003819	0.47	0.63	0.45	0.259	0.219	non_diploid	haploid	haploid	0.005118
-EXF_10533	EXF_10533_EXF_10533	NA	1	drop	no_metadata,low_coverage	0.0	111554	0.82	1.63	0.15	0.11	0.187	non_diploid		haploid	0.006504
-EXF_10630	EXF_10630_EXF_10630	NA	2	drop	no_metadata,low_coverage	0.001	131706	0.68	1.31	0.10	0.098	0.156	non_diploid		diploid	0.018529
-EXF_10854	EXF_10854_EXF_10854	NA	1	drop	no_metadata	0.0	982394	0.28	0.47	0.10	0.168	0.197	non_diploid		haploid	0.006188
-EXF_12265	EXF_12265_EXF_12265	NA	2	drop	no_metadata,low_coverage	0.001	128704	0.42	1.13	0.10	0.103	0.062	non_diploid		diploid	0.015695
-EXF_12281	EXF_12281_EXF_12281	R. mucilaginosa	1	keep	-	0.0	1067179	0.09	0.1	0.45	0.406	0.066	non_diploid	haploid	haploid	0.006781
-EXF_12768	EXF_12768_EXF_12768	R. mucilaginosa	1	drop	ploidy_mixed	0.0	972559	1.68	1.69	0.45	0.84	0.023	non_diploid	haploid	diploid	0.255379
-EXF_13250	EXF_13250_EXF_13250	R. frigidialcoholis	1	drop	other_species	0.0	1020097	0.43	0.64	0.45	0.243	0.188	non_diploid	haploid	haploid	0.007064
-EXF_13255	EXF_13255_EXF_13255	R. frigidialcoholis	1	drop	other_species	0.0	1022664	0.48	0.69	0.45	0.244	0.217	non_diploid	haploid	haploid	0.007444
-EXF_13260	EXF_13260_EXF_13260	R. mucilaginosa	1	keep	-	0.0	811935	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.180542
-EXF_13261	EXF_13261_EXF_13261	R. mucilaginosa	1	keep	-	0.0	822429	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.172655
-EXF_13500	EXF_13500_EXF_13500	NA	1	drop	no_metadata,low_coverage	0.0	464026	0.31	0.71	0.10	0.055	0.182	non_diploid		haploid	0.007289
-EXF_13599	EXF_13599_EXF_13599	R. mucilaginosa	1	keep	-	0.0	1064366	0.12	0.13	0.45	0.577	0.134	non_diploid	haploid	haploid	0.007524
-EXF_13600	EXF_13600_EXF_13600	R. mucilaginosa	1	keep	-	0.0	686447	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.230519
-EXF_13601	EXF_13601_EXF_13601	R. frigidialcoholis	1	drop	other_species	0.0	1025105	0.53	0.74	0.45	0.263	0.18	non_diploid	haploid	haploid	0.007471
-EXF_13602	EXF_13602_EXF_13602	R. mucilaginosa	1	keep	-	0.0	889779	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.105119
-EXF_13604	EXF_13604_EXF_13604	R. mucilaginosa	1	keep	-	0.0	1054624	0.06	0.07	0.45	0.253	0.227	non_diploid	haploid	haploid	0.007748
-EXF_14606	EXF_14606_EXF_14606	NA	2	drop	no_metadata,low_coverage	0.008	121210	26.75	30.31	0.45	0.247	0.278	diploid		diploid	0.097450
-EXF_1510	EXF_1510_EXF_1510	R. mucilaginosa	1	keep	-	0.0	1002635	0.05	0.06	0.45	0.226	0.177	non_diploid	haploid	haploid	0.008077
-EXF_1565	EXF_1565_EXF_1565	R. mucilaginosa	1	keep	-	0.0	878318	0.0	0.03	0.10	0.0	0.0	non_diploid	haploid	diploid	0.154174
-EXF_1585	EXF_1585_EXF_1585	R. mucilaginosa	1	keep	-	0.0	761242	0.0	0.0	0.20	0.0	0.0	non_diploid	haploid	diploid	0.236559
-EXF_1676	EXF_1676_EXF_1676	R. mucilaginosa	1	keep	-	0.0	890009	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.136406
-EXF_1686	EXF_1686_EXF_1686	R. mucilaginosa	1	keep	-	0.0	822435	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.189753
-EXF_1695	EXF_1695_EXF_1695	R. mucilaginosa	1	keep	-	0.0	1066119	0.85	22.51	0.10	0.005	0.01	non_diploid	haploid	diploid	0.040097
-EXF_1704	EXF_1704_EXF_1704	R. mucilaginosa	1	keep	-	0.0	1061168	0.09	0.11	0.45	0.344	0.23	non_diploid	haploid	haploid	0.007616
-EXF_17335	EXF_17335_EXF_17335	NA	1	drop	no_metadata	0.0	1008621	0.62	0.85	0.45	0.265	0.197	non_diploid		haploid	0.009365
-EXF_2251	EXF_2251_EXF_2251	R. mucilaginosa	1	keep	-	0.0	772051	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.172414
-EXF_3417	EXF_3417_EXF_3417	R. mucilaginosa	1	keep	-	0.0	877921	0.0	0.0	0.35	0.0	0.667	non_diploid	haploid	diploid	0.159633
-EXF_3530	EXF_3530_EXF_3530	R. mucilaginosa	1	keep	-	0.0	830508	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.153776
-EXF_3538	EXF_3538_EXF_3538	R. mucilaginosa	1	keep	-	0.0	1060682	0.08	0.1	0.45	0.306	0.231	non_diploid	haploid	haploid	0.007580
-EXF_3540	EXF_3540_EXF_3540	R. mucilaginosa	1	keep	-	0.0	903641	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.154052
-EXF_3544	EXF_3544_EXF_3544	R. mucilaginosa	1	keep	-	0.0	840556	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.173749
-EXF_3569	EXF_3569_EXF_3569	R. mucilaginosa	1	keep	-	0.0	794527	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.187621
-EXF_3592	EXF_3592_EXF_3592	R. mucilaginosa	1	keep	-	0.0	858607	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.156489
-EXF_3595	EXF_3595_EXF_3595	R. mucilaginosa	1	keep	-	0.0	1043579	0.05	0.06	0.45	0.633	0.083	non_diploid	haploid	haploid	0.008579
-EXF_3604	EXF_3604_EXF_3604	R. mucilaginosa	1	keep	-	0.0	1058030	0.1	0.12	0.45	0.384	0.2	non_diploid	haploid	haploid	0.007914
-EXF_3609	EXF_3609_EXF_3609	R. mucilaginosa	1	keep	-	0.0	861598	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.167308
-EXF_3612	EXF_3612_EXF_3612	R. mucilaginosa	1	keep	-	0.0	808968	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.196343
-EXF_3622	EXF_3622_EXF_3622	R. mucilaginosa	1	keep	-	0.0	883794	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.133654
-EXF_3626	EXF_3626_EXF_3626	R. mucilaginosa	1	keep	-	0.0	1064836	0.08	0.11	0.45	0.374	0.174	non_diploid	haploid	haploid	0.008411
-EXF_3629	EXF_3629_EXF_3629	R. frigidialcoholis	1	drop	other_species	0.0	1029050	0.49	0.74	0.45	0.211	0.178	non_diploid	haploid	haploid	0.007953
-EXF_3633	EXF_3633_EXF_3633	R. frigidialcoholis	1	drop	other_species	0.0	1026626	0.52	0.74	0.45	0.211	0.228	non_diploid	haploid	haploid	0.007620
-EXF_3790	EXF_3790_EXF_3790	R. mucilaginosa	1	keep	-	0.0	1040754	0.08	0.09	0.45	0.558	0.179	non_diploid	haploid	haploid	0.007917
-EXF_3860	EXF_3860_EXF_3860	R. mucilaginosa	1	keep	-	0.0	1030624	0.1	0.11	0.45	0.649	0.072	non_diploid	haploid	haploid	0.007930
-EXF_3861	EXF_3861_EXF_3861	R. mucilaginosa	1	keep	-	0.0	1030322	0.08	0.1	0.45	0.48	0.08	non_diploid	haploid	haploid	0.007969
-EXF_3862	EXF_3862_EXF_3862	R. mucilaginosa	1	keep	-	0.0	1037670	0.1	0.11	0.45	0.593	0.034	non_diploid	haploid	haploid	0.007805
-EXF_4885	EXF_4885_EXF_4885	R. mucilaginosa	1	keep	-	0.0	1036653	0.05	0.07	0.40	0.229	0.157	non_diploid	haploid	haploid	0.007976
-EXF_5546	EXF_5546_EXF_5546	R. mucilaginosa	1	keep	-	0.0	848297	0.0	0.0	0.15	0.0	0.0	non_diploid	haploid	diploid	0.176125
-EXF_5666	EXF_5666_EXF_5666	R. aff. mucilaginosa	1	drop	other_species	0.0	996604	0.42	0.57	0.45	0.293	0.179	non_diploid	haploid	haploid	0.006990
-EXF_5668	EXF_5668_EXF_5668	NA	2	drop	no_metadata,ploidy_skewed	0.235	999710	71.91	211.13	0.20	0.012	0.117	non_diploid		diploid	0.047769
-EXF_5775	EXF_5775_EXF_5775	R. mucilaginosa	1	keep	-	0.0	1062388	0.08	0.1	0.45	0.608	0.088	non_diploid	haploid	haploid	0.007236
-EXF_5938	EXF_5938_EXF_5938	R. mucilaginosa	1	keep	-	0.0	868148	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.153264
-EXF_5939	EXF_5939_EXF_5939	R. mucilaginosa	1	keep	-	0.0	771227	0.0	0.0	0.45	1.0	0.0	non_diploid	haploid	diploid	0.168549
-EXF_5940	EXF_5940_EXF_5940	R. mucilaginosa	1	keep	-	0.0	1062702	0.08	0.1	0.45	0.426	0.168	non_diploid	haploid	haploid	0.006545
-EXF_5941	EXF_5941_EXF_5941	R. mucilaginosa	1	keep	-	0.0	895276	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.119866
-EXF_6243	EXF_6243_EXF_6243	R. mucilaginosa	1	keep	-	0.0	1057576	0.07	0.09	0.45	0.533	0.109	non_diploid	haploid	haploid	0.007281
-EXF_6252	EXF_6252_EXF_6252	R. mucilaginosa	1	keep	-	0.0	1058845	0.11	0.12	0.45	0.575	0.079	non_diploid	haploid	haploid	0.006808
-EXF_6325	EXF_6325_EXF_6325	R. mucilaginosa	1	keep	-	0.0	706947	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.192744
-EXF_6360	EXF_6360_EXF_6360	R. mucilaginosa	1	keep	-	0.0	1054510	0.08	0.1	0.45	0.339	0.138	non_diploid	haploid	haploid	0.008811
-EXF_6370	EXF_6370_EXF_6370	R. mucilaginosa	1	keep	-	0.0	1063107	0.09	0.11	0.45	0.571	0.107	non_diploid	haploid	haploid	0.007015
-EXF_6373	EXF_6373_EXF_6373	R. mucilaginosa	1	keep	-	0.0	1058381	0.11	0.13	0.45	0.519	0.15	non_diploid	haploid	haploid	0.007133
-EXF_7386	EXF_7386_EXF_7386	R. frigidialcoholis	1	drop	other_species	0.0	1025337	0.49	0.67	0.45	0.289	0.185	non_diploid	haploid	haploid	0.007862
-EXF_7920	EXF_7920_EXF_7920	R. mucilaginosa	1	keep	-	0.0	829062	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.227357
-EXF_7931	EXF_7931_EXF_7931	R. mucilaginosa	1	keep	-	0.0	796854	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.166069
-EXF_7934	EXF_7934_EXF_7934	R. mucilaginosa	1	drop	ploidy_mixed	0.0	787281	0.06	0.07	0.35	0.151	0.491	non_diploid	haploid	diploid	0.270465
-EXF_7944	EXF_7944_EXF_7944	R. mucilaginosa	1	keep	-	0.0	797057	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.239193
-EXF_7949	EXF_7949_EXF_7949	R. mucilaginosa	1	keep	-	0.0	1064907	0.06	0.06	0.45	0.373	0.239	non_diploid	haploid	haploid	0.006617
-EXF_8006	EXF_8006_EXF_8006	R. mucilaginosa	1	keep	-	0.0	713362	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.185577
-EXF_8014	EXF_8014_EXF_8014	R. mucilaginosa	1	keep	-	0.0	832970	0.0	0.0	0.40	0.0	0.0	non_diploid	haploid	diploid	0.200651
-EXF_8109	EXF_8109_EXF_8109	R. mucilaginosa	1	keep	-	0.0	1052657	0.09	0.12	0.45	0.469	0.038	non_diploid	haploid	haploid	0.008134
-EXF_8151	EXF_8151_EXF_8151	R. mucilaginosa	1	keep	-	0.0	870401	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.216061
-EXF_8155	EXF_8155_EXF_8155	R. mucilaginosa	1	keep	-	0.0	819211	0.0	0.02	0.10	0.0	0.0	non_diploid	haploid	diploid	0.213442
-EXF_8254	EXF_8254_EXF_8254	R. mucilaginosa	1	keep	-	0.0	856777	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.170443
-EXF_8395	EXF_8395_EXF_8395	R. mucilaginosa	1	keep	-	0.0	1031305	0.13	0.15	0.40	0.288	0.218	non_diploid	haploid	haploid	0.008690
-EXF_8400	EXF_8400_EXF_8400	R. mucilaginosa	1	keep	-	0.0	983835	0.01	0.01	0.40	0.3	0.0	non_diploid	haploid	haploid	0.006014
-EXF_8463	EXF_8463_EXF_8463	R. mucilaginosa	1	keep	-	0.0	991453	0.01	0.01	0.40	0.4	0.0	non_diploid	haploid	haploid	0.003117
-EXF_8464	EXF_8464_EXF_8464	R. mucilaginosa	1	keep	-	0.0	855194	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.168756
-EXF_8465	EXF_8465_EXF_8465	R. mucilaginosa	1	keep	-	0.0	797637	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.138249
-EXF_8891	EXF_8891_EXF_8891	R. mucilaginosa	1	drop	ploidy_mixed	0.0	878563	0.02	0.06	0.20	0.019	0.038	non_diploid	haploid	diploid	0.119501
-EXF_8898	EXF_8898_EXF_8898	R. mucilaginosa	1	keep	-	0.0	879708	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.137830
-EXF_8921	EXF_8921_EXF_8921	R. mucilaginosa	1	keep	-	0.0	855284	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.212408
-EXF_8942	EXF_8942_EXF_8942	R. mucilaginosa	1	keep	-	0.0	904810	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.157214
-EXF_8984	EXF_8984_EXF_8984	R. mucilaginosa	1	keep	-	0.0	850653	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.160898
-EXF_9051	EXF_9051_EXF_9051	R. mucilaginosa	1	drop	ploidy_mixed	0.0	825684	0.0	0.03	0.20	0.0	0.037	non_diploid	haploid	haploid	0.005995
-EXF_9595	EXF_9595_EXF_9595	R. mucilaginosa	1	keep	-	0.0	1049067	0.07	0.1	0.45	0.525	0.089	non_diploid	haploid	haploid	0.008394
-EXF_9756	EXF_9756_EXF_9756	R. mucilaginosa	1	keep	-	0.0	851774	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.169507
-EXF_9762	EXF_9762_EXF_9762	R. mucilaginosa	1	keep	-	0.0	918823	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.176636
-EXF_9926	EXF_9926_EXF_9926	R. mucilaginosa	1	keep	-	0.0	1037232	0.06	0.07	0.45	0.392	0.243	non_diploid	haploid	haploid	0.006659
-EXF_9950	EXF_9950_EXF_9950	R. mucilaginosa	1	keep	-	0.0	1063585	0.09	0.09	0.45	0.446	0.267	non_diploid	haploid	haploid	0.007386
-IIF8SW-B2	IIF8SW-B2_IIF8SW-B2	R. mucilaginosa	1	keep	-	0.0	692709	0.04	0.06	0.45	0.487	0.051	non_diploid	haploid	diploid	0.010225
-NRRL_Y-2510	NRRL_Y-2510_NRRL_Y-2510	NA	1	drop	no_metadata	0.0	1048925	0.08	0.08	0.45	0.379	0.172	non_diploid		haploid	0.008263
-TFCN_100D-1	TFCN_100D-1_TFCN_100D-1	R. mucilaginosa	1	keep	-	0.0	563006	0.1	0.12	0.45	0.47	0.152	non_diploid	haploid	haploid	0.008782
-TFCN_102C-1	TFCN_102C-1_TFCN_102C-1	R. mucilaginosa	1	keep	-	0.0	321730	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.204104
-TFCN_102C-2	TFCN_102C-2_TFCN_102C-2	R. mucilaginosa	1	keep	-	0.0	933965	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.109446
-TFCN_102D-1	TFCN_102D-1_TFCN_102D-1	R. mucilaginosa	1	keep	-	0.0	1029419	0.03	0.04	0.45	0.525	0.075	non_diploid	haploid	diploid	0.012497
-TFCN_102D-2	TFCN_102D-2_TFCN_102D-2	R. mucilaginosa	1	keep	-	0.0	90045	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.204767
-TFCN_105A-2	TFCN_105A-2_TFCN_105A-2	R. mucilaginosa	1	keep	-	0.0	910813	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.206177
-TFCN_106A-1	TFCN_106A-1_TFCN_106A-1	R. mucilaginosa	1	keep	-	0.0	467418	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.165145
-TFCN_107A-6	TFCN_107A-6_TFCN_107A-6	R. mucilaginosa	1	keep	-	0.0	456493	0.15	0.17	0.45	0.395	0.158	non_diploid	haploid	haploid	0.009667
-TFCN_107C-3	TFCN_107C-3_TFCN_107C-3	R. mucilaginosa	1	keep	-	0.0	988286	0.04	0.05	0.45	0.327	0.212	non_diploid	haploid	diploid	0.010714
-TFCN_110C-1	TFCN_110C-1_TFCN_110C-1	R. mucilaginosa	1	keep	-	0.0	966519	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.083176
-TFCN_118C-2	TFCN_118C-2_TFCN_118C-2	R. mucilaginosa	1	keep	-	0.0	1035732	0.03	0.04	0.45	0.658	0.053	non_diploid	haploid	diploid	0.012630
-TFCN_122C-2	TFCN_122C-2_TFCN_122C-2	R. mucilaginosa	1	keep	-	0.0	852680	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.186174
-TFCN_130D-4	TFCN_130D-4_TFCN_130D-4	R. mucilaginosa	1	keep	-	0.0	835648	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.216239
-TFCN_134A-3	TFCN_134A-3_TFCN_134A-3	R. frigidialcoholis	1	drop	other_species	0.0	1026079	0.49	0.7	0.45	0.188	0.248	non_diploid	haploid	haploid	0.008406
-TFCN_137C-3	TFCN_137C-3_TFCN_137C-3	R. mucilaginosa	1	keep	-	0.0	18381	0.11	0.11	0.45	1.0	0.0	non_diploid	haploid	diploid	0.185154
-TFCN_137D-4	TFCN_137D-4_TFCN_137D-4	R. mucilaginosa	1	drop	low_coverage	0.0	856	1.17	1.17	0.45	1.0	0.0	non_diploid	haploid	diploid	0.244989
-TFCN_138A-1	TFCN_138A-1_TFCN_138A-1	R. mucilaginosa	1	keep	-	0.0	522773	0.0	0.0	0.45	1.0	0.0	non_diploid	haploid	diploid	0.199354
-TFCN_140A-3	TFCN_140A-3_TFCN_140A-3	R. mucilaginosa	1	keep	-	0.0	652879	0.08	0.11	0.45	0.449	0.072	non_diploid	haploid	diploid	0.010026
-TFCN_141C-2	TFCN_141C-2_TFCN_141C-2	R. mucilaginosa	1	keep	-	0.0	171820	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.161037
-TFCN_152A-1	TFCN_152A-1_TFCN_152A-1	R. mucilaginosa	2	keep	-	0.251	1078496	200.19	220.86	0.45	0.38	0.213	diploid	diploid	diploid	0.678955
-TFCN_152A-12	TFCN_152A-12_TFCN_152A-12	R. mucilaginosa	1	keep	-	0.0	907614	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.164435
-TFCN_152A-2	TFCN_152A-2_TFCN_152A-2	R. mucilaginosa	1	keep	-	0.0	1028379	0.04	0.07	0.45	0.426	0.029	non_diploid	haploid	diploid	0.016353
-TFCN_152A-3	TFCN_152A-3_TFCN_152A-3	NA	2	drop	no_metadata,low_coverage	0.0	62142	1.37	1.9	0.40	0.119	0.305	non_diploid		diploid	0.010332
-TFCN_152A-5	TFCN_152A-5_TFCN_152A-5	R. mucilaginosa	1	keep	-	0.0	182318	0.01	0.01	0.45	1.0	0.0	non_diploid	haploid	diploid	0.202190
-TFCN_152C-5	TFCN_152C-5_TFCN_152C-5	R. mucilaginosa	1	keep	-	0.0	217140	0.12	0.15	0.45	0.455	0.152	non_diploid	haploid	diploid	0.011024
-TFCN_17-0-2E334-10	TFCN_17-0-2E334-10_TFCN_17-0-2E334-10	R. mucilaginosa	1	keep	-	0.0	1052287	0.02	0.02	0.40	0.261	0.174	non_diploid	haploid	diploid	0.014404
-TFCN_17-0-2E334-4	TFCN_17-0-2E334-4_TFCN_17-0-2E334-4	R. mucilaginosa	2	keep	-	0.238	1080372	182.83	211.98	0.45	0.308	0.25	diploid	haploid_from_hybrid	diploid	0.731771
-TFCN_17-0-2E337-3	TFCN_17-0-2E337-3_TFCN_17-0-2E337-3	R. mucilaginosa	2	keep	-	0.256	1078325	209.71	226.38	0.45	0.451	0.16	diploid	diploid	diploid	0.669872
-TFCN_17-0-2E390-1	TFCN_17-0-2E390-1_TFCN_17-0-2E390-1	R. mucilaginosa	2	keep	-	0.234	1080294	173.61	207.67	0.45	0.328	0.241	diploid	diploid	diploid	0.531232
-TFCN_17-0-2E390-2	TFCN_17-0-2E390-2_TFCN_17-0-2E390-2	R. mucilaginosa	2	keep	-	0.243	1079755	188.48	215.2	0.45	0.35	0.236	diploid	diploid	diploid	0.714628
-TFCN_17-267M-1	TFCN_17-267M-1_TFCN_17-267M-1	R. mucilaginosa	2	keep	-	0.229	1081243	171.95	204.83	0.45	0.337	0.238	diploid	diploid	diploid	0.539148
-TFCN_17-291Y-1	TFCN_17-291Y-1_TFCN_17-291Y-1	R. mucilaginosa	2	keep	-	0.247	1078936	190.98	216.94	0.45	0.354	0.23	diploid	diploid	diploid	0.685353
-TFCN_17-325D-2	TFCN_17-325D-2_TFCN_17-325D-2	R. mucilaginosa	1	keep	-	0.0	731598	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.221684
-TFCN_17-325D-4	TFCN_17-325D-4_TFCN_17-325D-4	R. mucilaginosa	1	keep	-	0.0	31535	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.234767
-TFCN_17-325P-1	TFCN_17-325P-1_TFCN_17-325P-1	R. mucilaginosa	1	keep	-	0.0	790885	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.198077
-TFCN_17-329Y-4	TFCN_17-329Y-4_TFCN_17-329Y-4	R. mucilaginosa	1	keep	-	0.0	1048515	0.1	0.12	0.45	0.402	0.157	non_diploid	haploid	haploid	0.008440
-TFCN_17-332C-1	TFCN_17-332C-1_TFCN_17-332C-1	R. mucilaginosa	1	keep	-	0.0	591584	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.187124
-TFCN_17-332C-2	TFCN_17-332C-2_TFCN_17-332C-2	R. mucilaginosa	1	keep	-	0.0	902977	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.200174
-TFCN_17-332D-1	TFCN_17-332D-1_TFCN_17-332D-1	R. mucilaginosa	1	keep	-	0.0	947251	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.143961
-TFCN_17-332M-1	TFCN_17-332M-1_TFCN_17-332M-1	R. frigidialcoholis	1	drop	other_species	0.0	1007394	0.48	0.85	0.10	0.142	0.212	non_diploid	haploid	haploid	0.009731
-TFCN_17-332M-2	TFCN_17-332M-2_TFCN_17-332M-2	R. mucilaginosa	1	keep	-	0.0	198469	0.01	0.01	0.45	1.0	0.0	non_diploid	haploid	diploid	0.171119
-TFCN_17-332P-1	TFCN_17-332P-1_TFCN_17-332P-1	R. mucilaginosa	1	keep	-	0.0	1003285	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.125874
-TFCN_17-332P-2	TFCN_17-332P-2_TFCN_17-332P-2	R. mucilaginosa	1	keep	-	0.0	785954	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.167102
-TFCN_17-333D-2	TFCN_17-333D-2_TFCN_17-333D-2	R. mucilaginosa	1	drop	low_coverage	0.0	3651	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.159906
-TFCN_17-333M-1	TFCN_17-333M-1_TFCN_17-333M-1	NA	2	drop	no_metadata	0.253	1076821	208.56	226.05	0.45	0.328	0.257	diploid		diploid	0.674434
-TFCN_17-333P-6	TFCN_17-333P-6_TFCN_17-333P-6	R. mucilaginosa	2	keep	-	0.25	1080459	207.02	223.27	0.45	0.459	0.157	diploid	diploid	diploid	0.746816
-TFCN_17-334C-1	TFCN_17-334C-1_TFCN_17-334C-1	R. mucilaginosa	1	keep	-	0.0	712285	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.217316
-TFCN_17-334D-6	TFCN_17-334D-6_TFCN_17-334D-6	R. mucilaginosa	2	keep	-	0.256	1077906	209.28	226.27	0.45	0.424	0.181	diploid	diploid	diploid	0.655053
-TFCN_17-334P-3	TFCN_17-334P-3_TFCN_17-334P-3	R. mucilaginosa	1	keep	-	0.0	869971	0.04	0.04	0.40	0.256	0.205	non_diploid	haploid	diploid	0.010725
-TFCN_17-334Y-2	TFCN_17-334Y-2_TFCN_17-334Y-2	R. mucilaginosa	1	keep	-	0.0	1010427	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.115736
-TFCN_17-334Y-3	TFCN_17-334Y-3_TFCN_17-334Y-3	R. mucilaginosa	1	keep	-	0.0	1050114	0.02	0.03	0.45	0.625	0.0	non_diploid	haploid	haploid	0.009428
-TFCN_17-334Y-5	TFCN_17-334Y-5_TFCN_17-334Y-5	R. mucilaginosa	2	keep	-	0.247	1078821	191.08	217.01	0.45	0.35	0.233	diploid	diploid	diploid	0.680701
-TFCN_17-337P-5	TFCN_17-337P-5_TFCN_17-337P-5	R. mucilaginosa	2	keep	-	0.244	1080312	197.21	217.38	0.45	0.384	0.212	diploid	diploid	diploid	0.745633
-TFCN_17-338D-3	TFCN_17-338D-3_TFCN_17-338D-3	R. mucilaginosa	1	keep	-	0.0	951336	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.130484
-TFCN_17-390M-1	TFCN_17-390M-1_TFCN_17-390M-1	R. mucilaginosa	2	keep	-	0.247	1079535	196.51	218.86	0.45	0.372	0.222	diploid	diploid	diploid	0.716121
-TFCN_172A-1	TFCN_172A-1_TFCN_172A-1	R. mucilaginosa	1	keep	-	0.0	763674	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.182193
-TFCN_17Y-278-1	TFCN_17Y-278-1_TFCN_17Y-278-1	R. mucilaginosa	2	keep	-	0.248	1078880	194.09	218.24	0.45	0.364	0.225	diploid	haploid_from_hybrid	diploid	0.686953
-TFCN_181A-1	TFCN_181A-1_TFCN_181A-1	R. mucilaginosa	1	keep	-	0.0	963791	0.0	0.0	0.45	1.0	0.0	non_diploid	haploid	diploid	0.171602
-TFCN_186CL-2	TFCN_186CL-2_TFCN_186CL-2	NA	2	drop	no_metadata	0.256	1075040	209.69	227.66	0.45	0.321	0.261	diploid		diploid	0.651192
-TFCN_1A-1-5	TFCN_1A-1-5_TFCN_1A-1-5	NA	2	drop	no_metadata,no_het_diploid	0.0	1081596	0.02	0.04	0.10	0.087	0.196	non_diploid		diploid	0.213046
-TFCN_1A-14	TFCN_1A-14_TFCN_1A-14	R. frigidialcoholis	1	drop	other_species	0.0	1039651	0.46	0.75	0.10	0.154	0.231	non_diploid	haploid	haploid	0.009162
-TFCN_209-6-1	TFCN_209-6-1_TFCN_209-6-1	R. mucilaginosa	1	keep	-	0.0	504945	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.143933
-TFCN_209-6-11	TFCN_209-6-11_TFCN_209-6-11	R. mucilaginosa	1	keep	-	0.0	38817	0.03	0.03	0.40	0.0	0.0	non_diploid	haploid	diploid	0.188511
-TFCN_209-6-12	TFCN_209-6-12_TFCN_209-6-12	R. mucilaginosa	1	keep	-	0.0	514515	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.203336
-TFCN_209-6-14	TFCN_209-6-14_TFCN_209-6-14	R. mucilaginosa	1	keep	-	0.0	897634	0.0	0.0	0.35	0.0	1.0	non_diploid	haploid	diploid	0.196994
-TFCN_209-6-17	TFCN_209-6-17_TFCN_209-6-17	R. mucilaginosa	1	keep	-	0.0	943699	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.156198
-TFCN_209-6-2	TFCN_209-6-2_TFCN_209-6-2	R. mucilaginosa	1	keep	-	0.0	1005580	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.100586
-TFCN_209-6-4	TFCN_209-6-4_TFCN_209-6-4	R. mucilaginosa	1	keep	-	0.0	983324	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.086999
-TFCN_209-6-5	TFCN_209-6-5_TFCN_209-6-5	R. mucilaginosa	1	keep	-	0.0	918233	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.177433
-TFCN_211A-3	TFCN_211A-3_TFCN_211A-3	R. mucilaginosa	1	keep	-	0.0	1042039	0.02	0.03	0.45	0.606	0.061	non_diploid	haploid	haploid	0.009882
-TFCN_211C-2	TFCN_211C-2_TFCN_211C-2	NA	2	drop	no_metadata,low_coverage	0.001	127109	0.56	1.28	0.15	0.037	0.19	non_diploid		diploid	0.015499
-TFCN_212C-2	TFCN_212C-2_TFCN_212C-2	R. mucilaginosa	1	keep	-	0.0	991457	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.105465
-TFCN_213-6-2	TFCN_213-6-2_TFCN_213-6-2	R. mucilaginosa	1	keep	-	0.0	48037	0.04	0.04	0.45	1.0	0.0	non_diploid	haploid	diploid	0.225564
-TFCN_213-6-4	TFCN_213-6-4_TFCN_213-6-4	R. mucilaginosa	1	keep	-	0.0	921465	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.138019
-TFCN_223A-8	TFCN_223A-8_TFCN_223A-8	R. mucilaginosa	1	keep	-	0.0	881357	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.148177
-TFCN_22C-4	TFCN_22C-4_TFCN_22C-4	R. mucilaginosa	2	keep	-	0.245	1079765	191.85	216.82	0.45	0.363	0.228	diploid	diploid	diploid	0.724327
-TFCN_25-0-2E332-1	TFCN_25-0-2E332-1_TFCN_25-0-2E332-1	R. mucilaginosa	1	drop	low_coverage	0.0	9437	0.11	0.11	0.35	0.0	1.0	non_diploid	haploid	diploid	0.120150
-TFCN_25-0-2E333-1	TFCN_25-0-2E333-1_TFCN_25-0-2E333-1	R. mucilaginosa	2	keep	-	0.237	1080456	183.42	209.66	0.45	0.344	0.24	diploid	diploid	diploid	0.761445
-TFCN_25-0-2E333-5	TFCN_25-0-2E333-5_TFCN_25-0-2E333-5	R. mucilaginosa	1	keep	-	0.0	888626	0.04	0.05	0.40	0.354	0.062	non_diploid	haploid	diploid	0.010592
-TFCN_25-0-2E333-7	TFCN_25-0-2E333-7_TFCN_25-0-2E333-7	R. mucilaginosa	1	keep	-	0.0	547046	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.204444
-TFCN_25-0-2E333-9	TFCN_25-0-2E333-9_TFCN_25-0-2E333-9	R. mucilaginosa	1	keep	-	0.0	145534	0.27	0.34	0.40	0.24	0.18	non_diploid	haploid	diploid	0.010208
-TFCN_25-0-2E334-1	TFCN_25-0-2E334-1_TFCN_25-0-2E334-1	R. mucilaginosa	2	keep	-	0.256	1077343	211.08	228.07	0.45	0.399	0.198	diploid	diploid	diploid	0.646131
-TFCN_25-0-2E390-1	TFCN_25-0-2E390-1_TFCN_25-0-2E390-1	R. mucilaginosa	2	keep	-	0.241	1079860	184.36	213.78	0.45	0.336	0.242	diploid	diploid	diploid	0.673515
-TFCN_25-325Y-1	TFCN_25-325Y-1_TFCN_25-325Y-1	R. mucilaginosa	1	keep	-	0.0	950961	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.113716
-TFCN_25-327D-1	TFCN_25-327D-1_TFCN_25-327D-1	R. mucilaginosa	1	keep	-	0.0	1061246	0.03	0.04	0.45	0.524	0.024	non_diploid	haploid	haploid	0.009838
-TFCN_25-331D-1	TFCN_25-331D-1_TFCN_25-331D-1	R. mucilaginosa	2	keep	-	0.236	1079799	178.38	210.73	0.45	0.332	0.238	diploid	diploid	diploid	0.573532
-TFCN_25-332C-1	TFCN_25-332C-1_TFCN_25-332C-1	R. mucilaginosa	1	keep	-	0.0	978991	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.094416
-TFCN_25-332D-1	TFCN_25-332D-1_TFCN_25-332D-1	R. mucilaginosa	1	keep	-	0.0	976567	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.106911
-TFCN_25-332D-2	TFCN_25-332D-2_TFCN_25-332D-2	R. mucilaginosa	2	keep	no_het_diploid	0.0	1081939	0.02	0.03	0.30	0.118	0.294	non_diploid	too low	diploid	0.200331
-TFCN_25-332M-1	TFCN_25-332M-1_TFCN_25-332M-1	R. mucilaginosa	1	keep	-	0.0	992569	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.111452
-TFCN_25-332M-2	TFCN_25-332M-2_TFCN_25-332M-2	NA	2	drop	no_metadata,no_het_diploid	0.0	1081686	0.03	0.04	0.25	0.15	0.25	non_diploid		diploid	0.202005
-TFCN_25-332P-2	TFCN_25-332P-2_TFCN_25-332P-2	R. mucilaginosa	1	keep	-	0.0	321672	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.213787
-TFCN_25-332Y-1	TFCN_25-332Y-1_TFCN_25-332Y-1	R. mucilaginosa	1	keep	-	0.0	496421	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.233419
-TFCN_25-333C-2	TFCN_25-333C-2_TFCN_25-333C-2	R. mucilaginosa	1	keep	-	0.0	1055123	0.01	0.02	0.45	0.462	0.0	non_diploid	haploid	diploid	0.012148
-TFCN_25-333P-2	TFCN_25-333P-2_TFCN_25-333P-2	R. mucilaginosa	1	keep	-	0.0	1009397	0.03	0.04	0.45	0.467	0.044	non_diploid	haploid	diploid	0.010120
-TFCN_25-333Y-10	TFCN_25-333Y-10_TFCN_25-333Y-10	R. aff. mucilaginosa	1	drop	other_species	0.0	979788	0.53	0.73	0.45	0.275	0.195	non_diploid	haploid	haploid	0.006313
-TFCN_25-333Y-9	TFCN_25-333Y-9_TFCN_25-333Y-9	R. mucilaginosa	1	keep	-	0.0	1047659	0.02	0.03	0.45	0.647	0.029	non_diploid	haploid	haploid	0.009815
-TFCN_25-334D-3	TFCN_25-334D-3_TFCN_25-334D-3	R. mucilaginosa	1	keep	-	0.0	730044	0.26	0.29	0.45	0.314	0.31	non_diploid	haploid	haploid	0.009182
-TFCN_25-334Y-6	TFCN_25-334Y-6_TFCN_25-334Y-6	R. aff. mucilaginosa	1	drop	other_species	0.0	1019449	0.46	0.74	0.45	0.188	0.198	non_diploid	haploid	haploid	0.007636
-TFCN_25-335Y-1	TFCN_25-335Y-1_TFCN_25-335Y-1	R. mucilaginosa	1	keep	-	0.0	769277	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.229452
-TFCN_25-337M-3	TFCN_25-337M-3_TFCN_25-337M-3	R. mucilaginosa	1	drop	low_coverage	0.0	894	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.214229
-TFCN_25-337Y-1	TFCN_25-337Y-1_TFCN_25-337Y-1	R. mucilaginosa	1	keep	-	0.0	1001323	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.092794
-TFCN_25-395P-1	TFCN_25-395P-1_TFCN_25-395P-1	R. aff. mucilaginosa	1	drop	other_species	0.0	1015123	0.4	0.67	0.10	0.161	0.168	non_diploid	haploid	haploid	0.007180
-TFCN_270H-1	TFCN_270H-1_TFCN_270H-1	R. mucilaginosa	2	keep	-	0.257	1077813	211.47	228.51	0.45	0.38	0.215	diploid	too low	diploid	0.664045
-TFCN_270H-2	TFCN_270H-2_TFCN_270H-2	R. mucilaginosa	1	keep	-	0.0	435630	0.11	0.14	0.40	0.237	0.322	non_diploid	haploid	diploid	0.010043
-TFCN_273H-1	TFCN_273H-1_TFCN_273H-1	R. mucilaginosa	1	keep	-	0.0	1043634	0.02	0.03	0.45	0.379	0.103	non_diploid	haploid	diploid	0.015641
-TFCN_2M-1-3	TFCN_2M-1-3_TFCN_2M-1-3	NA	2	drop	no_metadata,no_het_diploid	0.001	1080192	0.15	0.22	0.45	0.176	0.238	non_diploid		diploid	0.013233
-TFCN_2M-1-4	TFCN_2M-1-4_TFCN_2M-1-4	R. mucilaginosa	1	keep	-	0.0	981422	0.03	0.04	0.45	0.538	0.026	non_diploid	haploid	diploid	0.011852
-TFCN_33A-4	TFCN_33A-4_TFCN_33A-4	R. aff. mucilaginosa	1	drop	other_species	0.0	1016723	0.5	1.51	0.10	0.101	0.1	non_diploid	haploid	diploid	0.011106
-TFCN_340-1	TFCN_340-1_TFCN_340-1	R. mucilaginosa	1	keep	-	0.0	1056646	0.03	0.04	0.45	0.6	0.075	non_diploid	haploid	haploid	0.009721
-TFCN_340-3	TFCN_340-3_TFCN_340-3	R. mucilaginosa	1	keep	-	0.0	1000873	0.04	0.05	0.45	0.5	0.043	non_diploid	haploid	haploid	0.009616
-TFCN_342-3	TFCN_342-3_TFCN_342-3	R. mucilaginosa	1	keep	-	0.0	627356	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.197368
-TFCN_363-1-2	TFCN_363-1-2_TFCN_363-1-2	R. mucilaginosa	1	drop	low_coverage	0.0	135005	0.48	0.55	0.45	0.459	0.149	non_diploid	haploid	diploid	0.011222
-TFCN_3M-1-1	TFCN_3M-1-1_TFCN_3M-1-1	R. frigidialcoholis	2	drop	other_species,ploidy_skewed	0.214	1066331	15.39	110.59	0.10	0.015	0.049	non_diploid	aneuploid	diploid	0.076845
-TFCN_404D-1	TFCN_404D-1_TFCN_404D-1	R. mucilaginosa	2	keep	-	0.253	1071396	210.31	228.23	0.45	0.321	0.255	diploid	diploid	diploid	0.651134
-TFCN_4M-1-2	TFCN_4M-1-2_TFCN_4M-1-2	R. mucilaginosa	1	keep	-	0.0	995022	0.04	0.05	0.45	0.673	0.102	non_diploid	haploid	haploid	0.009710
-TFCN_4M-1-3	TFCN_4M-1-3_TFCN_4M-1-3	R. mucilaginosa	1	keep	-	0.0	964279	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.148681
-TFCN_4M-1-4	TFCN_4M-1-4_TFCN_4M-1-4	R. mucilaginosa	1	keep	-	0.0	383440	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.180676
-TFCN_4M-1-5	TFCN_4M-1-5_TFCN_4M-1-5	R. mucilaginosa	1	keep	-	0.0	1003340	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.113106
-TFCN_54D-1	TFCN_54D-1_TFCN_54D-1	R. mucilaginosa	2	keep	-	0.247	1078895	190.95	216.58	0.45	0.359	0.229	diploid	diploid	diploid	0.686702
-TFCN_54D-2	TFCN_54D-2_TFCN_54D-2	R. mucilaginosa	1	keep	-	0.0	924124	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.115987
-TFCN_7-6-3	TFCN_7-6-3_TFCN_7-6-3	NA	2	drop	no_metadata,low_coverage	0.002	117536	4.45	5.61	0.45	0.223	0.228	diploid		diploid	0.020646
-TFCN_86A-12	TFCN_86A-12_TFCN_86A-12	R. mucilaginosa	1	keep	-	0.0	11642	0.26	0.26	0.45	0.667	0.0	non_diploid	haploid	diploid	0.235741
-TFCN_86A-3	TFCN_86A-3_TFCN_86A-3	R. mucilaginosa	1	keep	-	0.0	832266	0.0	0.0	0.45	1.0	0.0	non_diploid	haploid	diploid	0.173680
-TFCN_86A-5	TFCN_86A-5_TFCN_86A-5	NA	1	drop	no_metadata,low_coverage	0.0	248893	0.46	0.94	0.10	0.064	0.184	non_diploid		haploid	0.009762
-TFCN_86C-3	TFCN_86C-3_TFCN_86C-3	NA	2	drop	no_metadata,no_het_diploid	0.0	1081419	0.02	0.04	0.10	0.021	0.319	non_diploid		diploid	0.174096
-TFCN_89D-3	TFCN_89D-3_TFCN_89D-3	R. mucilaginosa	1	drop	low_coverage	0.0	115836	0.64	0.72	0.45	0.434	0.229	non_diploid	haploid	diploid	0.010215
-TFCN_98A-10	TFCN_98A-10_TFCN_98A-10	R. mucilaginosa	1	keep	-	0.0	1042222	0.03	0.04	0.45	0.667	0.022	non_diploid	haploid	diploid	0.010217
-TFCN_98A-5	TFCN_98A-5_TFCN_98A-5	R. mucilaginosa	1	keep	-	0.0	897302	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.142857
-TFCN_98C-3	TFCN_98C-3_TFCN_98C-3	R. mucilaginosa	1	keep	-	0.0	654814	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.147943
-TFCN_98C-5	TFCN_98C-5_TFCN_98C-5	R. mucilaginosa	1	keep	-	0.0	933689	0.0	0.0	0.30	0.0	1.0	non_diploid	haploid	diploid	0.091324
-TFCN_98C-7	TFCN_98C-7_TFCN_98C-7	R. mucilaginosa	1	keep	-	0.0	878045	0.05	0.06	0.45	0.386	0.281	non_diploid	haploid	haploid	0.009822
-TFCN_98C-8	TFCN_98C-8_TFCN_98C-8	R. mucilaginosa	1	keep	-	0.0	992876	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.127042
-TFCN_98D-11	TFCN_98D-11_TFCN_98D-11	R. mucilaginosa	1	keep	-	0.0	276193	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.190583
-TFCN_98D-7	TFCN_98D-7_TFCN_98D-7	R. mucilaginosa	1	keep	-	0.0	940149	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.116850
-TFCN_98D-9	TFCN_98D-9_TFCN_98D-9	R. mucilaginosa	1	keep	-	0.0	429814	0.0	0.0	0.10	0.0	0.0	non_diploid	haploid	diploid	0.178686
-TFCN_BY120-C1	TFCN_BY120-C1_TFCN_BY120-C1	NA	2	drop	no_metadata,no_het_diploid	0.001	1079902	0.13	0.19	0.45	0.189	0.218	non_diploid		diploid	0.014695
-TFCN_BY120-C7	TFCN_BY120-C7_TFCN_BY120-C7	NA	2	drop	no_metadata,no_het_diploid	0.0	1079064	0.15	0.21	0.40	0.192	0.205	non_diploid		diploid	0.014263
+strain	sample	species	called_ploidy	decision	reasons	het	covered_sites	balanced_per_kcov	mixed_per_kcov	peak	f45	f30	nquire	meta	override	per_mb_call	het_per_mb	callable_bp
+TFCN_137D-4	TFCN_137D-4_TFCN_137D-4	R. mucilaginosa	1	drop	low_coverage	0.000	850	1.18	1.18	0.45	1.000	0.000	non_diploid	haploid	haploid	haploid	1.067	16869253
+TFCN_17-333D-2	TFCN_17-333D-2_TFCN_17-333D-2	R. mucilaginosa	1	drop	low_coverage	0.000	3669	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.760	18417294
+TFCN_25-0-2E332-1	TFCN_25-0-2E332-1_TFCN_25-0-2E332-1	R. mucilaginosa	1	drop	low_coverage	0.000	9402	0.11	0.11	0.35	0.000	1.000	non_diploid	haploid	haploid	haploid	1.326	18856740
+TFCN_25-337M-3	TFCN_25-337M-3_TFCN_25-337M-3	R. mucilaginosa	1	drop	low_coverage	0.000	892	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.161	17230718
+TFCN_363-1-2	TFCN_363-1-2_TFCN_363-1-2	R. mucilaginosa	1	drop	low_coverage	0.000	134860	0.47	0.53	0.45	0.479	0.155	non_diploid	haploid	haploid	haploid	26.373	17328298
+TFCN_89D-3	TFCN_89D-3_TFCN_89D-3	R. mucilaginosa	1	drop	low_coverage	0.000	115649	0.62	0.71	0.45	0.415	0.232	non_diploid	haploid	haploid	haploid	24.029	17228911
+EXF_10854	EXF_10854_EXF_10854	NA	1	drop	no_metadata	0.000	980015	0.27	0.45	0.10	0.171	0.193	non_diploid	NA	haploid	haploid	228.904	13516592
+EXF_17335	EXF_17335_EXF_17335	NA	1	drop	no_metadata	0.000	1006276	0.60	0.83	0.45	0.265	0.197	non_diploid	NA	haploid	haploid	417.873	13870246
+NRRL_Y-2510	NRRL_Y-2510_NRRL_Y-2510	NA	1	drop	no_metadata	0.000	1047276	0.08	0.08	0.45	0.375	0.170	non_diploid	NA	haploid	haploid	55.987	18629169
+TFCN_17-333M-1	TFCN_17-333M-1_TFCN_17-333M-1	NA	2	drop	no_metadata	0.251	1075145	207.10	224.38	0.45	0.328	0.256	diploid	NA	diploid	diploid	34929.869	18714986
+TFCN_186CL-2	TFCN_186CL-2_TFCN_186CL-2	NA	2	drop	no_metadata	0.254	1073403	208.24	225.98	0.45	0.322	0.261	diploid	NA	diploid	diploid	35435.494	18555068
+TFCN_1A-1-5	TFCN_1A-1-5_TFCN_1A-1-5	NA	1	drop	no_metadata	0.000	654836	0.01	0.01	0.45	1.000	0.000	non_diploid	NA	haploid	haploid	1.830	19128102
+TFCN_25-332M-2	TFCN_25-332M-2_TFCN_25-332M-2	NA	1	drop	no_metadata	0.000	644447	0.00	0.00	0.10	0.000	0.000	non_diploid	NA	haploid	haploid	2.038	19134540
+TFCN_2M-1-3	TFCN_2M-1-3_TFCN_2M-1-3	NA	1	drop	no_metadata	0.000	840328	0.06	0.06	0.45	0.471	0.294	non_diploid	NA	haploid	haploid	30.048	19002956
+TFCN_86C-3	TFCN_86C-3_TFCN_86C-3	NA	1	drop	no_metadata	0.000	567999	0.00	0.01	0.20	0.000	0.333	non_diploid	NA	haploid	haploid	0.784	19125067
+EXF_10533	EXF_10533_EXF_10533	NA	1	drop	no_metadata,low_coverage	0.000	111564	0.82	1.63	0.15	0.110	0.187	non_diploid	NA	haploid	unknown	663.173	1268145
+EXF_10630	EXF_10630_EXF_10630	NA	2	drop	no_metadata,low_coverage	0.001	131667	0.68	1.31	0.10	0.098	0.156	non_diploid	NA	diploid	unknown	1277.638	1626439
+EXF_12265	EXF_12265_EXF_12265	NA	2	drop	no_metadata,low_coverage	0.001	128709	0.42	1.12	0.10	0.104	0.062	non_diploid	NA	diploid	unknown	929.543	1549148
+EXF_13500	EXF_13500_EXF_13500	NA	1	drop	no_metadata,low_coverage	0.000	463142	0.31	0.71	0.10	0.058	0.182	non_diploid	NA	haploid	haploid	423.552	5227219
+EXF_14606	EXF_14606_EXF_14606	NA	2	drop	no_metadata,low_coverage	0.008	121217	26.74	30.30	0.45	0.247	0.279	diploid	NA	diploid	unknown	10335.788	1502643
+TFCN_152A-3	TFCN_152A-3_TFCN_152A-3	NA	2	drop	no_metadata,low_coverage	0.000	62169	1.37	1.90	0.40	0.119	0.305	non_diploid	NA	diploid	unknown	655.042	885439
+TFCN_211C-2	TFCN_211C-2_TFCN_211C-2	NA	2	drop	no_metadata,low_coverage	0.001	127083	0.55	1.27	0.15	0.037	0.185	non_diploid	NA	diploid	unknown	977.094	1541305
+TFCN_7-6-3	TFCN_7-6-3_TFCN_7-6-3	NA	2	drop	no_metadata,low_coverage	0.002	117488	4.44	5.60	0.45	0.223	0.226	diploid	NA	diploid	unknown	1683.415	1461315
+TFCN_86A-5	TFCN_86A-5_TFCN_86A-5	NA	1	drop	no_metadata,low_coverage	0.000	248620	0.46	0.94	0.10	0.064	0.184	non_diploid	NA	haploid	unknown	890.436	2764937
+EXF_5668	EXF_5668_EXF_5668	NA	2	drop	no_metadata,ploidy_skewed	0.234	997554	71.31	209.54	0.20	0.012	0.117	non_diploid	NA	diploid	diploid	3973.560	14157079
+CHIFNET_14NJ214	CHIFNET_14NJ214_CHIFNET_14NJ214	R. frigidialcoholis	2	drop	other_species	0.248	1046991	203.29	218.10	0.45	0.301	0.267	diploid	diploid	diploid	diploid	33901.524	17580124
+DBVPG_4380	DBVPG_4380_DBVPG_4380	R. aff. mucilaginosa	2	drop	other_species	0.152	924325	117.63	140.91	0.45	0.240	0.259	diploid	diploid	diploid	diploid	20492.075	12238390
+DBVPG_4534	DBVPG_4534_DBVPG_4534	R. aff. mucilaginosa	1	drop	other_species	0.000	1004183	0.47	0.65	0.45	0.267	0.203	non_diploid	haploid	haploid	haploid	281.860	12910679
+DBVPG_6660	DBVPG_6660_DBVPG_6660	R. frigidialcoholis	1	drop	other_species	0.000	1026819	0.52	0.74	0.45	0.189	0.234	non_diploid	haploid	haploid	haploid	357.456	14144381
+DBVPG_8043	DBVPG_8043_DBVPG_8043	R. aff. mucilaginosa	1	drop	other_species	0.000	1001491	0.46	0.62	0.45	0.261	0.220	non_diploid	haploid	haploid	haploid	278.246	12866333
+EXF_13250	EXF_13250_EXF_13250	R. frigidialcoholis	1	drop	other_species	0.000	1017828	0.41	0.62	0.45	0.241	0.184	non_diploid	haploid	haploid	haploid	334.125	13991754
+EXF_13255	EXF_13255_EXF_13255	R. frigidialcoholis	1	drop	other_species	0.000	1020402	0.47	0.67	0.45	0.246	0.214	non_diploid	haploid	haploid	haploid	356.834	14073784
+EXF_13601	EXF_13601_EXF_13601	R. frigidialcoholis	1	drop	other_species	0.000	1022899	0.52	0.72	0.45	0.265	0.177	non_diploid	haploid	haploid	haploid	352.877	14101242
+EXF_3629	EXF_3629_EXF_3629	R. frigidialcoholis	1	drop	other_species	0.000	1026849	0.47	0.71	0.45	0.207	0.180	non_diploid	haploid	haploid	haploid	364.124	14162740
+EXF_3633	EXF_3633_EXF_3633	R. frigidialcoholis	1	drop	other_species	0.000	1024424	0.50	0.72	0.45	0.213	0.230	non_diploid	haploid	haploid	haploid	363.296	14139976
+EXF_5666	EXF_5666_EXF_5666	R. aff. mucilaginosa	1	drop	other_species	0.000	994250	0.42	0.57	0.45	0.292	0.180	non_diploid	haploid	haploid	haploid	413.383	12910531
+EXF_7386	EXF_7386_EXF_7386	R. frigidialcoholis	1	drop	other_species	0.000	1023089	0.47	0.65	0.45	0.287	0.181	non_diploid	haploid	haploid	haploid	374.379	14092658
+TFCN_134A-3	TFCN_134A-3_TFCN_134A-3	R. frigidialcoholis	1	drop	other_species	0.000	1023803	0.48	0.67	0.45	0.182	0.250	non_diploid	haploid	haploid	haploid	395.361	14095988
+TFCN_17-332M-1	TFCN_17-332M-1_TFCN_17-332M-1	R. frigidialcoholis	1	drop	other_species	0.000	1005091	0.47	0.83	0.10	0.147	0.210	non_diploid	haploid	haploid	haploid	452.707	13865479
+TFCN_1A-14	TFCN_1A-14_TFCN_1A-14	R. frigidialcoholis	1	drop	other_species	0.000	1037458	0.45	0.73	0.10	0.162	0.233	non_diploid	haploid	haploid	haploid	410.258	14698070
+TFCN_25-333Y-10	TFCN_25-333Y-10_TFCN_25-333Y-10	R. aff. mucilaginosa	1	drop	other_species	0.000	977450	0.52	0.72	0.45	0.275	0.197	non_diploid	haploid	haploid	haploid	348.560	12557382
+TFCN_25-334Y-6	TFCN_25-334Y-6_TFCN_25-334Y-6	R. aff. mucilaginosa	1	drop	other_species	0.000	1017219	0.46	0.74	0.10	0.185	0.200	non_diploid	haploid	haploid	haploid	363.658	13537458
+TFCN_25-395P-1	TFCN_25-395P-1_TFCN_25-395P-1	R. aff. mucilaginosa	1	drop	other_species	0.000	1012895	0.40	0.67	0.10	0.161	0.170	non_diploid	haploid	haploid	haploid	358.272	13372517
+TFCN_33A-4	TFCN_33A-4_TFCN_33A-4	R. aff. mucilaginosa	1	drop	other_species	0.000	1014482	0.50	1.51	0.10	0.101	0.103	non_diploid	haploid	haploid	haploid	404.638	13384796
+TFCN_3M-1-1	TFCN_3M-1-1_TFCN_3M-1-1	R. frigidialcoholis	2	drop	other_species,ploidy_skewed	0.212	1064462	14.97	108.15	0.10	0.016	0.049	non_diploid	aneuploid	diploid	diploid	4153.949	17135500
+EXF_12768	EXF_12768_EXF_12768	R. mucilaginosa	1	drop	ploidy_mixed	0.000	971100	1.67	1.68	0.45	0.839	0.023	non_diploid	haploid	haploid	diploid	2295.262	19170357
+EXF_7934	EXF_7934_EXF_7934	R. mucilaginosa	1	drop	ploidy_mixed	0.000	786054	0.06	0.07	0.35	0.151	0.491	non_diploid	haploid	haploid	haploid	9.294	19259183
+EXF_8891	EXF_8891_EXF_8891	R. mucilaginosa	1	drop	ploidy_mixed	0.000	877248	0.02	0.06	0.20	0.019	0.038	non_diploid	haploid	haploid	haploid	1.095	19175729
+EXF_9051	EXF_9051_EXF_9051	R. mucilaginosa	1	drop	ploidy_mixed	0.000	824374	0.00	0.03	0.20	0.000	0.037	non_diploid	haploid	haploid	haploid	1.930	19169647
+CHIFNET_12H1194	CHIFNET_12H1194_CHIFNET_12H1194	R. mucilaginosa	1	keep	-	0.000	426948	0.36	0.81	0.10	0.184	0.078	non_diploid	haploid	haploid	haploid	68.364	17406871
+DBVPG_10619	DBVPG_10619_DBVPG_10619	R. mucilaginosa	1	keep	-	0.000	1023164	0.04	0.04	0.45	0.457	0.065	non_diploid	haploid	haploid	haploid	20.163	19045232
+DBVPG_10656	DBVPG_10656_DBVPG_10656	R. mucilaginosa	1	keep	-	0.000	1045776	0.05	0.06	0.45	0.541	0.049	non_diploid	haploid	haploid	haploid	29.457	18773351
+DBVPG_10780	DBVPG_10780_DBVPG_10780	R. mucilaginosa	1	keep	-	0.000	992112	0.03	0.04	0.45	0.317	0.098	non_diploid	haploid	haploid	haploid	19.637	19045349
+DBVPG_10842	DBVPG_10842_DBVPG_10842	R. mucilaginosa	1	keep	-	0.000	1021925	0.01	0.02	0.30	0.167	0.444	non_diploid	haploid	haploid	haploid	16.592	18925239
+DBVPG_10882	DBVPG_10882_DBVPG_10882	R. mucilaginosa	1	keep	-	0.000	1038526	0.05	0.07	0.45	0.279	0.279	non_diploid	haploid	haploid	haploid	22.122	18850392
+DBVPG_10886	DBVPG_10886_DBVPG_10886	R. mucilaginosa	1	keep	-	0.000	855712	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.313	19160928
+DBVPG_10937	DBVPG_10937_DBVPG_10937	R. mucilaginosa	1	keep	-	0.000	1018203	0.06	0.07	0.45	0.432	0.068	non_diploid	haploid	haploid	haploid	29.655	18850232
+DBVPG_3044	DBVPG_3044_DBVPG_3044	R. mucilaginosa	1	keep	-	0.000	1062281	0.15	0.17	0.45	0.391	0.190	non_diploid	haploid	haploid	haploid	44.895	18665850
+DBVPG_3045	DBVPG_3045_DBVPG_3045	R. mucilaginosa	2	keep	-	0.238	1075666	203.90	219.84	0.45	0.398	0.199	diploid	haploid_from_hybrid	diploid	diploid	33045.384	18751666
+DBVPG_3090	DBVPG_3090_DBVPG_3090	R. mucilaginosa	1	keep	-	0.000	1064621	0.11	0.13	0.45	0.352	0.169	non_diploid	haploid	haploid	haploid	59.604	18639772
+DBVPG_3235	DBVPG_3235_DBVPG_3235	R. mucilaginosa	1	keep	-	0.000	1052106	0.09	0.13	0.45	0.299	0.139	non_diploid	haploid	haploid	haploid	54.304	18617259
+DBVPG_3236	DBVPG_3236_DBVPG_3236	R. mucilaginosa	1	keep	-	0.000	1059865	0.13	0.16	0.45	0.393	0.225	non_diploid	haploid	haploid	haploid	44.164	18635085
+DBVPG_3237	DBVPG_3237_DBVPG_3237	R. mucilaginosa	1	keep	-	0.000	1028400	0.05	0.07	0.45	0.368	0.118	non_diploid	haploid	haploid	haploid	30.022	18786497
+DBVPG_3238	DBVPG_3238_DBVPG_3238	R. mucilaginosa	1	keep	-	0.000	896016	0.04	0.05	0.45	0.417	0.125	non_diploid	haploid	haploid	haploid	24.342	19020355
+DBVPG_3239	DBVPG_3239_DBVPG_3239	R. mucilaginosa	1	keep	-	0.000	1020871	0.02	0.02	0.45	0.636	0.136	non_diploid	too low	haploid	haploid	30.528	19031841
+DBVPG_3381	DBVPG_3381_DBVPG_3381	R. mucilaginosa	1	keep	-	0.000	1058122	0.03	0.04	0.45	0.227	0.182	non_diploid	haploid	haploid	haploid	28.461	18833075
+DBVPG_3382	DBVPG_3382_DBVPG_3382	R. mucilaginosa	1	keep	-	0.000	1056763	0.04	0.05	0.45	0.473	0.145	non_diploid	haploid	haploid	haploid	32.195	18823015
+DBVPG_3383	DBVPG_3383_DBVPG_3383	R. mucilaginosa	1	keep	-	0.000	1039442	0.05	0.06	0.45	0.344	0.115	non_diploid	haploid	haploid	haploid	30.323	18797648
+DBVPG_3384	DBVPG_3384_DBVPG_3384	R. mucilaginosa	1	keep	-	0.000	1024168	0.04	0.05	0.45	0.375	0.179	non_diploid	haploid	haploid	haploid	31.222	18800700
+DBVPG_3442	DBVPG_3442_DBVPG_3442	R. mucilaginosa	1	keep	-	0.000	1049700	0.03	0.05	0.45	0.333	0.137	non_diploid	haploid	haploid	haploid	32.592	18747079
+DBVPG_3443	DBVPG_3443_DBVPG_3443	R. mucilaginosa	1	keep	-	0.000	1045079	0.04	0.06	0.45	0.350	0.117	non_diploid	haploid	haploid	haploid	30.072	18755066
+DBVPG_3444	DBVPG_3444_DBVPG_3444	R. mucilaginosa	2	keep	-	0.250	1075015	202.72	219.14	0.45	0.352	0.234	diploid	diploid	diploid	diploid	34566.818	18717575
+DBVPG_3445	DBVPG_3445_DBVPG_3445	R. mucilaginosa	2	keep	-	0.219	956131	163.53	185.70	0.40	0.237	0.283	non_diploid	too low	diploid	diploid	28522.617	15593590
+DBVPG_3446	DBVPG_3446_DBVPG_3446	R. mucilaginosa	2	keep	-	0.230	1054150	169.12	183.66	0.45	0.333	0.252	diploid	too low	diploid	diploid	33064.679	18212970
+DBVPG_3538	DBVPG_3538_DBVPG_3538	R. mucilaginosa	1	keep	-	0.000	572267	0.14	0.17	0.45	0.330	0.210	diploid	too low	haploid	haploid	28.460	18517424
+DBVPG_3774	DBVPG_3774_DBVPG_3774	R. mucilaginosa	1	keep	-	0.000	1049261	0.05	0.06	0.45	0.492	0.095	non_diploid	haploid	haploid	haploid	29.334	18817577
+DBVPG_3775	DBVPG_3775_DBVPG_3775	R. mucilaginosa	1	keep	-	0.000	1065018	0.02	0.03	0.45	0.417	0.111	non_diploid	haploid	haploid	haploid	27.572	18823154
+DBVPG_3776	DBVPG_3776_DBVPG_3776	R. mucilaginosa	1	keep	-	0.000	1055547	0.04	0.05	0.45	0.368	0.175	non_diploid	haploid	haploid	haploid	35.764	18761970
+DBVPG_3777	DBVPG_3777_DBVPG_3777	R. mucilaginosa	1	keep	-	0.000	1057752	0.05	0.07	0.45	0.449	0.064	non_diploid	haploid	haploid	haploid	32.070	18771422
+DBVPG_3778	DBVPG_3778_DBVPG_3778	R. mucilaginosa	1	keep	-	0.000	816039	0.11	0.13	0.45	0.427	0.118	non_diploid	haploid	haploid	haploid	38.406	18668926
+DBVPG_3780	DBVPG_3780_DBVPG_3780	R. mucilaginosa	1	keep	-	0.000	1054961	0.05	0.07	0.45	0.400	0.086	non_diploid	haploid	haploid	haploid	31.672	18786528
+DBVPG_3854	DBVPG_3854_DBVPG_3854	R. mucilaginosa	2	keep	-	0.235	1078341	195.31	209.67	0.45	0.386	0.216	diploid	diploid	diploid	diploid	34775.931	18657818
+DBVPG_3855	DBVPG_3855_DBVPG_3855	R. mucilaginosa	2	keep	-	0.230	1079062	169.71	196.62	0.45	0.381	0.223	diploid	haploid_from_hybrid	diploid	diploid	24116.491	18959475
+DBVPG_3856	DBVPG_3856_DBVPG_3856	R. mucilaginosa	2	keep	-	0.247	1077632	196.08	210.37	0.45	0.355	0.242	diploid	diploid	diploid	diploid	34631.456	18878646
+DBVPG_3857	DBVPG_3857_DBVPG_3857	R. mucilaginosa	2	keep	-	0.246	1077915	196.41	210.46	0.45	0.366	0.233	diploid	diploid	diploid	diploid	34992.112	18884542
+DBVPG_3858	DBVPG_3858_DBVPG_3858	R. mucilaginosa	1	keep	-	0.000	1067727	0.03	0.05	0.45	0.385	0.077	non_diploid	haploid	haploid	haploid	27.528	18817109
+DBVPG_3983	DBVPG_3983_DBVPG_3983	R. mucilaginosa	1	keep	-	0.000	1062312	0.11	0.14	0.45	0.255	0.216	non_diploid	haploid	haploid	haploid	61.899	18643423
+DBVPG_3984	DBVPG_3984_DBVPG_3984	R. mucilaginosa	1	keep	-	0.000	1057746	0.11	0.15	0.45	0.300	0.138	non_diploid	haploid	haploid	haploid	65.958	18633148
+DBVPG_4201	DBVPG_4201_DBVPG_4201	R. mucilaginosa	1	keep	-	0.000	579398	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.714	19248541
+DBVPG_4202	DBVPG_4202_DBVPG_4202	R. mucilaginosa	1	keep	-	0.000	622342	0.00	0.00	0.45	1.000	0.000	non_diploid	haploid	haploid	haploid	1.358	19145827
+DBVPG_4203	DBVPG_4203_DBVPG_4203	R. mucilaginosa	1	keep	-	0.000	728575	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.574	19162676
+DBVPG_4304	DBVPG_4304_DBVPG_4304	R. mucilaginosa	1	keep	-	0.000	917619	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.261	19167905
+DBVPG_4376	DBVPG_4376_DBVPG_4376	R. mucilaginosa	1	keep	-	0.000	1063202	0.06	0.07	0.45	0.410	0.128	non_diploid	haploid	haploid	haploid	67.044	18629630
+DBVPG_4377	DBVPG_4377_DBVPG_4377	R. mucilaginosa	1	keep	-	0.000	909832	0.21	0.25	0.45	0.310	0.243	non_diploid	haploid	haploid	haploid	61.903	18738961
+DBVPG_4378	DBVPG_4378_DBVPG_4378	R. mucilaginosa	1	keep	-	0.000	1067194	0.02	0.02	0.45	0.440	0.080	non_diploid	haploid	haploid	haploid	24.465	18924726
+DBVPG_4379	DBVPG_4379_DBVPG_4379	R. mucilaginosa	1	keep	-	0.000	264397	0.30	0.33	0.45	0.437	0.287	non_diploid	too low	haploid	haploid	34.634	17179613
+DBVPG_4408	DBVPG_4408_DBVPG_4408	R. mucilaginosa	1	keep	-	0.000	889099	0.09	0.10	0.45	0.517	0.103	non_diploid	haploid	haploid	haploid	55.082	18572317
+DBVPG_4466	DBVPG_4466_DBVPG_4466	R. mucilaginosa	1	keep	-	0.000	596598	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.522	19141633
+DBVPG_4618	DBVPG_4618_DBVPG_4618	R. mucilaginosa	1	keep	-	0.000	1057982	0.09	0.10	0.45	0.349	0.198	non_diploid	haploid	haploid	haploid	41.978	18867112
+DBVPG_4669	DBVPG_4669_DBVPG_4669	R. mucilaginosa	1	keep	-	0.000	1009873	0.02	0.03	0.45	0.441	0.059	non_diploid	haploid	haploid	haploid	18.519	19061493
+DBVPG_4920	DBVPG_4920_DBVPG_4920	R. mucilaginosa	1	keep	-	0.000	616248	0.11	0.13	0.40	0.325	0.084	non_diploid	haploid	haploid	haploid	32.243	18546462
+DBVPG_4945	DBVPG_4945_DBVPG_4945	R. mucilaginosa	1	keep	-	0.000	233151	0.12	0.13	0.45	0.645	0.000	non_diploid	haploid	haploid	haploid	21.416	17416933
+DBVPG_4946	DBVPG_4946_DBVPG_4946	R. mucilaginosa	1	keep	-	0.000	898140	0.04	0.06	0.45	0.471	0.118	non_diploid	haploid	haploid	haploid	28.272	18711364
+DBVPG_4947	DBVPG_4947_DBVPG_4947	R. mucilaginosa	1	keep	-	0.000	499444	0.04	0.08	0.45	0.282	0.103	non_diploid	haploid	haploid	haploid	24.111	18705222
+DBVPG_4949	DBVPG_4949_DBVPG_4949	R. mucilaginosa	1	keep	-	0.000	1013906	0.04	0.05	0.45	0.529	0.078	non_diploid	haploid	haploid	haploid	20.096	19058761
+DBVPG_4950	DBVPG_4950_DBVPG_4950	R. mucilaginosa	1	keep	-	0.000	997300	0.03	0.03	0.45	0.455	0.121	non_diploid	haploid	haploid	haploid	20.366	19051824
+DBVPG_4952	DBVPG_4952_DBVPG_4952	R. mucilaginosa	2	keep	-	0.247	1076252	199.27	211.65	0.45	0.384	0.217	non_diploid	too low	diploid	diploid	32296.264	18708201
+DBVPG_4956	DBVPG_4956_DBVPG_4956	R. mucilaginosa	1	keep	-	0.000	937533	0.05	0.06	0.45	0.423	0.154	non_diploid	haploid	haploid	haploid	18.547	19032508
+DBVPG_4957	DBVPG_4957_DBVPG_4957	R. mucilaginosa	1	keep	-	0.000	965262	0.04	0.05	0.45	0.438	0.083	non_diploid	haploid	haploid	haploid	20.374	19044323
+DBVPG_4958	DBVPG_4958_DBVPG_4958	R. mucilaginosa	1	keep	-	0.000	1042634	0.04	0.05	0.45	0.500	0.056	non_diploid	haploid	haploid	haploid	30.788	18870852
+DBVPG_4962	DBVPG_4962_DBVPG_4962	R. mucilaginosa	1	keep	-	0.000	1053160	0.09	0.10	0.45	0.627	0.098	non_diploid	haploid	haploid	haploid	25.955	18762934
+DBVPG_4963	DBVPG_4963_DBVPG_4963	R. mucilaginosa	1	keep	-	0.000	1047417	0.03	0.05	0.45	0.269	0.038	non_diploid	haploid	haploid	haploid	25.404	18776926
+DBVPG_4964	DBVPG_4964_DBVPG_4964	R. mucilaginosa	1	keep	-	0.000	975447	0.02	0.03	0.45	0.308	0.115	non_diploid	haploid	haploid	haploid	19.115	19042618
+DBVPG_5225	DBVPG_5225_DBVPG_5225	R. mucilaginosa	1	keep	-	0.000	1033971	0.06	0.07	0.45	0.412	0.147	non_diploid	haploid	haploid	haploid	20.579	18854552
+DBVPG_5226	DBVPG_5226_DBVPG_5226	R. mucilaginosa	1	keep	-	0.000	1031819	0.07	0.09	0.45	0.404	0.124	non_diploid	haploid	haploid	haploid	23.102	18873090
+DBVPG_5227	DBVPG_5227_DBVPG_5227	R. mucilaginosa	1	keep	-	0.000	1046224	0.04	0.07	0.40	0.143	0.186	non_diploid	haploid	haploid	haploid	25.557	18938115
+DBVPG_5228	DBVPG_5228_DBVPG_5228	R. mucilaginosa	1	keep	-	0.000	1027177	0.06	0.07	0.45	0.243	0.338	non_diploid	haploid	haploid	haploid	20.248	18865905
+DBVPG_5229	DBVPG_5229_DBVPG_5229	R. mucilaginosa	1	keep	-	0.000	1040324	0.06	0.07	0.45	0.310	0.254	non_diploid	haploid	haploid	haploid	24.884	18887370
+DBVPG_5235	DBVPG_5235_DBVPG_5235	R. mucilaginosa	1	keep	-	0.000	1030462	0.06	0.07	0.45	0.356	0.164	non_diploid	haploid	haploid	haploid	23.784	18878039
+DBVPG_5236	DBVPG_5236_DBVPG_5236	R. mucilaginosa	1	keep	-	0.000	759746	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.091	19249066
+DBVPG_5757	DBVPG_5757_DBVPG_5757	R. mucilaginosa	1	keep	-	0.000	1060995	0.07	0.08	0.45	0.494	0.181	non_diploid	haploid	haploid	haploid	45.273	18664444
+DBVPG_5758	DBVPG_5758_DBVPG_5758	R. mucilaginosa	1	keep	-	0.000	1061119	0.08	0.09	0.45	0.698	0.073	non_diploid	haploid	haploid	haploid	46.780	18662010
+DBVPG_5759	DBVPG_5759_DBVPG_5759	R. mucilaginosa	1	keep	-	0.000	1059236	0.07	0.08	0.45	0.535	0.105	non_diploid	haploid	haploid	haploid	44.377	18658318
+DBVPG_6091	DBVPG_6091_DBVPG_6091	R. mucilaginosa	1	keep	-	0.000	1035051	0.04	0.05	0.45	0.500	0.120	non_diploid	haploid	haploid	haploid	25.372	18760641
+DBVPG_6092	DBVPG_6092_DBVPG_6092	R. mucilaginosa	1	keep	-	0.000	1043895	0.06	0.07	0.45	0.390	0.117	non_diploid	haploid	haploid	haploid	23.825	18761888
+DBVPG_6093	DBVPG_6093_DBVPG_6093	R. mucilaginosa	1	keep	-	0.000	999583	0.03	0.04	0.45	0.541	0.027	non_diploid	haploid	haploid	haploid	22.711	19021384
+DBVPG_6094	DBVPG_6094_DBVPG_6094	R. mucilaginosa	1	keep	-	0.000	911709	0.06	0.07	0.45	0.484	0.145	non_diploid	too low	haploid	haploid	35.355	19006967
+DBVPG_6593	DBVPG_6593_DBVPG_6593	R. mucilaginosa	1	keep	-	0.000	1049709	0.08	0.10	0.45	0.663	0.029	non_diploid	haploid	haploid	haploid	32.325	18778125
+DBVPG_6649	DBVPG_6649_DBVPG_6649	R. mucilaginosa	2	keep	-	0.238	1008295	183.82	199.29	0.45	0.358	0.228	non_diploid	too low	diploid	diploid	36942.009	14257048
+DBVPG_6741	DBVPG_6741_DBVPG_6741	R. mucilaginosa	1	keep	-	0.000	800036	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.418	19153929
+DBVPG_6742	DBVPG_6742_DBVPG_6742	R. mucilaginosa	1	keep	-	0.000	844752	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.313	19155823
+DBVPG_6743	DBVPG_6743_DBVPG_6743	R. mucilaginosa	1	keep	-	0.000	1043815	0.08	0.09	0.45	0.535	0.091	non_diploid	haploid	haploid	haploid	29.617	18773251
+DBVPG_6803	DBVPG_6803_DBVPG_6803	R. mucilaginosa	1	keep	-	0.000	873618	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.261	19162471
+DBVPG_7019	DBVPG_7019_DBVPG_7019	R. mucilaginosa	1	keep	-	0.000	845488	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.157	19163350
+EXF_12281	EXF_12281_EXF_12281	R. mucilaginosa	1	keep	-	0.000	1065514	0.09	0.10	0.45	0.406	0.066	non_diploid	haploid	haploid	haploid	45.787	18673484
+EXF_13260	EXF_13260_EXF_13260	R. mucilaginosa	1	keep	-	0.000	810880	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.313	19165689
+EXF_13261	EXF_13261_EXF_13261	R. mucilaginosa	1	keep	-	0.000	821289	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.417	19176572
+EXF_13599	EXF_13599_EXF_13599	R. mucilaginosa	1	keep	-	0.000	1062697	0.12	0.13	0.45	0.577	0.134	non_diploid	haploid	haploid	haploid	52.276	18670253
+EXF_13600	EXF_13600_EXF_13600	R. mucilaginosa	1	keep	-	0.000	685452	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.313	19162678
+EXF_13602	EXF_13602_EXF_13602	R. mucilaginosa	1	keep	-	0.000	888309	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.365	19169502
+EXF_13604	EXF_13604_EXF_13604	R. mucilaginosa	1	keep	-	0.000	1052937	0.06	0.07	0.45	0.260	0.233	non_diploid	haploid	haploid	haploid	21.722	18875141
+EXF_1510	EXF_1510_EXF_1510	R. mucilaginosa	1	keep	-	0.000	1001126	0.05	0.06	0.40	0.230	0.164	non_diploid	haploid	haploid	haploid	22.097	18870983
+EXF_1565	EXF_1565_EXF_1565	R. mucilaginosa	1	keep	-	0.000	877032	0.00	0.03	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.470	19163517
+EXF_1585	EXF_1585_EXF_1585	R. mucilaginosa	1	keep	-	0.000	759718	0.00	0.00	0.20	0.000	0.000	non_diploid	haploid	haploid	haploid	0.365	19169556
+EXF_1676	EXF_1676_EXF_1676	R. mucilaginosa	1	keep	-	0.000	888755	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.522	19172780
+EXF_1686	EXF_1686_EXF_1686	R. mucilaginosa	1	keep	-	0.000	821059	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.675	19260794
+EXF_1695	EXF_1695_EXF_1695	R. mucilaginosa	1	keep	-	0.000	1064421	0.83	22.34	0.10	0.005	0.009	non_diploid	haploid	haploid	haploid	304.023	18774874
+EXF_1704	EXF_1704_EXF_1704	R. mucilaginosa	1	keep	-	0.000	1059453	0.09	0.11	0.45	0.319	0.235	non_diploid	haploid	haploid	haploid	35.330	18794179
+EXF_2251	EXF_2251_EXF_2251	R. mucilaginosa	1	keep	-	0.000	770625	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.779	19260386
+EXF_3417	EXF_3417_EXF_3417	R. mucilaginosa	1	keep	-	0.000	876509	0.00	0.00	0.35	0.000	0.667	non_diploid	haploid	haploid	haploid	0.727	19264886
+EXF_3530	EXF_3530_EXF_3530	R. mucilaginosa	1	keep	-	0.000	829345	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.522	19159642
+EXF_3538	EXF_3538_EXF_3538	R. mucilaginosa	1	keep	-	0.000	1058948	0.08	0.10	0.45	0.312	0.229	non_diploid	haploid	haploid	haploid	38.149	18742333
+EXF_3540	EXF_3540_EXF_3540	R. mucilaginosa	1	keep	-	0.000	902284	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.313	19171893
+EXF_3544	EXF_3544_EXF_3544	R. mucilaginosa	1	keep	-	0.000	839215	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.727	19263491
+EXF_3569	EXF_3569_EXF_3569	R. mucilaginosa	1	keep	-	0.000	793282	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.675	19259002
+EXF_3592	EXF_3592_EXF_3592	R. mucilaginosa	1	keep	-	0.000	857430	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.313	19162214
+EXF_3595	EXF_3595_EXF_3595	R. mucilaginosa	1	keep	-	0.000	1041945	0.04	0.06	0.45	0.644	0.085	non_diploid	haploid	haploid	haploid	27.712	18800396
+EXF_3604	EXF_3604_EXF_3604	R. mucilaginosa	1	keep	-	0.000	1056338	0.09	0.12	0.45	0.379	0.194	non_diploid	haploid	haploid	haploid	40.285	18741356
+EXF_3609	EXF_3609_EXF_3609	R. mucilaginosa	1	keep	-	0.000	860312	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.417	19170828
+EXF_3612	EXF_3612_EXF_3612	R. mucilaginosa	1	keep	-	0.000	807680	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.193	19271422
+EXF_3622	EXF_3622_EXF_3622	R. mucilaginosa	1	keep	-	0.000	882543	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.365	19168401
+EXF_3626	EXF_3626_EXF_3626	R. mucilaginosa	1	keep	-	0.000	1063071	0.08	0.11	0.45	0.363	0.177	non_diploid	haploid	haploid	haploid	44.390	18765439
+EXF_3790	EXF_3790_EXF_3790	R. mucilaginosa	1	keep	-	0.000	1039164	0.08	0.09	0.45	0.564	0.170	non_diploid	haploid	haploid	haploid	27.928	18798188
+EXF_3860	EXF_3860_EXF_3860	R. mucilaginosa	1	keep	-	0.000	1029028	0.10	0.11	0.45	0.649	0.072	non_diploid	haploid	haploid	haploid	26.900	18773473
+EXF_3861	EXF_3861_EXF_3861	R. mucilaginosa	1	keep	-	0.000	1028753	0.08	0.10	0.45	0.485	0.071	non_diploid	haploid	haploid	haploid	26.673	18783210
+EXF_3862	EXF_3862_EXF_3862	R. mucilaginosa	1	keep	-	0.000	1036050	0.10	0.11	0.45	0.588	0.034	non_diploid	haploid	haploid	haploid	27.433	18772923
+EXF_4885	EXF_4885_EXF_4885	R. mucilaginosa	1	keep	-	0.000	1035071	0.05	0.07	0.40	0.229	0.157	non_diploid	haploid	haploid	haploid	24.810	18863150
+EXF_5546	EXF_5546_EXF_5546	R. mucilaginosa	1	keep	-	0.000	847034	0.00	0.00	0.15	0.000	0.000	non_diploid	haploid	haploid	haploid	0.522	19165970
+EXF_5775	EXF_5775_EXF_5775	R. mucilaginosa	1	keep	-	0.000	1060700	0.08	0.10	0.45	0.614	0.089	non_diploid	haploid	haploid	haploid	47.200	18665100
+EXF_5938	EXF_5938_EXF_5938	R. mucilaginosa	1	keep	-	0.000	866802	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.209	19162266
+EXF_5939	EXF_5939_EXF_5939	R. mucilaginosa	1	keep	-	0.000	770017	0.00	0.00	0.45	1.000	0.000	non_diploid	haploid	haploid	haploid	1.039	19252026
+EXF_5940	EXF_5940_EXF_5940	R. mucilaginosa	1	keep	-	0.000	1061055	0.08	0.10	0.45	0.426	0.168	non_diploid	haploid	haploid	haploid	44.279	18654244
+EXF_5941	EXF_5941_EXF_5941	R. mucilaginosa	1	keep	-	0.000	893916	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.470	19160006
+EXF_6243	EXF_6243_EXF_6243	R. mucilaginosa	1	keep	-	0.000	1055944	0.07	0.09	0.45	0.527	0.110	non_diploid	haploid	haploid	haploid	47.883	18649743
+EXF_6252	EXF_6252_EXF_6252	R. mucilaginosa	1	keep	-	0.000	1057171	0.11	0.12	0.45	0.579	0.079	non_diploid	haploid	haploid	haploid	44.212	18659883
+EXF_6325	EXF_6325_EXF_6325	R. mucilaginosa	1	keep	-	0.000	705802	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.470	19166422
+EXF_6360	EXF_6360_EXF_6360	R. mucilaginosa	1	keep	-	0.000	1052842	0.08	0.10	0.45	0.336	0.140	non_diploid	haploid	haploid	haploid	39.020	18836654
+EXF_6370	EXF_6370_EXF_6370	R. mucilaginosa	1	keep	-	0.000	1061453	0.09	0.11	0.45	0.575	0.106	non_diploid	haploid	haploid	haploid	46.345	18664378
+EXF_6373	EXF_6373_EXF_6373	R. mucilaginosa	1	keep	-	0.000	1056743	0.11	0.13	0.45	0.519	0.150	non_diploid	haploid	haploid	haploid	46.917	18649782
+EXF_7920	EXF_7920_EXF_7920	R. mucilaginosa	1	keep	-	0.000	827763	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	2.388	19263089
+EXF_7931	EXF_7931_EXF_7931	R. mucilaginosa	1	keep	-	0.000	795506	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.522	19166632
+EXF_7944	EXF_7944_EXF_7944	R. mucilaginosa	1	keep	-	0.000	795920	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.557	19261970
+EXF_7949	EXF_7949_EXF_7949	R. mucilaginosa	1	keep	-	0.000	1063287	0.06	0.06	0.45	0.373	0.239	non_diploid	haploid	haploid	haploid	42.846	18671418
+EXF_8006	EXF_8006_EXF_8006	R. mucilaginosa	1	keep	-	0.000	712078	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.091	19250446
+EXF_8014	EXF_8014_EXF_8014	R. mucilaginosa	1	keep	-	0.000	831747	0.00	0.00	0.40	0.000	0.000	non_diploid	haploid	haploid	haploid	0.417	19171829
+EXF_8109	EXF_8109_EXF_8109	R. mucilaginosa	1	keep	-	0.000	1051070	0.09	0.12	0.45	0.469	0.039	non_diploid	haploid	haploid	haploid	37.399	18797436
+EXF_8151	EXF_8151_EXF_8151	R. mucilaginosa	1	keep	-	0.000	869012	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.505	19267043
+EXF_8155	EXF_8155_EXF_8155	R. mucilaginosa	1	keep	-	0.000	818042	0.00	0.02	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.198	19193792
+EXF_8254	EXF_8254_EXF_8254	R. mucilaginosa	1	keep	-	0.000	855375	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.313	19167021
+EXF_8395	EXF_8395_EXF_8395	R. mucilaginosa	1	keep	-	0.000	1029663	0.13	0.15	0.45	0.301	0.216	non_diploid	haploid	haploid	haploid	38.085	18799902
+EXF_8400	EXF_8400_EXF_8400	R. mucilaginosa	1	keep	-	0.000	982423	0.01	0.01	0.40	0.300	0.000	non_diploid	haploid	haploid	haploid	7.967	18952547
+EXF_8463	EXF_8463_EXF_8463	R. mucilaginosa	1	keep	-	0.000	990022	0.01	0.01	0.40	0.400	0.000	non_diploid	haploid	haploid	haploid	6.543	18951418
+EXF_8464	EXF_8464_EXF_8464	R. mucilaginosa	1	keep	-	0.000	853881	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.469	19171744
+EXF_8465	EXF_8465_EXF_8465	R. mucilaginosa	1	keep	-	0.000	796399	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.365	19161237
+EXF_8898	EXF_8898_EXF_8898	R. mucilaginosa	1	keep	-	0.000	878360	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.365	19171124
+EXF_8921	EXF_8921_EXF_8921	R. mucilaginosa	1	keep	-	0.000	853865	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.313	19177151
+EXF_8942	EXF_8942_EXF_8942	R. mucilaginosa	1	keep	-	0.000	903482	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.834	19183392
+EXF_8984	EXF_8984_EXF_8984	R. mucilaginosa	1	keep	-	0.000	849292	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.831	19259774
+EXF_9595	EXF_9595_EXF_9595	R. mucilaginosa	1	keep	-	0.000	1047455	0.07	0.10	0.45	0.505	0.109	non_diploid	haploid	haploid	haploid	31.126	18762174
+EXF_9756	EXF_9756_EXF_9756	R. mucilaginosa	1	keep	-	0.000	850340	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.417	19164702
+EXF_9762	EXF_9762_EXF_9762	R. mucilaginosa	1	keep	-	0.000	917421	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.417	19170830
+EXF_9926	EXF_9926_EXF_9926	R. mucilaginosa	1	keep	-	0.000	1035598	0.06	0.07	0.45	0.384	0.247	non_diploid	haploid	haploid	haploid	28.265	18821534
+EXF_9950	EXF_9950_EXF_9950	R. mucilaginosa	1	keep	-	0.000	1061931	0.09	0.10	0.45	0.446	0.267	non_diploid	haploid	haploid	haploid	49.978	18668390
+IIF8SW-B2	IIF8SW-B2_IIF8SW-B2	R. mucilaginosa	1	keep	-	0.000	691867	0.04	0.05	0.45	0.514	0.027	non_diploid	haploid	haploid	haploid	24.685	18837295
+TFCN_100D-1	TFCN_100D-1_TFCN_100D-1	R. mucilaginosa	1	keep	-	0.000	562282	0.09	0.11	0.45	0.469	0.156	non_diploid	haploid	haploid	haploid	21.439	18984173
+TFCN_102C-1	TFCN_102C-1_TFCN_102C-1	R. mucilaginosa	1	keep	-	0.000	321287	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.470	19130166
+TFCN_102C-2	TFCN_102C-2_TFCN_102C-2	R. mucilaginosa	1	keep	-	0.000	932478	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.522	19164606
+TFCN_102D-1	TFCN_102D-1_TFCN_102D-1	R. mucilaginosa	1	keep	-	0.000	1027818	0.03	0.04	0.45	0.513	0.077	non_diploid	haploid	haploid	haploid	29.770	19046155
+TFCN_102D-2	TFCN_102D-2_TFCN_102D-2	R. mucilaginosa	1	keep	-	0.000	89818	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.262	19092956
+TFCN_105A-2	TFCN_105A-2_TFCN_105A-2	R. mucilaginosa	1	keep	-	0.000	909432	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.365	19161582
+TFCN_106A-1	TFCN_106A-1_TFCN_106A-1	R. mucilaginosa	1	keep	-	0.000	466866	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.732	19123721
+TFCN_107A-6	TFCN_107A-6_TFCN_107A-6	R. mucilaginosa	1	keep	-	0.000	455734	0.15	0.17	0.45	0.395	0.158	non_diploid	haploid	haploid	haploid	22.603	18935405
+TFCN_107C-3	TFCN_107C-3_TFCN_107C-3	R. mucilaginosa	1	keep	-	0.000	986737	0.04	0.05	0.45	0.333	0.216	non_diploid	haploid	haploid	haploid	26.945	19039101
+TFCN_110C-1	TFCN_110C-1_TFCN_110C-1	R. mucilaginosa	1	keep	-	0.000	965135	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.470	19160359
+TFCN_118C-2	TFCN_118C-2_TFCN_118C-2	R. mucilaginosa	1	keep	-	0.000	1034094	0.03	0.04	0.45	0.658	0.053	non_diploid	haploid	haploid	haploid	30.811	19051631
+TFCN_122C-2	TFCN_122C-2_TFCN_122C-2	R. mucilaginosa	1	keep	-	0.000	851495	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.522	19152995
+TFCN_130D-4	TFCN_130D-4_TFCN_130D-4	R. mucilaginosa	1	keep	-	0.000	834506	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.574	19159071
+TFCN_137C-3	TFCN_137C-3_TFCN_137C-3	R. mucilaginosa	1	keep	-	0.000	18356	0.11	0.11	0.45	1.000	0.000	non_diploid	haploid	haploid	haploid	0.802	18708276
+TFCN_138A-1	TFCN_138A-1_TFCN_138A-1	R. mucilaginosa	1	keep	-	0.000	522118	0.00	0.00	0.45	1.000	0.000	non_diploid	haploid	haploid	haploid	0.627	19132568
+TFCN_140A-3	TFCN_140A-3_TFCN_140A-3	R. mucilaginosa	1	keep	-	0.000	651808	0.08	0.10	0.45	0.463	0.075	non_diploid	haploid	haploid	haploid	25.273	18992528
+TFCN_141C-2	TFCN_141C-2_TFCN_141C-2	R. mucilaginosa	1	keep	-	0.000	171664	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.105	19079170
+TFCN_152A-1	TFCN_152A-1_TFCN_152A-1	R. mucilaginosa	2	keep	-	0.250	1076810	198.87	219.27	0.45	0.381	0.213	diploid	diploid	diploid	diploid	37002.276	18697174
+TFCN_152A-12	TFCN_152A-12_TFCN_152A-12	R. mucilaginosa	1	keep	-	0.000	906418	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.626	19157154
+TFCN_152A-2	TFCN_152A-2_TFCN_152A-2	R. mucilaginosa	1	keep	-	0.000	1026739	0.04	0.07	0.45	0.418	0.030	non_diploid	haploid	haploid	haploid	30.491	19054985
+TFCN_152A-5	TFCN_152A-5_TFCN_152A-5	R. mucilaginosa	1	keep	-	0.000	182118	0.01	0.01	0.45	1.000	0.000	non_diploid	haploid	haploid	haploid	0.262	19095040
+TFCN_152C-5	TFCN_152C-5_TFCN_152C-5	R. mucilaginosa	1	keep	-	0.000	216890	0.12	0.15	0.45	0.469	0.156	non_diploid	haploid	haploid	haploid	27.213	18593995
+TFCN_17-0-2E334-10	TFCN_17-0-2E334-10_TFCN_17-0-2E334-10	R. mucilaginosa	1	keep	-	0.000	1050659	0.02	0.02	0.45	0.286	0.190	non_diploid	haploid	haploid	haploid	32.312	19033336
+TFCN_17-0-2E334-4	TFCN_17-0-2E334-4_TFCN_17-0-2E334-4	R. mucilaginosa	2	keep	-	0.236	1078695	181.72	210.47	0.45	0.309	0.250	diploid	haploid_from_hybrid	diploid	diploid	34682.909	18953831
+TFCN_17-0-2E337-3	TFCN_17-0-2E337-3_TFCN_17-0-2E337-3	R. mucilaginosa	2	keep	-	0.255	1076660	208.25	224.68	0.45	0.452	0.160	diploid	diploid	diploid	diploid	36528.812	18697186
+TFCN_17-0-2E390-1	TFCN_17-0-2E390-1_TFCN_17-0-2E390-1	R. mucilaginosa	2	keep	-	0.233	1078633	172.64	206.24	0.45	0.329	0.241	diploid	diploid	diploid	diploid	24098.794	18874513
+TFCN_17-0-2E390-2	TFCN_17-0-2E390-2_TFCN_17-0-2E390-2	R. mucilaginosa	2	keep	-	0.242	1078108	187.29	213.62	0.45	0.351	0.235	diploid	diploid	diploid	diploid	36625.876	18836437
+TFCN_17-267M-1	TFCN_17-267M-1_TFCN_17-267M-1	R. mucilaginosa	2	keep	-	0.228	1079564	170.98	203.40	0.45	0.338	0.238	diploid	diploid	diploid	diploid	22955.980	19002282
+TFCN_17-291Y-1	TFCN_17-291Y-1_TFCN_17-291Y-1	R. mucilaginosa	2	keep	-	0.246	1077243	189.79	215.35	0.45	0.356	0.230	diploid	diploid	diploid	diploid	37118.273	18729724
+TFCN_17-325D-2	TFCN_17-325D-2_TFCN_17-325D-2	R. mucilaginosa	1	keep	-	0.000	730441	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.662	19257078
+TFCN_17-325D-4	TFCN_17-325D-4_TFCN_17-325D-4	R. mucilaginosa	1	keep	-	0.000	31475	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.412	19117814
+TFCN_17-325P-1	TFCN_17-325P-1_TFCN_17-325P-1	R. mucilaginosa	1	keep	-	0.000	789561	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.090	19270984
+TFCN_17-329Y-4	TFCN_17-329Y-4_TFCN_17-329Y-4	R. mucilaginosa	1	keep	-	0.000	1046923	0.10	0.12	0.45	0.394	0.157	non_diploid	haploid	haploid	haploid	63.090	18608286
+TFCN_17-332C-1	TFCN_17-332C-1_TFCN_17-332C-1	R. mucilaginosa	1	keep	-	0.000	590990	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.575	19145113
+TFCN_17-332C-2	TFCN_17-332C-2_TFCN_17-332C-2	R. mucilaginosa	1	keep	-	0.000	901702	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.261	19159541
+TFCN_17-332D-1	TFCN_17-332D-1_TFCN_17-332D-1	R. mucilaginosa	1	keep	-	0.000	945807	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.626	19161266
+TFCN_17-332M-2	TFCN_17-332M-2_TFCN_17-332M-2	R. mucilaginosa	1	keep	-	0.000	197984	0.01	0.01	0.45	1.000	0.000	non_diploid	haploid	haploid	haploid	2.042	19098515
+TFCN_17-332P-1	TFCN_17-332P-1_TFCN_17-332P-1	R. mucilaginosa	1	keep	-	0.000	1001720	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.939	19164523
+TFCN_17-332P-2	TFCN_17-332P-2_TFCN_17-332P-2	R. mucilaginosa	1	keep	-	0.000	784766	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.313	19149969
+TFCN_17-333P-6	TFCN_17-333P-6_TFCN_17-333P-6	R. mucilaginosa	2	keep	-	0.249	1078769	205.51	221.57	0.45	0.460	0.157	diploid	diploid	diploid	diploid	35795.693	19051538
+TFCN_17-334C-1	TFCN_17-334C-1_TFCN_17-334C-1	R. mucilaginosa	1	keep	-	0.000	711179	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.836	19142373
+TFCN_17-334D-6	TFCN_17-334D-6_TFCN_17-334D-6	R. mucilaginosa	2	keep	-	0.255	1076241	207.82	224.57	0.45	0.425	0.180	diploid	diploid	diploid	diploid	35625.241	18686891
+TFCN_17-334P-3	TFCN_17-334P-3_TFCN_17-334P-3	R. mucilaginosa	1	keep	-	0.000	868629	0.04	0.04	0.40	0.256	0.205	non_diploid	haploid	haploid	haploid	24.354	19011254
+TFCN_17-334Y-2	TFCN_17-334Y-2_TFCN_17-334Y-2	R. mucilaginosa	1	keep	-	0.000	1008877	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.678	19173397
+TFCN_17-334Y-3	TFCN_17-334Y-3_TFCN_17-334Y-3	R. mucilaginosa	1	keep	-	0.000	1048479	0.02	0.03	0.45	0.633	0.000	non_diploid	haploid	haploid	haploid	21.563	19060489
+TFCN_17-334Y-5	TFCN_17-334Y-5_TFCN_17-334Y-5	R. mucilaginosa	2	keep	-	0.246	1077132	189.89	215.45	0.45	0.352	0.233	diploid	diploid	diploid	diploid	36877.633	18722243
+TFCN_17-337P-5	TFCN_17-337P-5_TFCN_17-337P-5	R. mucilaginosa	2	keep	-	0.243	1078643	195.87	215.78	0.45	0.385	0.212	diploid	diploid	diploid	diploid	35615.135	19025507
+TFCN_17-338D-3	TFCN_17-338D-3_TFCN_17-338D-3	R. mucilaginosa	1	keep	-	0.000	949941	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.454	19256343
+TFCN_17-390M-1	TFCN_17-390M-1_TFCN_17-390M-1	R. mucilaginosa	2	keep	-	0.246	1077892	195.21	217.26	0.45	0.373	0.222	diploid	diploid	diploid	diploid	37033.300	18821979
+TFCN_172A-1	TFCN_172A-1_TFCN_172A-1	R. mucilaginosa	1	keep	-	0.000	762556	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.313	19154574
+TFCN_17Y-278-1	TFCN_17Y-278-1_TFCN_17Y-278-1	R. mucilaginosa	2	keep	-	0.247	1077194	192.83	216.64	0.45	0.366	0.224	diploid	haploid_from_hybrid	diploid	diploid	37344.290	18720158
+TFCN_181A-1	TFCN_181A-1_TFCN_181A-1	R. mucilaginosa	1	keep	-	0.000	962329	0.00	0.00	0.45	1.000	0.000	non_diploid	haploid	haploid	haploid	1.776	19148316
+TFCN_209-6-1	TFCN_209-6-1_TFCN_209-6-1	R. mucilaginosa	1	keep	-	0.000	504511	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.418	19137484
+TFCN_209-6-11	TFCN_209-6-11_TFCN_209-6-11	R. mucilaginosa	1	keep	-	0.000	38755	0.03	0.03	0.40	0.000	0.000	non_diploid	haploid	haploid	haploid	0.789	19001426
+TFCN_209-6-12	TFCN_209-6-12_TFCN_209-6-12	R. mucilaginosa	1	keep	-	0.000	513837	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.784	19133291
+TFCN_209-6-14	TFCN_209-6-14_TFCN_209-6-14	R. mucilaginosa	1	keep	-	0.000	896283	0.00	0.00	0.35	0.000	1.000	non_diploid	haploid	haploid	haploid	1.096	19156759
+TFCN_209-6-17	TFCN_209-6-17_TFCN_209-6-17	R. mucilaginosa	1	keep	-	0.000	942331	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.679	19141915
+TFCN_209-6-2	TFCN_209-6-2_TFCN_209-6-2	R. mucilaginosa	1	keep	-	0.000	1004061	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.470	19162569
+TFCN_209-6-4	TFCN_209-6-4_TFCN_209-6-4	R. mucilaginosa	1	keep	-	0.000	981820	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.365	19164223
+TFCN_209-6-5	TFCN_209-6-5_TFCN_209-6-5	R. mucilaginosa	1	keep	-	0.000	916844	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.201	19145989
+TFCN_211A-3	TFCN_211A-3_TFCN_211A-3	R. mucilaginosa	1	keep	-	0.000	1040411	0.02	0.03	0.45	0.581	0.065	non_diploid	haploid	haploid	haploid	23.239	19062776
+TFCN_212C-2	TFCN_212C-2_TFCN_212C-2	R. mucilaginosa	1	keep	-	0.000	989990	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.574	19166986
+TFCN_213-6-2	TFCN_213-6-2_TFCN_213-6-2	R. mucilaginosa	1	keep	-	0.000	47905	0.04	0.04	0.45	1.000	0.000	non_diploid	haploid	haploid	haploid	0.580	18980053
+TFCN_213-6-4	TFCN_213-6-4_TFCN_213-6-4	R. mucilaginosa	1	keep	-	0.000	920136	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.627	19153611
+TFCN_223A-8	TFCN_223A-8_TFCN_223A-8	R. mucilaginosa	1	keep	-	0.000	880108	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.418	19158602
+TFCN_22C-4	TFCN_22C-4_TFCN_22C-4	R. mucilaginosa	2	keep	-	0.244	1078117	190.64	215.23	0.45	0.364	0.227	diploid	diploid	diploid	diploid	37243.912	18834971
+TFCN_25-0-2E333-1	TFCN_25-0-2E333-1_TFCN_25-0-2E333-1	R. mucilaginosa	2	keep	-	0.236	1078773	182.25	208.16	0.45	0.345	0.240	diploid	diploid	diploid	diploid	35922.006	19044510
+TFCN_25-0-2E333-5	TFCN_25-0-2E333-5_TFCN_25-0-2E333-5	R. mucilaginosa	1	keep	-	0.000	887297	0.04	0.05	0.45	0.378	0.067	non_diploid	haploid	haploid	haploid	25.665	19013852
+TFCN_25-0-2E333-7	TFCN_25-0-2E333-7_TFCN_25-0-2E333-7	R. mucilaginosa	1	keep	-	0.000	546350	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.767	19237258
+TFCN_25-0-2E333-9	TFCN_25-0-2E333-9_TFCN_25-0-2E333-9	R. mucilaginosa	1	keep	-	0.000	1025049	0.03	0.03	0.45	0.600	0.057	non_diploid	haploid	haploid	haploid	32.098	19035181
+TFCN_25-0-2E334-1	TFCN_25-0-2E334-1_TFCN_25-0-2E334-1	R. mucilaginosa	2	keep	-	0.255	1075646	209.63	226.44	0.45	0.399	0.198	diploid	diploid	diploid	diploid	35402.071	18600550
+TFCN_25-0-2E390-1	TFCN_25-0-2E390-1_TFCN_25-0-2E390-1	R. mucilaginosa	2	keep	-	0.240	1078213	183.26	212.28	0.45	0.338	0.241	diploid	diploid	diploid	diploid	34117.862	18842007
+TFCN_25-325Y-1	TFCN_25-325Y-1_TFCN_25-325Y-1	R. mucilaginosa	1	keep	-	0.000	949499	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.298	19257971
+TFCN_25-327D-1	TFCN_25-327D-1_TFCN_25-327D-1	R. mucilaginosa	1	keep	-	0.000	1059584	0.03	0.04	0.45	0.525	0.025	non_diploid	haploid	haploid	haploid	22.922	19064664
+TFCN_25-331D-1	TFCN_25-331D-1_TFCN_25-331D-1	R. mucilaginosa	2	keep	-	0.235	1078151	177.37	209.24	0.45	0.333	0.238	diploid	diploid	diploid	diploid	27580.560	18844976
+TFCN_25-332C-1	TFCN_25-332C-1_TFCN_25-332C-1	R. mucilaginosa	1	keep	-	0.000	977446	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.626	19160382
+TFCN_25-332D-1	TFCN_25-332D-1_TFCN_25-332D-1	R. mucilaginosa	1	keep	-	0.000	975040	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.835	19171039
+TFCN_25-332D-2	TFCN_25-332D-2_TFCN_25-332D-2	R. mucilaginosa	1	keep	-	0.000	850474	0.00	0.00	0.45	1.000	0.000	non_diploid	too low	haploid	haploid	1.463	19140259
+TFCN_25-332M-1	TFCN_25-332M-1_TFCN_25-332M-1	R. mucilaginosa	1	keep	-	0.000	991086	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.835	19166864
+TFCN_25-332P-2	TFCN_25-332P-2_TFCN_25-332P-2	R. mucilaginosa	1	keep	-	0.000	321420	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.314	19130983
+TFCN_25-332Y-1	TFCN_25-332Y-1_TFCN_25-332Y-1	R. mucilaginosa	1	keep	-	0.000	495753	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.418	19131814
+TFCN_25-333C-2	TFCN_25-333C-2_TFCN_25-333C-2	R. mucilaginosa	1	keep	-	0.000	1053412	0.01	0.02	0.45	0.458	0.000	non_diploid	haploid	haploid	haploid	19.508	19068908
+TFCN_25-333P-2	TFCN_25-333P-2_TFCN_25-333P-2	R. mucilaginosa	1	keep	-	0.000	1007838	0.03	0.04	0.45	0.477	0.045	non_diploid	haploid	haploid	haploid	25.903	19032229
+TFCN_25-333Y-9	TFCN_25-333Y-9_TFCN_25-333Y-9	R. mucilaginosa	1	keep	-	0.000	1046009	0.02	0.03	0.45	0.667	0.030	non_diploid	haploid	haploid	haploid	22.389	19071554
+TFCN_25-334D-3	TFCN_25-334D-3_TFCN_25-334D-3	R. mucilaginosa	1	keep	-	0.000	728961	0.26	0.29	0.45	0.317	0.308	non_diploid	haploid	haploid	haploid	45.660	18703559
+TFCN_25-335Y-1	TFCN_25-335Y-1_TFCN_25-335Y-1	R. mucilaginosa	1	keep	-	0.000	768200	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	2.144	19127500
+TFCN_25-337Y-1	TFCN_25-337Y-1_TFCN_25-337Y-1	R. mucilaginosa	1	keep	-	0.000	999799	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.417	19168205
+TFCN_270H-1	TFCN_270H-1_TFCN_270H-1	R. mucilaginosa	2	keep	-	0.256	1076146	210.03	226.86	0.45	0.381	0.215	diploid	too low	diploid	diploid	36615.485	18614884
+TFCN_270H-2	TFCN_270H-2_TFCN_270H-2	R. mucilaginosa	1	keep	-	0.000	435116	0.11	0.13	0.40	0.228	0.333	non_diploid	haploid	haploid	haploid	25.103	18921922
+TFCN_273H-1	TFCN_273H-1_TFCN_273H-1	R. mucilaginosa	1	keep	-	0.000	1041999	0.02	0.03	0.45	0.407	0.111	non_diploid	haploid	haploid	haploid	36.773	19035625
+TFCN_2M-1-4	TFCN_2M-1-4_TFCN_2M-1-4	R. mucilaginosa	1	keep	-	0.000	979992	0.03	0.04	0.45	0.538	0.026	non_diploid	haploid	haploid	haploid	26.708	19020179
+TFCN_340-1	TFCN_340-1_TFCN_340-1	R. mucilaginosa	1	keep	-	0.000	1054894	0.03	0.04	0.45	0.605	0.079	non_diploid	haploid	haploid	haploid	21.299	19061542
+TFCN_340-3	TFCN_340-3_TFCN_340-3	R. mucilaginosa	1	keep	-	0.000	999288	0.04	0.05	0.45	0.511	0.044	non_diploid	haploid	haploid	haploid	23.149	19050760
+TFCN_342-3	TFCN_342-3_TFCN_342-3	R. mucilaginosa	1	keep	-	0.000	626630	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.261	19140391
+TFCN_404D-1	TFCN_404D-1_TFCN_404D-1	R. mucilaginosa	2	keep	-	0.252	1069761	208.83	226.53	0.45	0.322	0.255	diploid	diploid	diploid	diploid	33523.576	18429836
+TFCN_4M-1-2	TFCN_4M-1-2_TFCN_4M-1-2	R. mucilaginosa	1	keep	-	0.000	993409	0.04	0.05	0.45	0.667	0.104	non_diploid	haploid	haploid	haploid	22.830	19053786
+TFCN_4M-1-3	TFCN_4M-1-3_TFCN_4M-1-3	R. mucilaginosa	1	keep	-	0.000	962854	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.409	19156376
+TFCN_4M-1-4	TFCN_4M-1-4_TFCN_4M-1-4	R. mucilaginosa	1	keep	-	0.000	382962	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.366	19123978
+TFCN_4M-1-5	TFCN_4M-1-5_TFCN_4M-1-5	R. mucilaginosa	1	keep	-	0.000	1001817	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.678	19163201
+TFCN_54D-1	TFCN_54D-1_TFCN_54D-1	R. mucilaginosa	2	keep	-	0.246	1077200	189.75	215.04	0.45	0.360	0.229	diploid	diploid	diploid	diploid	37206.988	18724789
+TFCN_54D-2	TFCN_54D-2_TFCN_54D-2	R. mucilaginosa	1	keep	-	0.000	922701	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.417	19168018
+TFCN_86A-12	TFCN_86A-12_TFCN_86A-12	R. mucilaginosa	1	keep	-	0.000	11627	0.26	0.26	0.45	0.667	0.000	non_diploid	haploid	haploid	haploid	0.535	18706668
+TFCN_86A-3	TFCN_86A-3_TFCN_86A-3	R. mucilaginosa	1	keep	-	0.000	831152	0.00	0.00	0.45	1.000	0.000	non_diploid	haploid	haploid	haploid	1.830	19127628
+TFCN_98A-10	TFCN_98A-10_TFCN_98A-10	R. mucilaginosa	1	keep	-	0.000	1040543	0.03	0.04	0.45	0.659	0.023	non_diploid	haploid	haploid	haploid	24.292	19060022
+TFCN_98A-5	TFCN_98A-5_TFCN_98A-5	R. mucilaginosa	1	keep	-	0.000	895961	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.261	19158769
+TFCN_98C-3	TFCN_98C-3_TFCN_98C-3	R. mucilaginosa	1	keep	-	0.000	653892	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.261	19127866
+TFCN_98C-5	TFCN_98C-5_TFCN_98C-5	R. mucilaginosa	1	keep	-	0.000	932268	0.00	0.00	0.30	0.000	1.000	non_diploid	haploid	haploid	haploid	0.470	19152378
+TFCN_98C-7	TFCN_98C-7_TFCN_98C-7	R. mucilaginosa	1	keep	-	0.000	876773	0.05	0.06	0.45	0.393	0.286	non_diploid	haploid	haploid	haploid	21.402	19016801
+TFCN_98C-8	TFCN_98C-8_TFCN_98C-8	R. mucilaginosa	1	keep	-	0.000	991409	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	1.044	19157274
+TFCN_98D-11	TFCN_98D-11_TFCN_98D-11	R. mucilaginosa	1	keep	-	0.000	275741	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.523	19110712
+TFCN_98D-7	TFCN_98D-7_TFCN_98D-7	R. mucilaginosa	1	keep	-	0.000	938754	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.731	19153973
+TFCN_98D-9	TFCN_98D-9_TFCN_98D-9	R. mucilaginosa	1	keep	-	0.000	429244	0.00	0.00	0.10	0.000	0.000	non_diploid	haploid	haploid	haploid	0.628	19121481

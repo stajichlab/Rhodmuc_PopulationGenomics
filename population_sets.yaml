@@ -6,12 +6,12 @@
 # Ploidy comes from ploidy_overrides.csv, not from this file. 2026-10-03:
 # DBVPG_3239, DBVPG_6094 and TFCN_25-332D-2 changed diploid -> haploid
 # (docs/ploidy_assessment_2026-10-03.md). They stay in rmuc_core.
-# NRRL_Y-2510 has no metadata.txt row but was added after review.
+# Strains kept despite a QC drop reason, after review: variant_qc_reviewed_keep.tsv.
 # Merged strains: TFCN_BY120-C1/C7 -> TFCN_25-0-2E333-9; CCFEE_5036 -> DBVPG_5227.
 # Phenotype-link notes (no group): results/variant_qc/rmuc_pheno_exclusions.tsv.
 # Clonal lineages: results/variant_qc/divergence/clone_groups_1e-3.tsv.
 Populations:
-  # 235 strains
+  # 247 strains
   rmuc_core:
     - CHIFNET_12H1194
     - DBVPG_10619
@@ -34,6 +34,7 @@ Populations:
     - DBVPG_3384
     - DBVPG_3442
     - DBVPG_3443
+    - DBVPG_3538
     - DBVPG_3774
     - DBVPG_3775
     - DBVPG_3776
@@ -50,6 +51,7 @@ Populations:
     - DBVPG_4376
     - DBVPG_4377
     - DBVPG_4378
+    - DBVPG_4379
     - DBVPG_4408
     - DBVPG_4466
     - DBVPG_4618
@@ -171,6 +173,7 @@ Populations:
     - TFCN_122C-2
     - TFCN_130D-4
     - TFCN_137C-3
+    - TFCN_137D-4
     - TFCN_138A-1
     - TFCN_140A-3
     - TFCN_141C-2
@@ -189,6 +192,7 @@ Populations:
     - TFCN_17-332M-2
     - TFCN_17-332P-1
     - TFCN_17-332P-2
+    - TFCN_17-333D-2
     - TFCN_17-334C-1
     - TFCN_17-334P-3
     - TFCN_17-334Y-2
@@ -196,6 +200,7 @@ Populations:
     - TFCN_17-338D-3
     - TFCN_172A-1
     - TFCN_181A-1
+    - TFCN_1A-1-5
     - TFCN_209-6-1
     - TFCN_209-6-11
     - TFCN_209-6-12
@@ -209,6 +214,7 @@ Populations:
     - TFCN_213-6-2
     - TFCN_213-6-4
     - TFCN_223A-8
+    - TFCN_25-0-2E332-1
     - TFCN_25-0-2E333-5
     - TFCN_25-0-2E333-7
     - TFCN_25-0-2E333-9
@@ -218,6 +224,7 @@ Populations:
     - TFCN_25-332D-1
     - TFCN_25-332D-2
     - TFCN_25-332M-1
+    - TFCN_25-332M-2
     - TFCN_25-332P-2
     - TFCN_25-332Y-1
     - TFCN_25-333C-2
@@ -225,13 +232,16 @@ Populations:
     - TFCN_25-333Y-9
     - TFCN_25-334D-3
     - TFCN_25-335Y-1
+    - TFCN_25-337M-3
     - TFCN_25-337Y-1
     - TFCN_270H-2
     - TFCN_273H-1
+    - TFCN_2M-1-3
     - TFCN_2M-1-4
     - TFCN_340-1
     - TFCN_340-3
     - TFCN_342-3
+    - TFCN_363-1-2
     - TFCN_4M-1-2
     - TFCN_4M-1-3
     - TFCN_4M-1-4
@@ -239,6 +249,8 @@ Populations:
     - TFCN_54D-2
     - TFCN_86A-12
     - TFCN_86A-3
+    - TFCN_86C-3
+    - TFCN_89D-3
     - TFCN_98A-10
     - TFCN_98A-5
     - TFCN_98C-3
@@ -248,7 +260,7 @@ Populations:
     - TFCN_98D-11
     - TFCN_98D-7
     - TFCN_98D-9
-  # 252 strains
+  # 264 strains
   rmuc_core_outgroup:
     - CHIFNET_12H1194
     - DBVPG_10619
@@ -271,6 +283,7 @@ Populations:
     - DBVPG_3384
     - DBVPG_3442
     - DBVPG_3443
+    - DBVPG_3538
     - DBVPG_3774
     - DBVPG_3775
     - DBVPG_3776
@@ -287,6 +300,7 @@ Populations:
     - DBVPG_4376
     - DBVPG_4377
     - DBVPG_4378
+    - DBVPG_4379
     - DBVPG_4408
     - DBVPG_4466
     - DBVPG_4534
@@ -419,6 +433,7 @@ Populations:
     - TFCN_130D-4
     - TFCN_134A-3
     - TFCN_137C-3
+    - TFCN_137D-4
     - TFCN_138A-1
     - TFCN_140A-3
     - TFCN_141C-2
@@ -438,6 +453,7 @@ Populations:
     - TFCN_17-332M-2
     - TFCN_17-332P-1
     - TFCN_17-332P-2
+    - TFCN_17-333D-2
     - TFCN_17-334C-1
     - TFCN_17-334P-3
     - TFCN_17-334Y-2
@@ -445,6 +461,7 @@ Populations:
     - TFCN_17-338D-3
     - TFCN_172A-1
     - TFCN_181A-1
+    - TFCN_1A-1-5
     - TFCN_1A-14
     - TFCN_209-6-1
     - TFCN_209-6-11
@@ -459,6 +476,7 @@ Populations:
     - TFCN_213-6-2
     - TFCN_213-6-4
     - TFCN_223A-8
+    - TFCN_25-0-2E332-1
     - TFCN_25-0-2E333-5
     - TFCN_25-0-2E333-7
     - TFCN_25-0-2E333-9
@@ -468,6 +486,7 @@ Populations:
     - TFCN_25-332D-1
     - TFCN_25-332D-2
     - TFCN_25-332M-1
+    - TFCN_25-332M-2
     - TFCN_25-332P-2
     - TFCN_25-332Y-1
     - TFCN_25-333C-2
@@ -477,15 +496,18 @@ Populations:
     - TFCN_25-334D-3
     - TFCN_25-334Y-6
     - TFCN_25-335Y-1
+    - TFCN_25-337M-3
     - TFCN_25-337Y-1
     - TFCN_25-395P-1
     - TFCN_270H-2
     - TFCN_273H-1
+    - TFCN_2M-1-3
     - TFCN_2M-1-4
     - TFCN_33A-4
     - TFCN_340-1
     - TFCN_340-3
     - TFCN_342-3
+    - TFCN_363-1-2
     - TFCN_4M-1-2
     - TFCN_4M-1-3
     - TFCN_4M-1-4
@@ -493,6 +515,8 @@ Populations:
     - TFCN_54D-2
     - TFCN_86A-12
     - TFCN_86A-3
+    - TFCN_86C-3
+    - TFCN_89D-3
     - TFCN_98A-10
     - TFCN_98A-5
     - TFCN_98C-3
@@ -502,7 +526,7 @@ Populations:
     - TFCN_98D-11
     - TFCN_98D-7
     - TFCN_98D-9
-  # 267 strains
+  # 280 strains
   rmuc_with_hybrids:
     - CHIFNET_12H1194
     - DBVPG_10619
@@ -527,6 +551,7 @@ Populations:
     - DBVPG_3442
     - DBVPG_3443
     - DBVPG_3444
+    - DBVPG_3445
     - DBVPG_3446
     - DBVPG_3538
     - DBVPG_3774
@@ -673,6 +698,7 @@ Populations:
     - TFCN_122C-2
     - TFCN_130D-4
     - TFCN_137C-3
+    - TFCN_137D-4
     - TFCN_138A-1
     - TFCN_140A-3
     - TFCN_141C-2
@@ -698,6 +724,8 @@ Populations:
     - TFCN_17-332M-2
     - TFCN_17-332P-1
     - TFCN_17-332P-2
+    - TFCN_17-333D-2
+    - TFCN_17-333M-1
     - TFCN_17-333P-6
     - TFCN_17-334C-1
     - TFCN_17-334D-6
@@ -711,6 +739,8 @@ Populations:
     - TFCN_172A-1
     - TFCN_17Y-278-1
     - TFCN_181A-1
+    - TFCN_186CL-2
+    - TFCN_1A-1-5
     - TFCN_209-6-1
     - TFCN_209-6-11
     - TFCN_209-6-12
@@ -725,6 +755,7 @@ Populations:
     - TFCN_213-6-4
     - TFCN_223A-8
     - TFCN_22C-4
+    - TFCN_25-0-2E332-1
     - TFCN_25-0-2E333-1
     - TFCN_25-0-2E333-5
     - TFCN_25-0-2E333-7
@@ -738,6 +769,7 @@ Populations:
     - TFCN_25-332D-1
     - TFCN_25-332D-2
     - TFCN_25-332M-1
+    - TFCN_25-332M-2
     - TFCN_25-332P-2
     - TFCN_25-332Y-1
     - TFCN_25-333C-2
@@ -745,14 +777,17 @@ Populations:
     - TFCN_25-333Y-9
     - TFCN_25-334D-3
     - TFCN_25-335Y-1
+    - TFCN_25-337M-3
     - TFCN_25-337Y-1
     - TFCN_270H-1
     - TFCN_270H-2
     - TFCN_273H-1
+    - TFCN_2M-1-3
     - TFCN_2M-1-4
     - TFCN_340-1
     - TFCN_340-3
     - TFCN_342-3
+    - TFCN_363-1-2
     - TFCN_404D-1
     - TFCN_4M-1-2
     - TFCN_4M-1-3
@@ -762,6 +797,8 @@ Populations:
     - TFCN_54D-2
     - TFCN_86A-12
     - TFCN_86A-3
+    - TFCN_86C-3
+    - TFCN_89D-3
     - TFCN_98A-10
     - TFCN_98A-5
     - TFCN_98C-3
@@ -771,17 +808,16 @@ Populations:
     - TFCN_98D-11
     - TFCN_98D-7
     - TFCN_98D-9
-  # 32 strains
+  # 33 strains
   hybrid_diploids:
     - DBVPG_3045
     - DBVPG_3444
+    - DBVPG_3445
     - DBVPG_3446
-    - DBVPG_3538
     - DBVPG_3854
     - DBVPG_3855
     - DBVPG_3856
     - DBVPG_3857
-    - DBVPG_4379
     - DBVPG_4952
     - DBVPG_6649
     - TFCN_152A-1
@@ -791,12 +827,14 @@ Populations:
     - TFCN_17-0-2E390-2
     - TFCN_17-267M-1
     - TFCN_17-291Y-1
+    - TFCN_17-333M-1
     - TFCN_17-333P-6
     - TFCN_17-334D-6
     - TFCN_17-334Y-5
     - TFCN_17-337P-5
     - TFCN_17-390M-1
     - TFCN_17Y-278-1
+    - TFCN_186CL-2
     - TFCN_22C-4
     - TFCN_25-0-2E333-1
     - TFCN_25-0-2E334-1
