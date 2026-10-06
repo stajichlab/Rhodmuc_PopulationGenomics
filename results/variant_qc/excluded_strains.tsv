@@ -1,50 +1,44 @@
-strain	vcf_sample	species	override_ploidy	called_ploidy	frac_lowq_gt	frac_gq_lt20	frac_dp_lt5	frac_nonref	het_rate	het_AB_extreme	hap_alt_mixed_reads	hap_alt_calls	decision	reasons
-TFCN_137D-4	TFCN_137D-4_TFCN_137D-4	R. mucilaginosa	haploid	1	0.862	0.002	0.862	0.000	0.000	0.000	0.195	844	drop	low_coverage
-TFCN_17-333D-2	TFCN_17-333D-2_TFCN_17-333D-2	R. mucilaginosa	haploid	1	0.529	0.002	0.529	0.000	0.000	0.000	0.066	818	drop	low_coverage
-TFCN_25-0-2E332-1	TFCN_25-0-2E332-1_TFCN_25-0-2E332-1	R. mucilaginosa	haploid	1	0.563	0.003	0.563	0.000	0.000	0.000	0.072	707	drop	low_coverage
-TFCN_25-337M-3	TFCN_25-337M-3_TFCN_25-337M-3	R. mucilaginosa	haploid	1	0.830	0.002	0.830	0.000	0.000	0.000	0.142	766	drop	low_coverage
-TFCN_363-1-2	TFCN_363-1-2_TFCN_363-1-2	R. mucilaginosa	haploid	1	0.557	0.004	0.557	0.013	0.000	0.000	0.005	67488	drop	low_coverage
-TFCN_89D-3	TFCN_89D-3_TFCN_89D-3	R. mucilaginosa	haploid	1	0.545	0.004	0.545	0.013	0.000	0.000	0.005	67743	drop	low_coverage
-EXF_10854	EXF_10854_EXF_10854	NA	haploid	1	0.127	0.127	0.085	0.257	0.000	0.000	0.002	1313474	drop	no_metadata
-EXF_17335	EXF_17335_EXF_17335	NA	haploid	1	0.115	0.115	0.067	0.259	0.000	0.000	0.005	1325585	drop	no_metadata
-NRRL_Y-2510	NRRL_Y-2510_NRRL_Y-2510	NA	haploid	1	0.024	0.013	0.024	0.042	0.000	0.000	0.004	214063	drop	no_metadata
-TFCN_17-333M-1	TFCN_17-333M-1_TFCN_17-333M-1	NA	diploid	2	0.120	0.120	0.009	0.270	0.251	0.076	0.000	0	drop	no_metadata
-TFCN_186CL-2	TFCN_186CL-2_TFCN_186CL-2	NA	diploid	2	0.116	0.116	0.011	0.282	0.254	0.073	0.000	0	drop	no_metadata
-TFCN_1A-1-5	TFCN_1A-1-5_TFCN_1A-1-5	NA	haploid	1	0.109	0.002	0.109	0.000	0.000	0.000	0.072	842	drop	no_metadata
-TFCN_25-332M-2	TFCN_25-332M-2_TFCN_25-332M-2	NA	haploid	1	0.130	0.002	0.130	0.000	0.000	0.000	0.087	722	drop	no_metadata
-TFCN_2M-1-3	TFCN_2M-1-3_TFCN_2M-1-3	NA	haploid	1	0.078	0.005	0.078	0.013	0.000	0.000	0.005	67522	drop	no_metadata
-TFCN_86C-3	TFCN_86C-3_TFCN_86C-3	NA	haploid	1	0.108	0.002	0.108	0.000	0.000	0.000	0.115	740	drop	no_metadata
-EXF_10533	EXF_10533_EXF_10533	NA	haploid	1	0.863	0.863	0.855	0.039	0.000	0.000	0.004	197867	drop	no_metadata,low_coverage
-EXF_10630	EXF_10630_EXF_10630	NA	diploid	2	0.935	0.935	0.832	0.039	0.001	0.328	0.000	0	drop	no_metadata,low_coverage
-EXF_12265	EXF_12265_EXF_12265	NA	diploid	2	0.935	0.935	0.837	0.039	0.001	0.373	0.000	0	drop	no_metadata,low_coverage
-EXF_13500	EXF_13500_EXF_13500	NA	haploid	1	0.591	0.591	0.509	0.149	0.000	0.000	0.002	764779	drop	no_metadata,low_coverage
-EXF_14606	EXF_14606_EXF_14606	NA	diploid	2	0.945	0.945	0.840	0.038	0.008	0.097	0.000	0	drop	no_metadata,low_coverage
-TFCN_152A-3	TFCN_152A-3_TFCN_152A-3	NA	diploid	2	0.953	0.953	0.899	0.039	0.000	0.302	0.000	0	drop	no_metadata,low_coverage
-TFCN_211C-2	TFCN_211C-2_TFCN_211C-2	NA	diploid	2	0.936	0.936	0.838	0.038	0.001	0.383	0.000	0	drop	no_metadata,low_coverage
-TFCN_7-6-3	TFCN_7-6-3_TFCN_7-6-3	NA	diploid	2	0.933	0.933	0.847	0.042	0.002	0.156	0.000	0	drop	no_metadata,low_coverage
-TFCN_86A-5	TFCN_86A-5_TFCN_86A-5	NA	haploid	1	0.778	0.778	0.722	0.076	0.000	0.000	0.003	391294	drop	no_metadata,low_coverage
-EXF_5668	EXF_5668_EXF_5668	NA	diploid	2	0.203	0.203	0.059	0.386	0.234	0.450	0.000	0	drop	no_metadata,ploidy_skewed
-CHIFNET_14NJ214	CHIFNET_14NJ214_CHIFNET_14NJ214	R. frigidialcoholis	diploid	2	0.112	0.112	0.010	0.271	0.248	0.058	0.000	0	drop	other_species
-DBVPG_4380	DBVPG_4380_DBVPG_4380	R. aff. mucilaginosa	diploid	2	0.269	0.269	0.104	0.340	0.152	0.097	0.000	0	drop	other_species
-DBVPG_4534	DBVPG_4534_DBVPG_4534	R. aff. mucilaginosa	haploid	1	0.167	0.167	0.080	0.267	0.000	0.000	0.003	1367143	drop	other_species
-DBVPG_6660	DBVPG_6660_DBVPG_6660	R. frigidialcoholis	haploid	1	0.111	0.111	0.053	0.259	0.000	0.000	0.004	1327581	drop	other_species
-DBVPG_8043	DBVPG_8043_DBVPG_8043	R. aff. mucilaginosa	haploid	1	0.169	0.169	0.082	0.265	0.000	0.000	0.002	1359183	drop	other_species
-EXF_13250	EXF_13250_EXF_13250	R. frigidialcoholis	haploid	1	0.112	0.112	0.058	0.259	0.000	0.000	0.004	1324160	drop	other_species
-EXF_13255	EXF_13255_EXF_13255	R. frigidialcoholis	haploid	1	0.111	0.111	0.056	0.259	0.000	0.000	0.004	1326876	drop	other_species
-EXF_13601	EXF_13601_EXF_13601	R. frigidialcoholis	haploid	1	0.110	0.110	0.054	0.259	0.000	0.000	0.004	1327299	drop	other_species
-EXF_3629	EXF_3629_EXF_3629	R. frigidialcoholis	haploid	1	0.107	0.107	0.052	0.260	0.000	0.000	0.005	1328622	drop	other_species
-EXF_3633	EXF_3633_EXF_3633	R. frigidialcoholis	haploid	1	0.110	0.110	0.053	0.259	0.000	0.000	0.004	1327719	drop	other_species
-EXF_5666	EXF_5666_EXF_5666	R. aff. mucilaginosa	haploid	1	0.167	0.167	0.084	0.266	0.000	0.000	0.003	1362657	drop	other_species
-EXF_7386	EXF_7386_EXF_7386	R. frigidialcoholis	haploid	1	0.111	0.111	0.055	0.259	0.000	0.000	0.004	1328316	drop	other_species
-TFCN_134A-3	TFCN_134A-3_TFCN_134A-3	R. frigidialcoholis	haploid	1	0.111	0.111	0.055	0.260	0.000	0.000	0.004	1330730	drop	other_species
-TFCN_17-332M-1	TFCN_17-332M-1_TFCN_17-332M-1	R. frigidialcoholis	haploid	1	0.117	0.117	0.069	0.257	0.000	0.000	0.005	1316739	drop	other_species
-TFCN_1A-14	TFCN_1A-14_TFCN_1A-14	R. frigidialcoholis	haploid	1	0.111	0.111	0.045	0.259	0.000	0.000	0.005	1323466	drop	other_species
-TFCN_25-333Y-10	TFCN_25-333Y-10_TFCN_25-333Y-10	R. aff. mucilaginosa	haploid	1	0.172	0.172	0.097	0.265	0.000	0.000	0.003	1357973	drop	other_species
-TFCN_25-334Y-6	TFCN_25-334Y-6_TFCN_25-334Y-6	R. aff. mucilaginosa	haploid	1	0.173	0.173	0.067	0.258	0.000	0.000	0.004	1318356	drop	other_species
-TFCN_25-395P-1	TFCN_25-395P-1_TFCN_25-395P-1	R. aff. mucilaginosa	haploid	1	0.168	0.168	0.073	0.265	0.000	0.000	0.003	1358634	drop	other_species
-TFCN_33A-4	TFCN_33A-4_TFCN_33A-4	R. aff. mucilaginosa	haploid	1	0.143	0.143	0.067	0.267	0.000	0.000	0.007	1368471	drop	other_species
-TFCN_3M-1-1	TFCN_3M-1-1_TFCN_3M-1-1	R. frigidialcoholis	diploid	2	0.128	0.128	0.006	0.263	0.212	0.784	0.000	0	drop	other_species,ploidy_skewed
-EXF_12768	EXF_12768_EXF_12768	R. mucilaginosa	haploid	1	0.049	0.002	0.049	0.001	0.000	0.000	0.912	5940	drop	ploidy_mixed
-EXF_7934	EXF_7934_EXF_7934	R. mucilaginosa	haploid	1	0.169	0.000	0.169	0.000	0.000	0.000	0.472	498	drop	ploidy_mixed
-EXF_8891	EXF_8891_EXF_8891	R. mucilaginosa	haploid	1	0.117	0.001	0.117	0.000	0.000	0.000	0.312	772	drop	ploidy_mixed
-EXF_9051	EXF_9051_EXF_9051	R. mucilaginosa	haploid	1	0.137	0.001	0.137	0.000	0.000	0.000	0.324	584	drop	ploidy_mixed
+strain	vcf_sample	species	override_ploidy	called_ploidy	frac_lowq_gt	frac_gq_lt20	frac_dp_lt5	frac_nonref	het_rate	het_AB_extreme	hap_alt_mixed_reads	hap_alt_calls	mosdepth_mean	genome_ge5x	decision	reasons
+EXF_10854	EXF_10854_EXF_10854	NA	haploid	1	0.127	0.127	0.085	0.257	0.000	0.000	0.002	1313474	21.32	0.710	drop	no_metadata
+EXF_17335	EXF_17335_EXF_17335	NA	haploid	1	0.115	0.115	0.067	0.259	0.000	0.000	0.005	1325585	24.79	0.730	drop	no_metadata
+NRRL_Y-2510	NRRL_Y-2510_NRRL_Y-2510	NA	haploid	1	0.024	0.013	0.024	0.042	0.000	0.000	0.004	214063	44.92	0.950	drop	no_metadata
+TFCN_17-333M-1	TFCN_17-333M-1_TFCN_17-333M-1	NA	diploid	2	0.120	0.120	0.009	0.270	0.251	0.076	0.000	0	37.70	0.960	drop	no_metadata
+TFCN_186CL-2	TFCN_186CL-2_TFCN_186CL-2	NA	diploid	2	0.116	0.116	0.011	0.282	0.254	0.073	0.000	0	35.25	0.950	drop	no_metadata
+TFCN_1A-1-5	TFCN_1A-1-5_TFCN_1A-1-5	NA	haploid	1	0.109	0.002	0.109	0.000	0.000	0.000	0.072	842	34.57	0.980	drop	no_metadata
+TFCN_25-332M-2	TFCN_25-332M-2_TFCN_25-332M-2	NA	haploid	1	0.130	0.002	0.130	0.000	0.000	0.000	0.087	722	37.10	0.980	drop	no_metadata
+TFCN_2M-1-3	TFCN_2M-1-3_TFCN_2M-1-3	NA	haploid	1	0.078	0.005	0.078	0.013	0.000	0.000	0.005	67522	34.74	0.980	drop	no_metadata
+TFCN_86C-3	TFCN_86C-3_TFCN_86C-3	NA	haploid	1	0.108	0.002	0.108	0.000	0.000	0.000	0.115	740	34.03	0.980	drop	no_metadata
+EXF_10533	EXF_10533_EXF_10533	NA	haploid	1	0.863	0.863	0.855	0.039	0.000	0.000	0.004	197867	2.16	0.080	drop	no_metadata,low_coverage
+EXF_10630	EXF_10630_EXF_10630	NA	diploid	2	0.935	0.935	0.832	0.039	0.001	0.328	0.000	0	3.27	0.100	drop	no_metadata,low_coverage
+EXF_12265	EXF_12265_EXF_12265	NA	diploid	2	0.935	0.935	0.837	0.039	0.001	0.373	0.000	0	2.58	0.100	drop	no_metadata,low_coverage
+EXF_13500	EXF_13500_EXF_13500	NA	haploid	1	0.591	0.591	0.509	0.149	0.000	0.000	0.002	764779	9.17	0.290	drop	no_metadata,low_coverage
+EXF_14606	EXF_14606_EXF_14606	NA	diploid	2	0.945	0.945	0.840	0.038	0.008	0.097	0.000	0	2.81	0.110	drop	no_metadata,low_coverage
+TFCN_152A-3	TFCN_152A-3_TFCN_152A-3	NA	diploid	2	0.953	0.953	0.899	0.039	0.000	0.302	0.000	0	1.16	0.070	drop	no_metadata,low_coverage
+TFCN_211C-2	TFCN_211C-2_TFCN_211C-2	NA	diploid	2	0.936	0.936	0.838	0.038	0.001	0.383	0.000	0	2.71	0.100	drop	no_metadata,low_coverage
+TFCN_7-6-3	TFCN_7-6-3_TFCN_7-6-3	NA	diploid	2	0.933	0.933	0.847	0.042	0.002	0.156	0.000	0	2.69	0.090	drop	no_metadata,low_coverage
+TFCN_86A-5	TFCN_86A-5_TFCN_86A-5	NA	haploid	1	0.778	0.778	0.722	0.076	0.000	0.000	0.003	391294	5.25	0.160	drop	no_metadata,low_coverage
+EXF_5668	EXF_5668_EXF_5668	NA	diploid	2	0.203	0.203	0.059	0.386	0.234	0.450	0.000	0	28.92	0.760	drop	no_metadata,ploidy_skewed
+CHIFNET_14NJ214	CHIFNET_14NJ214_CHIFNET_14NJ214	R. frigidialcoholis	diploid	2	0.112	0.112	0.010	0.271	0.248	0.058	0.000	0	23.35	0.960	drop	other_species
+DBVPG_4380	DBVPG_4380_DBVPG_4380	R. aff. mucilaginosa	diploid	2	0.269	0.269	0.104	0.340	0.152	0.097	0.000	0	17.37	0.670	drop	other_species
+DBVPG_4534	DBVPG_4534_DBVPG_4534	R. aff. mucilaginosa	haploid	1	0.167	0.167	0.080	0.267	0.000	0.000	0.003	1367143	45.12	0.670	drop	other_species
+DBVPG_6660	DBVPG_6660_DBVPG_6660	R. frigidialcoholis	haploid	1	0.111	0.111	0.053	0.259	0.000	0.000	0.004	1327581	36.18	0.740	drop	other_species
+DBVPG_8043	DBVPG_8043_DBVPG_8043	R. aff. mucilaginosa	haploid	1	0.169	0.169	0.082	0.265	0.000	0.000	0.002	1359183	37.48	0.670	drop	other_species
+EXF_13250	EXF_13250_EXF_13250	R. frigidialcoholis	haploid	1	0.112	0.112	0.058	0.259	0.000	0.000	0.004	1324160	32.66	0.730	drop	other_species
+EXF_13255	EXF_13255_EXF_13255	R. frigidialcoholis	haploid	1	0.111	0.111	0.056	0.259	0.000	0.000	0.004	1326876	36.76	0.730	drop	other_species
+EXF_13601	EXF_13601_EXF_13601	R. frigidialcoholis	haploid	1	0.110	0.110	0.054	0.259	0.000	0.000	0.004	1327299	33.19	0.740	drop	other_species
+EXF_3629	EXF_3629_EXF_3629	R. frigidialcoholis	haploid	1	0.107	0.107	0.052	0.260	0.000	0.000	0.005	1328622	38.84	0.740	drop	other_species
+EXF_3633	EXF_3633_EXF_3633	R. frigidialcoholis	haploid	1	0.110	0.110	0.053	0.259	0.000	0.000	0.004	1327719	34.51	0.740	drop	other_species
+EXF_5666	EXF_5666_EXF_5666	R. aff. mucilaginosa	haploid	1	0.167	0.167	0.084	0.266	0.000	0.000	0.003	1362657	34.23	0.670	drop	other_species
+EXF_7386	EXF_7386_EXF_7386	R. frigidialcoholis	haploid	1	0.111	0.111	0.055	0.259	0.000	0.000	0.004	1328316	34.53	0.730	drop	other_species
+TFCN_134A-3	TFCN_134A-3_TFCN_134A-3	R. frigidialcoholis	haploid	1	0.111	0.111	0.055	0.260	0.000	0.000	0.004	1330730	34.38	0.730	drop	other_species
+TFCN_17-332M-1	TFCN_17-332M-1_TFCN_17-332M-1	R. frigidialcoholis	haploid	1	0.117	0.117	0.069	0.257	0.000	0.000	0.005	1316739	35.83	0.730	drop	other_species
+TFCN_1A-14	TFCN_1A-14_TFCN_1A-14	R. frigidialcoholis	haploid	1	0.111	0.111	0.045	0.259	0.000	0.000	0.005	1323466	281.58	0.760	drop	other_species
+TFCN_25-333Y-10	TFCN_25-333Y-10_TFCN_25-333Y-10	R. aff. mucilaginosa	haploid	1	0.172	0.172	0.097	0.265	0.000	0.000	0.003	1357973	23.54	0.660	drop	other_species
+TFCN_25-334Y-6	TFCN_25-334Y-6_TFCN_25-334Y-6	R. aff. mucilaginosa	haploid	1	0.173	0.173	0.067	0.258	0.000	0.000	0.004	1318356	419.53	0.700	drop	other_species
+TFCN_25-395P-1	TFCN_25-395P-1_TFCN_25-395P-1	R. aff. mucilaginosa	haploid	1	0.168	0.168	0.073	0.265	0.000	0.000	0.003	1358634	237.63	0.690	drop	other_species
+TFCN_33A-4	TFCN_33A-4_TFCN_33A-4	R. aff. mucilaginosa	haploid	1	0.143	0.143	0.067	0.267	0.000	0.000	0.007	1368471	183.94	0.700	drop	other_species
+TFCN_3M-1-1	TFCN_3M-1-1_TFCN_3M-1-1	R. frigidialcoholis	diploid	2	0.128	0.128	0.006	0.263	0.212	0.784	0.000	0	99.39	0.960	drop	other_species,ploidy_skewed
+EXF_12768	EXF_12768_EXF_12768	R. mucilaginosa	haploid	1	0.049	0.002	0.049	0.001	0.000	0.000	0.912	5940	69.38	0.980	drop	ploidy_mixed
+EXF_7934	EXF_7934_EXF_7934	R. mucilaginosa	haploid	1	0.169	0.000	0.169	0.000	0.000	0.000	0.472	498	50.12	0.990	drop	ploidy_mixed
+EXF_8891	EXF_8891_EXF_8891	R. mucilaginosa	haploid	1	0.117	0.001	0.117	0.000	0.000	0.000	0.312	772	66.15	0.980	drop	ploidy_mixed
+EXF_9051	EXF_9051_EXF_9051	R. mucilaginosa	haploid	1	0.137	0.001	0.137	0.000	0.000	0.000	0.324	584	54.86	0.980	drop	ploidy_mixed

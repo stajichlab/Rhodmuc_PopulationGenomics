@@ -63,5 +63,12 @@ Evidence from run 29409304 (`rmuc_core`, 247 strains):
 
 - **All group VCFs change.** VARIANT_QC_FILTER, SnpEff, SNP alignment and IQ-TREE rerun for every group. The `all` callset (HaplotypeCaller → HARDFILTER) is reused.
 - **Expected effect:** fewer missing genotypes and more tree sites. I have not measured the new numbers yet. Check them after the rerun.
-- **Not changed:** the strain-QC `low_coverage` rule (`strain_qc.tsv`) uses the same VCF DP and has the same artifact. The 6 strains stay rescued in `variant_qc_reviewed_keep.tsv`. A change to that rule is still open.
+- **Strain-QC `low_coverage` rule: changed (user decision, 2026-10-05).**
+  - Old rule: more than 50 % of called genotypes have GQ < 20 or DP < 5. The DP part has the same artifact.
+  - New rule (`scripts/variant_qc/strain_qc_table.py`): less than 50 % of the genome at ≥ 5× read depth, or more than 50 % of called genotypes with GQ < 20.
+  - Read depth comes from mosdepth (`-Q 20 --fast-mode`) on the current CRAMs: `scripts/variant_qc/mosdepth_all.sh` → `results/variant_qc/coverage/`, summarised by `mosdepth_summary.py` into `results/variant_qc/coverage.tsv`.
+  - `strain_qc.tsv` gains the columns `mosdepth_mean` and `genome_ge5x`.
+  - Effect: only the 6 rescued strains change, from drop to keep. They have 16.1–27.2× mean depth and 97–98 % of the genome at ≥ 5×. All other decisions are unchanged: 273 keep, 43 drop.
+  - The 9 `no_metadata,low_coverage` strains are still dropped. They are other species: 1–9× on this reference, 7–29 % of the genome at ≥ 5×.
+  - The 6 strains were removed from `variant_qc_reviewed_keep.tsv`, which now lists 7 strains. `population_sets.yaml` is unchanged.
 - **New, untested observation:** TFCN_137D-4 (3 ALT calls) and TFCN_17-333D-2 (15 ALT calls) are almost identical to the reference DH4148 on the chromosome tested. They may be clones of DH4148, or mislabelled reference DNA. Check this before they are used as independent isolates. TFCN_25-337M-3 was not checked.
