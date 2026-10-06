@@ -7,6 +7,11 @@ Groups (strain names, as in metadata.txt):
   rmuc_core_outgroup  rmuc_core + haploid R. frigidialcoholis and R. aff. mucilaginosa (tree rooting)
   rmuc_with_hybrids   all kept R. mucilaginosa strains (rmuc_core + hybrid diploids)
   hybrid_diploids     kept diploids with het rate >= 0.1 (see hybrid_check.CM179498.tsv)
+  rmuc_core_declone   rmuc_core with one strain per near-identical group (<= 5 SNP
+                      differences, single linkage; scripts/variant_qc/declone.sh on the
+                      rmuc_core .qc VCF). Representative = fewest missing genotypes.
+                      Rerun declone.sh after rmuc_core changes; the script stops if the
+                      representative list is not a subset of rmuc_core.
 The pipeline builds `all` itself from every genotyped strain.
 No phenotype-linked group is built here (user decision 2026-10-04). Strains are
 dropped for association work in the phenotype project. This script still writes
@@ -61,8 +66,13 @@ with open("results/variant_qc/rmuc_pheno_exclusions.tsv", "w") as o:
     o.write("strain	reason\n")
     for x, why in pheno_excl:
         o.write(f"{x}\t{why}\n")
+DECLONE = "results/variant_qc/declone/rmuc_core.representatives_le5.txt"
+declone = sorted(l.strip() for l in open(DECLONE) if l.strip())
+assert set(declone) <= set(core), ("declone list not a subset of rmuc_core; rerun declone.sh",
+                                   sorted(set(declone) - set(core)))
 groups = {
     "rmuc_core": sorted(core),
+    "rmuc_core_declone": declone,
     "rmuc_core_outgroup": sorted(core + outg),
     "rmuc_with_hybrids": sorted(r["strain"] for r in kept),
     "hybrid_diploids": sorted(hyb_names),
@@ -80,6 +90,7 @@ with open("population_sets.yaml", "w") as o:
             "# Merged strains: TFCN_BY120-C1/C7 -> TFCN_25-0-2E333-9; CCFEE_5036 -> DBVPG_5227.\n"
             "# Phenotype-link notes (no group): results/variant_qc/rmuc_pheno_exclusions.tsv.\n"
             "# Clonal lineages: results/variant_qc/divergence/clone_groups_1e-3.tsv.\n"
+            "# rmuc_core_declone: one strain per <= 5-SNP group, results/variant_qc/declone/rmuc_core.groups_le5.tsv.\n"
             "Populations:\n")
     for g, s in groups.items():
         o.write(f"  # {len(s)} strains\n  {g}:\n" + "".join(f"    - {x}\n" for x in s))

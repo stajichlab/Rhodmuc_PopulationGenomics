@@ -86,8 +86,69 @@ All TFCN strains in these clusters are listed as China, marsh/tidal flat, except
 | TFCN_25-0-2E332-1 | 498 | 182 | 3 | TFCN_25-332C-1 (7) | 0 | 466 |
 | TFCN_86C-3 | 489 | 181 | 0 | DBVPG_6742 (0) | 2 | 463 |
 
+## TFCN_86C-3: what to check in the lab
+
+**Evidence**
+
+| Strain | Library / run | Metadata |
+|---|---|---|
+| TFCN_86C-3 | one library only: 9003_027, run 222L7FLNX (the 9003 batch) | none in the strain DB; template filled from sibling isolates: China, Guangxi, tidal flat |
+| DBVPG_6742 | 23263Sta_DBVPG6742_S189, run 23263Sta | Italy |
+| DBVPG_4304 | 23263Sta_DBVPG4304_S97, run 23263Sta | Italy |
+
+- TFCN_86C-3 differs from DBVPG_6742 at 0 SNPs and from DBVPG_4304 at ≤ 1 SNP. The two DBVPG libraries come from a different run, and they match each other as closely.
+- The 3 strains differ from every other strain in the callset at ≥ 307 SNPs.
+- The library-identity check of 2026-10-03 (`results/variant_qc/library_identity_2026-10-03.tsv`) already listed DBVPG_4304 as the next-best match of the 9003_027 library, at the same distance as its own strain (0.0001).
+- The same 9003 batch has other libraries that match a strain other than their label: DBVPG_3445, DBVPG_3538, DBVPG_6649, TFCN_2M-1-3 and TFCN_102D-1 (see `docs/straindb_fixes_proposal_2026-10-04.md`). A mix-up in that batch is therefore possible.
+- The sequence data cannot separate "9003_027 contains DBVPG_6742/4304 DNA" from "TFCN_86C-3 is a true member of the same clone found in China and Italy". There is no second, independent TFCN_86C-3 library.
+
+**Suggested check**
+
+1. Take TFCN_86C-3 from the original TFCN stock, not the 9003 DNA.
+2. Genotype 2–3 of the 198 diagnostic SNPs in `results/variant_qc/nearref/NR06_diagnostic_snps.tsv`. At these sites the 3 strains share an allele that none of the other 244 called rmuc_core strains has.
+   - Original stock carries the NR06 alleles → it is the same clone as the two DBVPG strains, and the library is correct.
+   - It does not → the 9003_027 library is not TFCN_86C-3. Exclude it, as for the other mismatched 9003 libraries.
+3. Until then, TFCN_86C-3 stays in rmuc_core (rescued, `variant_qc_reviewed_keep.tsv`). In the de-cloned set it falls in the same near-identical group as DBVPG_6742 and DBVPG_4304, so only one of the 3 is used there.
+
+## De-cloned group `rmuc_core_declone` (user decision 2026-10-06: build it)
+
+`scripts/variant_qc/declone.sh` (SLURM job 29533133) compares all 247 rmuc_core strains, not only the near-reference set.
+- **Input:** the rmuc_core `.qc` VCF from run 29429262, SNPs only: 435,261 sites. There is no MAF filter, so private SNPs count.
+- **Comparison:** every pair was compared at ≥ 421,677 sites.
+- **Groups:** single linkage at ≤ 5 SNP differences gives 12 near-identical groups holding 56 strains (`results/variant_qc/declone/rmuc_core.groups_le5.tsv`). All of them are inside CG001. Outside CG001, no pair is ≤ 5 SNPs apart.
+- **Representative per group:** the strain with the fewest missing genotypes; ties go to the higher mosdepth depth.
+- **Result:** 203 strains (`rmuc_core.representatives_le5.txt`). `make_population_sets.py` writes them as `rmuc_core_declone`. The other 4 groups are unchanged.
+
+| Group | n | max within | min to outside | Strains (* = representative) |
+|---|---|---|---|---|
+| NI001 | 13 | 12 | 6 | TFCN_152A-5, 17-332C-1, 17-332C-2, 17-332D-1, 17-332P-1, 17-332P-2, 25-332C-1, 25-332D-2, 25-332M-1*, 25-332M-2, 25-332Y-1, 25-335Y-1, 25-337M-3 |
+| NI002 | 8 | 9 | 239 | TFCN_102C-1, 102D-2, 17-325D-2, 17-325D-4, 17-325P-1, 17-338D-3, 25-0-2E333-7, 25-325Y-1* |
+| NI003 | 8 | 4 | 11 | TFCN_209-6-1, -2, -4*, -5, -11, -12, -14, -17 |
+| NI004 | 6 | 7 | 10 | TFCN_137D-4, 17-334Y-2*, 212C-2, 213-6-2, 213-6-4, 86A-12 |
+| NI005 | 4 | 2 | 68 | EXF_3417*, EXF_3544, EXF_3569, EXF_3612 |
+| NI006 | 3 | 1 | 309 | DBVPG_4304*, DBVPG_6742, TFCN_86C-3 |
+| NI007 | 3 | 1 | 7 | TFCN_152A-12, 17-333D-2, 54D-2* |
+| NI008 | 3 | 6 | 6 | TFCN_4M-1-3*, 4M-1-4, 86A-3 |
+| NI009 | 2 | 2 | 375 | DBVPG_6741, DBVPG_7019* |
+| NI010 | 2 | 1 | 244 | EXF_13260, EXF_13261* |
+| NI011 | 2 | 5 | 249 | EXF_1565, EXF_1676* |
+| NI012 | 2 | 1 | 308 | TFCN_17-334C-1, TFCN_342-3* |
+
+**The cutoff is a choice, not a gap in the data.** Representatives at other cutoffs:
+
+| Cutoff (SNPs) | Groups | Strains grouped | Representatives |
+|---|---|---|---|
+| ≤ 2 | 13 | 42 | 218 |
+| ≤ 5 | 12 | 56 | 203 |
+| ≤ 10 | 17 | 74 | 190 |
+| ≤ 20 | 18 | 91 | 174 |
+| ≤ 50 | 23 | 110 | 160 |
+
+The pair counts rise smoothly: 7 pairs at 0 SNPs, 52 at ≤ 2, 113 at ≤ 5, 209 at ≤ 10. NI001 and NI008 lie 6 SNPs from their nearest outside strain. To use another cutoff, run `sbatch scripts/variant_qc/declone.sh N`, change `DECLONE` in `make_population_sets.py`, and rerun the pipeline.
+
+**Trees and CG001.** The strain trees use the MAF ≥ 0.05 SNP set. Private and rare SNPs, which separate members of CG001, are not in it. In the tree figures CG001 is therefore a near-flat comb, and the members of one near-identical group are not always placed next to each other. The trees do not resolve structure inside CG001.
+
 ## Open decisions (not acted on)
 
-- **Duplicate isolates:** keep one strain per ≤ 5-SNP cluster in population-genetic analyses? The clone groups at d < 0.001 (`clone_groups_1e-3.tsv`) are much coarser: CG001 holds all 120 strains.
 - **TFCN_86C-3:** check the tube or library against DBVPG_6742 and DBVPG_4304.
 - **EXF_7934:** 2 SNPs from DH4148 outside the lineage-wide sites. Does the strain history of DH4148 link it to EXF_7934? I have no data on that.
