@@ -8,6 +8,7 @@
    - Each strain in the near-reference set has 188–810 SNPs that differ from the reference.
    - 188 of those sites are shared by the whole set. Almost every other strain in the callset also carries the ALT allele there, so the reference has an allele that no other strain has. These sites are DH4148-specific mutations or errors in the assembly; the data cannot tell which.
    - After those 188 sites are excluded, the strain closest to DH4148 is **EXF_7934** (Sweden, kitchen sink): 2 SNPs. The next closest is EXF_9051 with 83, and the median is 313.
+   - **Correction (2026-10-06):** EXF_7934 and EXF_9051 are likely mixed cultures (`docs/strain_identity_issues_2026-10-06.md`, section D). Their mixed ALT calls were masked here, so their low counts are not reliable. Excluding them, the next closest is EXF_2251 with 89.
    - My earlier note ("TFCN_137D-4 has 3 ALT calls; maybe a clone of DH4148") was wrong. That count used only the `rmuc_core` MAF ≥ 0.05 SNP sites on one chromosome. Genome-wide, TFCN_137D-4 has 536 ALT SNPs, and 357 of them are not shared by the whole set.
 2. **Most strains in the set are distinct from each other.**
    - The median pairwise difference is about 470 SNPs.
@@ -151,4 +152,4 @@ The pair counts rise smoothly: 7 pairs at 0 SNPs, 52 at ≤ 2, 113 at ≤ 5, 209
 ## Open decisions (not acted on)
 
 - **TFCN_86C-3:** check the tube or library against DBVPG_6742 and DBVPG_4304.
-- **EXF_7934:** 2 SNPs from DH4148 outside the lineage-wide sites. Does the strain history of DH4148 link it to EXF_7934? I have no data on that.
+- **EXF_7934:** withdrawn. It is a likely mixed culture (see the correction above).
