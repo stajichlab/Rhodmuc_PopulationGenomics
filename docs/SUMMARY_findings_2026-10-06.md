@@ -97,4 +97,16 @@ Full list with evidence: `docs/strain_identity_issues_2026-10-06.md` and `result
 
 ## 4. Open work (GitHub issues)
 
-ISSUE_TABLE
+Tracking issue: [Rhodmuc_PopulationGenomics#7](https://github.com/stajichlab/Rhodmuc_PopulationGenomics/issues/7)
+
+| Issue | Topic | Needs |
+|---|---|---|
+| [#1](https://github.com/stajichlab/Rhodmuc_PopulationGenomics/issues/1) | EXF_1695 (likely mixed culture) is still in rmuc_core | decision; re-isolation |
+| [#2](https://github.com/stajichlab/Rhodmuc_PopulationGenomics/issues/2) | 16 phenotype-table species conflicts, enriched in near-identical groups | ITS on the phenotyped cultures |
+| [#3](https://github.com/stajichlab/Rhodmuc_PopulationGenomics/issues/3) | SeqCoast 9003 batch: 5 mismatched libraries, 3 species conflicts, DBVPG_6094 | lab tube check, plate map |
+| [#4](https://github.com/stajichlab/Rhodmuc_PopulationGenomics/issues/4) | TFCN_86C-3 = DBVPG_6742 / DBVPG_4304 | diagnostic SNPs in the original stock |
+| [#5](https://github.com/stajichlab/Rhodmuc_PopulationGenomics/issues/5) | `metadata.txt` rows for the rescued strains | data entry |
+| [#6](https://github.com/stajichlab/Rhodmuc_PopulationGenomics/issues/6) | CG001-only tree from all SNPs | analysis |
+| [nf_genotype_population#7](https://github.com/stajichlab/nf_genotype_population/issues/7) | merge `fix/homref-dp-mask` (pushed) | review and merge |
+| [Rhodotorula_StrainDB#1](https://github.com/stajichlab/Rhodotorula_StrainDB/issues/1) | apply the StrainDB fixes; rename the 43 hybrids? | edits to the import files |
+| [ExtremeRhodotorula_Rodeyo#1](https://github.com/stajichlab/ExtremeRhodotorula_Rodeyo/issues/1) | reload the species table after 4 relabels | DB reload |
